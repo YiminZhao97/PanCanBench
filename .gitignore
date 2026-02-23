@@ -1,3 +1,5 @@
-i.env
+Data/grades/
+Data/Response/
+.env
 .DS_Store
 
