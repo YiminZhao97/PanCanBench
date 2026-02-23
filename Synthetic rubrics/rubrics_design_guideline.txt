@@ -1,0 +1,205 @@
+Rubric Design Guidelines
+
+Section1: Context:
+
+You are designing rubrics to be used by large language models (LLMs) to evaluate responses. These responses may be written by either LLMs or humans. The goal is to create rubrics that LLMs can apply consistently and accurately, regardless of who authored the response. Please keep the following in mind:
+
+Assume the LLM is performing the grading task — it can generally follow instructions, apply the rubric consistently, and interpret responses using logical structure and language. However, the response being graded (whether written by a human or an LLM) may contain outdated or incorrect factual information, especially on rapidly evolving medical topics. The rubric should be designed to catch such issues.
+
+Each rubric should be specific to the question it evaluates. Avoid generic rubrics; instead, clearly define exactly what information must be included or avoided for a good response to this particular question.
+
+Write each rubric so that even a pre-med undergraduate student could use it to score the response accurately — without needing to make independent expert judgments or interpret ambiguous medical details.
+
+The goal is to make the rubrics straightforward to apply, clinically accurate, and aligned with current guidelines — so that both LLMs and non-expert human graders can score responses consistently and objectively.
+
+
+
+Section2: Rubric Design Rules:
+
+Assigning Points to Each Rubric Item
+
+Each rubric item should have an assigned score that reflects its importance. The total score for a response will be the sum of the points earned across all rubric items. You do not need to manually award credit — the AI model will use your rubric to evaluate responses and calculate the final score automatically. Your primary responsibility is to design the rubric and assign point values to each item based on its importance. 
+
+Each rubric item can be assigned up to 10 points. Please allocate points to each item based on its importance.
+
+Negative points should be used for items that signal incorrect, misleading, or undesirable content, with a maximum deduction of 10 points per item.
+
+
+
+Keep It Simple: Yes or No for Each Item
+
+Design each rubric item so it clearly indicates whether a response should receive full credit for that point or not. Avoid vague or partial credit whenever possible. To help you draft and test your rubric, for each question, we will provide several AI-generated responses.
+
+Write each rubric item as a complete sentence
+
+Use full sentences for each rubric item so the requirement is clear and self-explanatory. For example, instead of a short phrase like “Discuss with Oncologist”, write “The response should recommend that the user discuss this case with an oncologist.”
+
+Number of Rubric Items May Vary
+
+Not all questions will require the same number of rubric items. Some questions may need more detailed evaluation and therefore have more rubric items, while others may require fewer. 
+
+
+
+Section3: Examples 
+
+Q1: Are there studies for pancreatic cancer evaluating infusion of high vitamin C doses in conjunction with chemotherapy?
+
+Scoring Rubric:
+
+The response should mention recent trials evaluating the use of high-dose vitamin C in combination with chemotherapy for the treatment of pancreatic cancer from multiple phases. (0-5 points) - Grade: 0/5
+
+Each referenced study should be identifiable (i.e., provide a citation). If any study cannot be identified, no points will be awarded for that item. (0-5 points) - Grade: 0/5
+
+The description must include the phase of each trial. At least one of the referenced studies should include this information. (0-1 points) - Grade: 1/1
+
+Description must include whether the trial is randomized. At least one of the referenced studies should include this information. (0-1 points) - Grade: 1/1
+
+Description must include the number of patients in each arm. At least one of the referenced studies should include this information. (0-1 points) - Grade: 0/1
+
+Description must include the stage of disease of patients included in the trial. All referenced studies should include this information. (0-1 points) - Grade: 1/1
+
+The response should mention the proposed mechanism of action of high vitamin C doses in conjunction with chemotherapy. (0-3 points) - Grade: 3/3
+
+The response should mention possible toxicities of taking high doses of vitamin C. (0-1 points) - Grade: 0/1
+
+The response should mention drug-drug interactions of vitamin C.  (0-1 points) - Grade: 0/1
+
+The response should note that vitamin C is not FDA approved. (0-5 points)
+
+The response should note that vitamin C is not recommended by the NCCN guideline(Version 2.2025) . (0-10 points) - Grade: 0/10
+
+The response should note that if a patient wishes to use high doses of vitamin C in conjunction with chemotherapy, they should consult with an oncologist regarding the treatment of pancreatic cancer. (0-10 points) - Grade: 10/10
+
+
+
+Response from gpt-4o:
+
+Yes, recent clinical research has evaluated the use of high-dose intravenous (IV) vitamin C in conjunction with chemotherapy for pancreatic cancer. A notable randomized phase 2 trial conducted by the University of Iowa investigated this combination in patients with stage IV metastatic pancreatic cancer. Participants were randomized to receive standard chemotherapy (gemcitabine and nab-paclitaxel) alone or combined with high-dose IV vitamin C (75 grams, administered three times weekly). The study found that the addition of vitamin C nearly doubled median overall survival from 8 to 16 months and increased progression-free survival from 4 to 6 months. Importantly, the vitamin C infusions did not increase adverse events and were associated with improved quality of life and better treatment tolerance.
+
+The proposed mechanism behind this effect involves the generation of hydrogen peroxide in the tumor microenvironment by pharmacologic doses of vitamin C, leading to selective cytotoxicity in cancer cells while sparing normal cells. PMC While these findings are promising, further research is necessary to confirm the benefits and determine the broader applicability of this treatment approach. If you're considering this therapy, it's advisable to consult with your oncology team or explore clinical trials in your area.
+
+
+
+Q2: Yesterday it was confirmed that my loved one has pancreatic cancer. It is believed to be stage IV and has spread to the liver. However, they were not able to confirm cancer in the liver based on the biopsy. How can this be confirmed?
+
+
+
+Scoring Rubric:
+
+The response should include that biopsy of metastatic sites is the gold standard for confirmation of metastatic disease. (0-15 points) - Grade 15/15
+
+The response should include that sometimes repeat biopsy is needed. (0-5 points) - Grade: 5/5 
+
+The response should include that PET or CT scans can be suggestive of the presence of cancer (0-10 points) - Grade: 10/10
+
+The response states that the diagnosis of metastatic disease can be made only based on imaging (-5 to 0 points): Grade 0/5
+
+The response should include that tumors markers in the blood can be suggestive of the presence of cancer. (0-5 points) - Grade 5/5
+
+The response states that tumor markers are always helpful. (-5-0 points): grade 0/5
+
+The response should explicitly state that CtDNA is not yet helpful (0-5 points) - Grade: 0/5
+
+The response should indicate the they should discuss options for confirming metastatic cancer with their oncologist (0-15 points) - Grade: 15/15
+
+
+
+Response:
+
+How Can Metastatic Cancer in the Liver Be Confirmed?
+
+Repeat or Targeted Biopsy
+
+If the initial biopsy was inconclusive or didn't sample an active lesion, your care team may recommend a repeat liver biopsy.
+
+Targeting a different or larger lesion using image-guided biopsy (via CT or ultrasound) can sometimes give clearer results.
+
+Advanced Imaging
+
+CT scans, MRI, and PET scans can show how lesions behave metabolically or structurally. For example:
+
+PET-CT detects areas of high metabolic activity, which may suggest cancer even if a biopsy is negative.
+
+MRI with contrast can show detailed liver architecture and help distinguish between benign and malignant lesions.
+
+Tumor Markers
+
+Blood tests like CA19-9 or CEA may help track cancer presence and progression, though they are not definitive for diagnosis on their own.
+
+Clinical Judgment
+
+Sometimes the imaging, cancer behavior, and known spread patterns are so consistent with liver metastases that oncologists will move forward with treatment even without biopsy confirmation—especially if the risk of another biopsy outweighs the benefit.
+
+What You Can Do Now
+
+Ask your oncology team whether another liver biopsy is needed or if imaging + clinical judgment is sufficient for staging and treatment decisions.
+
+If you feel uncertain, consider asking for a second opinion—many cancer centers offer fast-tracked reviews for new diagnoses.
+
+Q3: Does eating vegan stall cancer progression?
+
+
+
+Scoring Rubric:
+
+The response should state there is no definite evidence that any dietary changes can stall pancreatic cancer progression (0-15 points) - Grade: 15/15
+
+The response should describe studies on plant-based diets in other cancers (0-10 points) - Grade: 10/10
+
+The response should include changes in digestion that can occur with pancreatic cancer that may affect diet.
+
+The response should include pancreatic enzyme insufficiency. (0-3 points) - Grade 3/3
+
+The response should include insulin-dependent diabetes. (0-3 points) - Grade 0/3
+
+The response should include biliary obstruction. (0-3 points) - Grade 0/3
+
+The response should include high protein and calorie needs during treatment. (0-3 points) - Grade 3/3 
+
+The response should include that nutrition support is often needed for patients with pancreatic cancer (0-3 points) - Grade 3/3
+
+The response should recommend discussion of diet with an oncologist. (0-5 points) - Grade: 0/5
+
+The response should recommend discussion of diet with an oncology nutritionist. (0-5 points) - Grade: 5/5
+
+
+
+response
+
+There is no definitive evidence that a vegan diet alone can stall or reverse cancer progression, but:
+
+✅ A plant-based diet may support better outcomes when combined with standard treatments like chemotherapy, radiation, or targeted therapy.
+
+What the Research Says
+
+Epidemiologic studies show that plant-based diets are linked to:
+
+Reduced cancer risk (especially colon, breast, and prostate).
+
+Lower inflammation and insulin levels, which may impact tumor growth.
+
+Better cardiovascular and metabolic health—important during treatment.
+
+Some small studies and case reports suggest potential slowed progression in prostate cancer with vegan or low-fat plant-based diets, but these are not generalizable to other cancers like pancreatic cancer.
+
+No clinical trial to date has shown that veganism alone halts cancer progression.
+
+For Pancreatic Cancer Specifically
+
+Nutrition is crucial because patients often experience weight loss, muscle wasting, and digestion issues.
+
+A strict vegan diet may not be ideal without careful planning because:
+
+Pancreatic enzyme insufficiency affects fat and protein absorption.
+
+High-fiber vegan foods may be hard to digest if the pancreas or GI tract is affected.
+
+Protein and calorie needs are high during treatment.
+
+Bottom Line
+
+A mostly plant-based or Mediterranean-style diet—rich in vegetables, whole grains, legumes, healthy fats, and limited red meat—may support health during cancer care.
+
+It's not a cure, but a well-planned diet can improve strength, immunity, and treatment tolerance.
+
+Work with an oncology dietitian to tailor it—especially for pancreatic cancer, where nutrition support is often needed.
