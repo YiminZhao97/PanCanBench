@@ -4,7 +4,9 @@ PanCanBench is a benchmark of 282 de-identified authentic pancreatic cancer pati
 
 ## Data Availability
 
-The question-rubrics are available on
+The question-rubrics are available on https://huggingface.co/datasets/YiminZ07/PanCanBench. 
 
 ## Citation
+
+The manuscript is available at https://arxiv.org/abs/2603.01343.
 
