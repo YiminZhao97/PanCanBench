@@ -1,0 +1,219 @@
+{
+  "figure": "5a-b",
+  "ordering": "provider_then_mean_percentage_descending",
+  "provider_order": [
+    "OpenAI",
+    "Google",
+    "xAI",
+    "Anthropic",
+    "Meta",
+    "Ai2",
+    "Alibaba"
+  ],
+  "provider_headings": {
+    "OpenAI": "GPT Family (OpenAI)",
+    "Google": "Gemini/Gemma (Google)",
+    "xAI": "Grok (xAI)",
+    "Anthropic": "Claude (Anthropic)",
+    "Meta": "Llama (Meta)",
+    "Ai2": "OLMo (Ai2)",
+    "Alibaba": "Qwen (Alibaba)"
+  },
+  "font_family": "Helvetica",
+  "judge_model": "claude-opus-5",
+  "prompt_version": "pancanbench-weighted-judge-v1",
+  "rubrics_file": "grades/scoring_rubrics.json",
+  "rubrics_sha256": "96a387bf526a33569f126cfa42fc827637359291648d3b3f04bf248035231bee",
+  "expected_questions": 282,
+  "expected_rubric_items": 3639,
+  "expected_models": 22,
+  "provider_colors": {
+    "OpenAI": "#0072B2",
+    "Google": "#E69F00",
+    "xAI": "#009E73",
+    "Anthropic": "#D55E00",
+    "Meta": "#CC79A7",
+    "Ai2": "#56B4E9",
+    "Alibaba": "#F0E442"
+  },
+  "grade_files": {
+    "openai": "grades/openai_family_response_graded.jsonl",
+    "gpt5": "grades/gpt5_response_graded.jsonl",
+    "grok": "grades/grok_response_graded.jsonl",
+    "gemini": "grades/gemini_family_response_graded.jsonl",
+    "anthropic": "grades/anthropic_family_response_graded.jsonl",
+    "opensource": "grades/all_opensource_models_final_outputs_temp0.7_response_graded.jsonl",
+    "olmo3": "grades/allenai_olmo-3-32b-think_response_graded.jsonl",
+    "olmo31": "grades/allenai_olmo-3.1-32b-instruct_response_graded.jsonl"
+  },
+  "models": [
+    {
+      "id": "o3",
+      "label": "o3",
+      "provider": "OpenAI",
+      "source": "openai"
+    },
+    {
+      "id": "o4-mini",
+      "label": "o4-mini",
+      "provider": "OpenAI",
+      "source": "openai"
+    },
+    {
+      "id": "gpt-5",
+      "label": "GPT-5",
+      "provider": "OpenAI",
+      "source": "gpt5"
+    },
+    {
+      "id": "gpt-4.1",
+      "label": "GPT-4.1",
+      "provider": "OpenAI",
+      "source": "openai"
+    },
+    {
+      "id": "gpt-4o",
+      "label": "GPT-4o",
+      "provider": "OpenAI",
+      "source": "openai"
+    },
+    {
+      "id": "gemini-2.5-flash",
+      "label": "Gemini 2.5 Flash",
+      "provider": "Google",
+      "source": "gemini"
+    },
+    {
+      "id": "gemini-2.5-pro",
+      "label": "Gemini 2.5 Pro",
+      "provider": "Google",
+      "source": "gemini"
+    },
+    {
+      "id": "google_gemma-3-27b-it",
+      "label": "Gemma 3 27B IT",
+      "provider": "Google",
+      "source": "opensource"
+    },
+    {
+      "id": "google_gemma-3-12b-it",
+      "label": "Gemma 3 12B IT",
+      "provider": "Google",
+      "source": "opensource"
+    },
+    {
+      "id": "grok-4-latest",
+      "label": "Grok 4",
+      "provider": "xAI",
+      "source": "grok"
+    },
+    {
+      "id": "claude-opus-4-1-20250805",
+      "label": "Claude Opus 4.1",
+      "provider": "Anthropic",
+      "source": "anthropic"
+    },
+    {
+      "id": "claude-opus-4-20250514",
+      "label": "Claude Opus 4",
+      "provider": "Anthropic",
+      "source": "anthropic"
+    },
+    {
+      "id": "claude-sonnet-4-5-20250929",
+      "label": "Claude Sonnet 4.5",
+      "provider": "Anthropic",
+      "source": "anthropic"
+    },
+    {
+      "id": "claude-sonnet-4-20250514",
+      "label": "Claude Sonnet 4",
+      "provider": "Anthropic",
+      "source": "anthropic"
+    },
+    {
+      "id": "claude-haiku-4-5-20251001",
+      "label": "Claude Haiku 4.5",
+      "provider": "Anthropic",
+      "source": "anthropic"
+    },
+    {
+      "id": "meta-llama_Llama-3.1-70B-Instruct",
+      "label": "Llama 3.1 70B Instruct",
+      "provider": "Meta",
+      "source": "opensource"
+    },
+    {
+      "id": "meta-llama_Llama-3.1-8B-Instruct",
+      "label": "Llama 3.1 8B Instruct",
+      "provider": "Meta",
+      "source": "opensource"
+    },
+    {
+      "id": "allenai_olmo-3-32b-think",
+      "label": "OLMo 3 32B Think",
+      "provider": "Ai2",
+      "source": "olmo3"
+    },
+    {
+      "id": "allenai_olmo-3.1-32b-instruct",
+      "label": "OLMo 3.1 32B Instruct",
+      "provider": "Ai2",
+      "source": "olmo31"
+    },
+    {
+      "id": "Qwen_Qwen3-32B",
+      "label": "Qwen3 32B",
+      "provider": "Alibaba",
+      "source": "opensource"
+    },
+    {
+      "id": "Qwen_Qwen3-14B",
+      "label": "Qwen3 14B",
+      "provider": "Alibaba",
+      "source": "opensource"
+    },
+    {
+      "id": "Qwen_Qwen3-8B",
+      "label": "Qwen3 8B",
+      "provider": "Alibaba",
+      "source": "opensource"
+    }
+  ],
+  "excluded_models_in_grade_files": [
+    "allenai_OLMo-2-0325-32B-Instruct",
+    "allenai_OLMo-2-1124-13B-Instruct",
+    "allenai_OLMo-2-1124-7B-Instruct"
+  ],
+  "excluded_responses": [
+    {
+      "response_model": "claude-opus-4-1-20250805",
+      "question_id": "Q267",
+      "reason": "NO RESPONSE GENERATED"
+    }
+  ],
+  "grading_rubrics_file": "grades/grading_rubrics_snapshot.json",
+  "scoring_rubrics_sha256": "b7973d9b7fdcefb8fba38cffa278373fc74f3a899e2f1f7e58433487d0c9224a",
+  "scoring_corrections": [
+    {
+      "correction_id": "q151-item12-negative-weight",
+      "question_id": "Q151",
+      "criterion_number": 12,
+      "before": {
+        "min_points": 0,
+        "max_points": 5
+      },
+      "after": {
+        "min_points": -5,
+        "max_points": 0
+      },
+      "method": "Local weight correction with original decisions and rationales retained; no model regrading."
+    }
+  ],
+  "synthetic_prompt_version": "synthetic-rubric-293798cb50fae18c",
+  "synthetic_rubrics_sha256": "03e07da2d386b2e711cc82d515e54ff5dd5f67f80ebbd7ed152472e32dad81f4",
+  "synthetic_original_sha256": "d98bc7474011afbd9b9ff9395c44a1ae2c7a2ca3dbb8d6e56542265a195634a5",
+  "expected_synthetic_rubric_items": 3646,
+  "expected_paired_responses": 6203,
+  "review_note": "The saved synthetic grades include 35 unadjudicated interpretation/direction flags. No synthetic scores were manually changed for Figure 5."
+}

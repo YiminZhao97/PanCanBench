@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "models": 22,
+  "paired_responses": 6203,
+  "mean_sd_se_and_ranks": "Independent NumPy recomputation agrees with both saved tables",
+  "saved_reference_means": "All 44 means match original grade summary files",
+  "figure4_human_score_crosscheck": "passed",
+  "plot_checksums": "passed",
+  "api_calls": 0,
+  "input_sha256": "a04eab70d7181c52fc42c6f6dd417cae8b7147d93d146b9933e27a9b4cb1d729"
+}

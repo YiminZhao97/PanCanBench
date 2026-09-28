@@ -1,0 +1,422 @@
+{
+  "config_sha256": "a1f44d580f1705eeec911df5b8ca105b62b5f4895e97bddc85e625e5e367df2a",
+  "paired_question_scores_sha256": "a04eab70d7181c52fc42c6f6dd417cae8b7147d93d146b9933e27a9b4cb1d729",
+  "models": 22,
+  "paired_responses": 6203,
+  "matching_response_input_hashes": 6203,
+  "validation": {
+    "human": {
+      "grade_records_validated": 6204,
+      "included": 6203,
+      "criterion_decisions_validated": 80058,
+      "excluded_model_records": {
+        "allenai_OLMo-2-0325-32B-Instruct": 282,
+        "allenai_OLMo-2-1124-13B-Instruct": 282,
+        "allenai_OLMo-2-1124-7B-Instruct": 282
+      }
+    },
+    "synthetic": {
+      "grade_records_validated": 6203,
+      "included": 6203,
+      "criterion_decisions_validated": 80201,
+      "excluded_model_records": {}
+    }
+  },
+  "reference_summaries": {
+    "human": {
+      "gpt-4.1": {
+        "n": 282,
+        "mean_percentage": 69.87181033750453
+      },
+      "gpt-4o": {
+        "n": 282,
+        "mean_percentage": 52.70885188794069
+      },
+      "o3": {
+        "n": 282,
+        "mean_percentage": 82.19016231919169
+      },
+      "o4-mini": {
+        "n": 282,
+        "mean_percentage": 72.39428708435221
+      },
+      "gpt-5": {
+        "n": 282,
+        "mean_percentage": 78.6744312716132
+      },
+      "grok-4-latest": {
+        "n": 282,
+        "mean_percentage": 81.58519344349031
+      },
+      "gemini-2.5-flash": {
+        "n": 282,
+        "mean_percentage": 75.54238886677379
+      },
+      "gemini-2.5-pro": {
+        "n": 282,
+        "mean_percentage": 71.86481377985685
+      },
+      "claude-opus-4-20250514": {
+        "n": 282,
+        "mean_percentage": 54.20286572527267
+      },
+      "claude-sonnet-4-20250514": {
+        "n": 282,
+        "mean_percentage": 52.11217205214554
+      },
+      "claude-haiku-4-5-20251001": {
+        "n": 282,
+        "mean_percentage": 51.696856305294105
+      },
+      "claude-opus-4-1-20250805": {
+        "n": 281,
+        "mean_percentage": 54.9674345000588
+      },
+      "claude-sonnet-4-5-20250929": {
+        "n": 282,
+        "mean_percentage": 54.68964234924625
+      },
+      "Qwen_Qwen3-8B": {
+        "n": 282,
+        "mean_percentage": 60.99047163591493
+      },
+      "Qwen_Qwen3-32B": {
+        "n": 282,
+        "mean_percentage": 66.23526366181561
+      },
+      "meta-llama_Llama-3.1-70B-Instruct": {
+        "n": 282,
+        "mean_percentage": 52.99735753748877
+      },
+      "Qwen_Qwen3-14B": {
+        "n": 282,
+        "mean_percentage": 59.72449811364505
+      },
+      "google_gemma-3-27b-it": {
+        "n": 282,
+        "mean_percentage": 70.49488941527868
+      },
+      "google_gemma-3-12b-it": {
+        "n": 282,
+        "mean_percentage": 70.22262501017784
+      },
+      "meta-llama_Llama-3.1-8B-Instruct": {
+        "n": 282,
+        "mean_percentage": 48.60837369750351
+      },
+      "allenai_olmo-3-32b-think": {
+        "n": 282,
+        "mean_percentage": 68.57569559833303
+      },
+      "allenai_olmo-3.1-32b-instruct": {
+        "n": 282,
+        "mean_percentage": 62.87920642515407
+      }
+    },
+    "synthetic": {
+      "gpt-4.1": {
+        "n": 282,
+        "mean_percentage": 86.61653236222021
+      },
+      "gpt-4o": {
+        "n": 282,
+        "mean_percentage": 78.30121562372918
+      },
+      "o3": {
+        "n": 282,
+        "mean_percentage": 94.39934457321708
+      },
+      "o4-mini": {
+        "n": 282,
+        "mean_percentage": 89.44857544463542
+      },
+      "gpt-5": {
+        "n": 282,
+        "mean_percentage": 93.16967037139334
+      },
+      "grok-4-latest": {
+        "n": 282,
+        "mean_percentage": 96.02409933775685
+      },
+      "gemini-2.5-pro": {
+        "n": 282,
+        "mean_percentage": 89.57876140531542
+      },
+      "gemini-2.5-flash": {
+        "n": 282,
+        "mean_percentage": 92.20547394548446
+      },
+      "claude-opus-4-1-20250805": {
+        "n": 281,
+        "mean_percentage": 73.50399106550518
+      },
+      "claude-opus-4-20250514": {
+        "n": 282,
+        "mean_percentage": 74.39695511778442
+      },
+      "claude-sonnet-4-5-20250929": {
+        "n": 282,
+        "mean_percentage": 75.3106840307335
+      },
+      "claude-sonnet-4-20250514": {
+        "n": 282,
+        "mean_percentage": 72.98536574106004
+      },
+      "claude-haiku-4-5-20251001": {
+        "n": 282,
+        "mean_percentage": 72.43613946656198
+      },
+      "Qwen_Qwen3-8B": {
+        "n": 282,
+        "mean_percentage": 77.1054738049965
+      },
+      "Qwen_Qwen3-14B": {
+        "n": 282,
+        "mean_percentage": 76.84352142670869
+      },
+      "Qwen_Qwen3-32B": {
+        "n": 282,
+        "mean_percentage": 83.3692462657943
+      },
+      "google_gemma-3-12b-it": {
+        "n": 282,
+        "mean_percentage": 86.20926949890104
+      },
+      "google_gemma-3-27b-it": {
+        "n": 282,
+        "mean_percentage": 86.78807955605507
+      },
+      "meta-llama_Llama-3.1-8B-Instruct": {
+        "n": 282,
+        "mean_percentage": 59.39618359984349
+      },
+      "meta-llama_Llama-3.1-70B-Instruct": {
+        "n": 282,
+        "mean_percentage": 69.89475315659601
+      },
+      "allenai_olmo-3-32b-think": {
+        "n": 282,
+        "mean_percentage": 87.32142363232353
+      },
+      "allenai_olmo-3.1-32b-instruct": {
+        "n": 282,
+        "mean_percentage": 81.14035336855443
+      }
+    }
+  },
+  "sources": [
+    {
+      "kind": "human",
+      "role": "canonical_rubrics",
+      "filename": "scoring_rubrics.json",
+      "sha256": "b7973d9b7fdcefb8fba38cffa278373fc74f3a899e2f1f7e58433487d0c9224a"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "openai_family_response_graded.jsonl",
+      "sha256": "7c406252e5a489917ca30808759279025021819ea96d6bcce9158856d90616ae"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "openai_family_response_graded.summary.json",
+      "sha256": "780d9c7125655422016b1ca650cbcf33a8042d51936a0f21d883789323e085e8"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "gpt5_response_graded.jsonl",
+      "sha256": "13c6f34eff7b2184f3f01077d0df20e3119fb959a4fb4eda4659da855b90477d"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "gpt5_response_graded.summary.json",
+      "sha256": "346e9c2bc24a8e9e098329f119027d5661a6f683b3c4e732d1809f7fcbf57fa1"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "grok_response_graded.jsonl",
+      "sha256": "120070ca76b937a073be74f2d40d3fd2a0cdf5905d1c0f478840fe3d08a0a509"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "grok_response_graded.summary.json",
+      "sha256": "fb12726d57e12991fd5f41bd982402d90d8cfa320a8e0607c1868fe978fce7eb"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "gemini_family_response_graded.jsonl",
+      "sha256": "00f4f20f3a60e0a1ecaa0d47dc4bc856b0f6b0f553fe8543996b58c1d27baabd"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "gemini_family_response_graded.summary.json",
+      "sha256": "ed34ff6b67be069ababda00a1af71749b4f81e0d0ffe48280e4c859fe9bfb1c1"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "anthropic_family_response_graded.jsonl",
+      "sha256": "84d9dfb0ad1e69e38a15c9efb35ba4796affa08cef4ffe267feeda0b7eadcc62"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "anthropic_family_response_graded.summary.json",
+      "sha256": "2b3a70536c2119f06dc4fdf5e648f73387e71ba23eea8d7b8b1a30647fdbbd90"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "all_opensource_models_final_outputs_temp0.7_response_graded.jsonl",
+      "sha256": "5cdc735b4b4f3705b51d6b48bc01b390e6f46d7dba52c1be294be5d878fa569c"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "all_opensource_models_final_outputs_temp0.7_response_graded.summary.json",
+      "sha256": "38ca35b98b0abb2e8676af915fd876f3fccbfe3f3c2075f8f23e661c7f9ef555"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "allenai_olmo-3-32b-think_response_graded.jsonl",
+      "sha256": "2faed1bebc9f1fec711f8cd4106bf6bd22cc5f8b28141691aaa4bc1dfcd80f98"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "allenai_olmo-3-32b-think_response_graded.summary.json",
+      "sha256": "824c47614d14f7d41689439daf8ce4fa8d29400c552bd7efece324f55c7df6d4"
+    },
+    {
+      "kind": "human",
+      "role": "grades",
+      "filename": "allenai_olmo-3.1-32b-instruct_response_graded.jsonl",
+      "sha256": "f91c0965f31dcb7038943fdacd031b252814d1f066a12f4c059f699330e3621d"
+    },
+    {
+      "kind": "human",
+      "role": "summary",
+      "filename": "allenai_olmo-3.1-32b-instruct_response_graded.summary.json",
+      "sha256": "622e9f382c4b9f51edaa811592620b4f717e33a664b2faebba4e31a581f0253a"
+    },
+    {
+      "kind": "synthetic",
+      "role": "canonical_rubrics",
+      "filename": "synthetic_rubrics_original.jsonl",
+      "sha256": "d98bc7474011afbd9b9ff9395c44a1ae2c7a2ca3dbb8d6e56542265a195634a5"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "openai_family_response_graded.jsonl",
+      "sha256": "d558ce2dff9f926be55111a80f155404dfd003197c62c48b486cb1f5463cb57a"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "openai_family_response_graded.summary.json",
+      "sha256": "de61b5ad490a6578da30d1aa272204d84c27acbbe6705fb11b839098c78d8779"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "gpt5_response_graded.jsonl",
+      "sha256": "8fba290f028513a8c82da8586562febaa027aa6b398edfd51bbc547ee8e741c3"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "gpt5_response_graded.summary.json",
+      "sha256": "c221f74ba5b3f1e512bbf9ae1150137a005fb480b2aa3c4aed8a246db41804d0"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "grok_response_graded.jsonl",
+      "sha256": "57602c514ceda90449b671ca59cff7953c6018049876f96501948f52e19448bd"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "grok_response_graded.summary.json",
+      "sha256": "280b53bdcaca980289f24b4ba6a0099386dddaab9b4f030bb218629314c71268"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "gemini_family_response_graded.jsonl",
+      "sha256": "7e7b175b68fb92965082b90538fa39d60c20d48c008059519bb7159f5455e4b4"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "gemini_family_response_graded.summary.json",
+      "sha256": "30764771cddb762b8e9a72e666091bb30a9e70be7c4594197fff7d6aa51baf48"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "anthropic_family_response_graded.jsonl",
+      "sha256": "e22742452578b991350c942b5821a8150fc16c5a0e3b623795915ffce2a77a13"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "anthropic_family_response_graded.summary.json",
+      "sha256": "d073e94ae472e39b367346ae32bca1470172b0d919394fb5a0d83aa4a5f3d2b9"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "all_opensource_models_final_outputs_temp0.7_response_graded.jsonl",
+      "sha256": "4ae1a7b27783a4e35a1a1f49b71c7bd97dbb8fad71933446e9bd460aca82040c"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "all_opensource_models_final_outputs_temp0.7_response_graded.summary.json",
+      "sha256": "c48b321948b01039211bde42cc70aebc6ef6145a80ee78935a308847c8fb97f9"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "allenai_olmo-3-32b-think_response_graded.jsonl",
+      "sha256": "94076c90fd7c180659f8aa49dde35ea4c40fdf59bedf313bcc478266729b4f33"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "allenai_olmo-3-32b-think_response_graded.summary.json",
+      "sha256": "602c446a70dab163aaa2f95bb0b8dc1ab57fe2103a89c612ad7669200ec8a8ed"
+    },
+    {
+      "kind": "synthetic",
+      "role": "grades",
+      "filename": "allenai_olmo-3.1-32b-instruct_response_graded.jsonl",
+      "sha256": "015fbb9656f1377ecb700e73194d2e997b4f3ed0e060c55195d4e2ea1a00c70f"
+    },
+    {
+      "kind": "synthetic",
+      "role": "summary",
+      "filename": "allenai_olmo-3.1-32b-instruct_response_graded.summary.json",
+      "sha256": "0b814e388b0b862f2e5ff9cf218c751187e0dbae1b5860065cd0073ba12e2d2b"
+    }
+  ],
+  "excluded_responses": [
+    {
+      "response_model": "claude-opus-4-1-20250805",
+      "question_id": "Q267",
+      "reason": "NO RESPONSE GENERATED"
+    }
+  ],
+  "review_note": "The saved synthetic grades include 35 unadjudicated interpretation/direction flags. No synthetic scores were manually changed for Figure 5.",
+  "validation_note": "Mechanical and provenance checks; not clinical adjudication of judge decisions"
+}

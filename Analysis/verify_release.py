@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reproduce and verify all eleven currently indexed paper results offline."""
+"""Reproduce and verify all thirteen currently indexed paper results offline."""
 from __future__ import annotations
 import argparse
 import csv
@@ -42,7 +42,9 @@ def main():
         commands += [['Analysis/figure4/plot_figure4a.py'],['Analysis/figure4/plot_figure4b.py'],
                      ['Analysis/figure4/plot_figure4c.py'],
                      ['Analysis/figure4/reproduce_figure4d.py','--citation-run','Data/citation_verification/full_40_2026-09-16'],
-                     ['Analysis/Appendix/run_all.py']]
+                     ['Analysis/Appendix/run_all.py'],
+                     ['Analysis/figure5/paired_barplot.py','--output-dir','Outputs/figure5'],
+                     ['Analysis/figure5/slopegraph_rank_change.py','--output-dir','Outputs/figure5']]
     for command in commands:
         subprocess.run([sys.executable,'-B',*command],cwd=ROOT,env=env,check=True)
     source=ROOT/'Analysis/figure4/expected_results.json'
@@ -62,10 +64,15 @@ def main():
     sys.path.insert(0,str(ROOT/'Analysis/Appendix'))
     from verify_results import verify
     checks=verify(ROOT/'Outputs/appendix')
-    report={'paper_results':11,'figure4':'passed','appendix':checks,'api_calls':0,
+    subprocess.run([sys.executable,'-B','Analysis/figure5/verify_results.py',
+                    '--output-dir','Outputs/figure5',
+                    '--figure4-summary','Outputs/figure4/figure4a_model_summary.csv'],
+                   cwd=ROOT,env=env,check=True)
+    figure5=json.loads((ROOT/'Outputs/figure5/verification_report.json').read_text())
+    report={'paper_results':13,'figure4':'passed','figure5':figure5,'appendix':checks,'api_calls':0,
             'figure4_expected_sha256':hashlib.sha256(source.read_bytes()).hexdigest()}
     (ROOT/'Outputs/reproduction_report.json').write_text(json.dumps(report,indent=2)+'\n')
-    print('PASS: Figure 4a–d and all seven appendix results match the saved references (11 results).')
+    print('PASS: Figures 4a–d, 5a–b, and all seven appendix results verified (13 results).')
 
 
 if __name__=='__main__':

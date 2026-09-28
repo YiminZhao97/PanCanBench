@@ -117,6 +117,10 @@ The tables below show how to reproduce the manuscript and appendix results, with
 | Figure 4b: factual errors | Two saved factual-error count tables in `Analysis/figure4/inputs/figure4b/`, shared model configuration, and Figure 4a's saved order | `Analysis/figure4/plot_figure4b.py` | PDF, PNG, overall rates, category matrix, provenance |
 | Figure 4c: scores with and without web search | Final rubrics and six final grade files; the original 40 citation-required questions | `Analysis/figure4/plot_figure4c.py` | PDF, PNG, and JSON containing paired scores, statistics, and provenance |
 | Figure 4d: web-search metrics | Frozen response/grade inputs plus the completed 40-question citation audit; historical modes also retained | `Analysis/figure4/reproduce_figure4d.py` | Markdown table and JSON containing counts, denominators, coverage, and provenance |
+| Figure 5a: human versus synthetic rubric scores | Included, verified question-level scores for the same 6,203 responses; model configuration and source provenance | `Analysis/figure5/paired_barplot.py` | PDF, PNG, mean/SE table, provenance |
+| Figure 5b: human versus synthetic rubric rankings | Same paired inputs as Figure 5a; ranks calculated from unrounded means | `Analysis/figure5/slopegraph_rank_change.py` | PDF, PNG, rank-change table, provenance |
+
+Figure 5 uses the completed human- and synthetic-rubric grades from Claude Opus 5 on the same 6,203 eligible responses across 22 models. Verified question-level score inputs are included under `Analysis/figure5/inputs/`, so these panels can be reproduced without API calls or a new data-bundle download. The saved synthetic grades retain 35 interpretation/direction flags pending adjudication; no scores were manually changed for these plots. See [Figure 5 reproduction notes](Analysis/figure5/README.md) for scoring, exclusions, source hashes, and rebuilding inputs from raw grades.
 
 ### Appendix
 
@@ -138,4 +142,14 @@ With the saved inputs available, run the following commands from the repository 
 python Analysis/verify_release.py --run
 ```
 
-Manuscript outputs are saved to `Outputs/figure4/`; appendix outputs are saved to `Outputs/appendix/`. The runner verifies the saved inputs and checks all 11 listed results against reference values. To run only the appendix, use `python Analysis/Appendix/run_all.py`.
+Manuscript outputs are saved to `Outputs/figure4/` and `Outputs/figure5/`; appendix outputs are saved to `Outputs/appendix/`. The runner verifies the saved inputs and checks all 13 listed results, including an independent recomputation of Figure 5 means, standard errors, and ranks and a cross-check of its human scores against Figure 4a. To run only the appendix, use `python Analysis/Appendix/run_all.py`.
+
+To regenerate only Figure 5:
+
+```bash
+python Analysis/figure5/paired_barplot.py --output-dir Outputs/figure5
+python Analysis/figure5/slopegraph_rank_change.py --output-dir Outputs/figure5
+python Analysis/figure5/verify_results.py --output-dir Outputs/figure5
+```
+
+The materials-folder and repository `Analysis/figure5/` copies also contain the verified plots. Running either plotting script without `--output-dir` saves its output alongside the script.

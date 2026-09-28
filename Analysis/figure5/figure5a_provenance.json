@@ -1,0 +1,54 @@
+{
+  "figure": "figure5a",
+  "judge_model": "claude-opus-5",
+  "paired_responses": 6203,
+  "models": 22,
+  "score_definition": "100 * signed total / sum of positive rubric weights; no clipping or additional factual-error deduction",
+  "aggregation": "Unweighted mean across eligible questions; sample SD / sqrt(n) for SE",
+  "rank_definition": "Descending mean; competition ranking (method=min); positive rank_change means improvement with synthetic rubrics",
+  "excluded_responses": [
+    {
+      "response_model": "claude-opus-4-1-20250805",
+      "question_id": "Q267",
+      "reason": "NO RESPONSE GENERATED"
+    }
+  ],
+  "excluded_models": [
+    "allenai_OLMo-2-0325-32B-Instruct",
+    "allenai_OLMo-2-1124-13B-Instruct",
+    "allenai_OLMo-2-1124-7B-Instruct"
+  ],
+  "human_scoring_corrections": [
+    {
+      "correction_id": "q151-item12-negative-weight",
+      "question_id": "Q151",
+      "criterion_number": 12,
+      "before": {
+        "min_points": 0,
+        "max_points": 5
+      },
+      "after": {
+        "min_points": -5,
+        "max_points": 0
+      },
+      "method": "Local weight correction with original decisions and rationales retained; no model regrading."
+    }
+  ],
+  "review_note": "The saved synthetic grades include 35 unadjudicated interpretation/direction flags. No synthetic scores were manually changed for Figure 5.",
+  "comparison_note": "Same response inputs and judge; rubric sets and grading prompts differ",
+  "paired_question_scores_sha256": "a04eab70d7181c52fc42c6f6dd417cae8b7147d93d146b9933e27a9b4cb1d729",
+  "config_sha256": "a1f44d580f1705eeec911df5b8ca105b62b5f4895e97bddc85e625e5e367df2a",
+  "font": "Helvetica",
+  "matplotlib": "3.9.2",
+  "source_code_sha256": {
+    "figure5_common.py": "f0db62d79871fc83a183b0b499b3ae586ab9aaba1237961e8f35995bfca43e18",
+    "paired_barplot.py": "8f3bac0f32020b3250566e8c2ba8dcd4e8d60287a7993385fae69dce39ea0f38",
+    "prepare_inputs.py": "ac5e750c3aeb5524d41c09f3c76a36879f5bc5e440cbe53fa2f5bb9af92d82ab",
+    "slopegraph_rank_change.py": "e4fc494442f99dc80e8c496dc05ed869fd53fd6180094544fe82675260afeca2",
+    "verify_results.py": "dce7f7a9af044b0fd6a2bc74d0f9f355f6dbd0eb46865eb7281a89f6796ead58"
+  },
+  "outputs_sha256": {
+    "figure5a.pdf": "d0c18495d8ec1a875bbb59bf5dec1a817f5c0d4476f5d51575ba40054f83519b",
+    "figure5a.png": "e1673c67ce9d333afc25b58623a31424e362a3552a9816ede3c57ee1dab2dbe8"
+  }
+}
