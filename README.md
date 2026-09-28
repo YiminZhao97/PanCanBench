@@ -115,15 +115,6 @@ python Evaluation/direct_pairwise/compare.py \
   --judge-model gpt-5 --allow-full-run --output Outputs/direct_pairwise/gpt5_vs_grok4.json
 ```
 
-### Regenerate token-count tables
-
-Regenerate token-count tables from the original response text without model API calls:
-
-```bash
-python Analysis/Appendix/count_tokens.py --responses-dir Data/Response
-python Analysis/Appendix/supp_figure_6_token_distribution.py --responses-dir Data/Response
-```
-
 ### Paper-output index
 
 The tables below show how to reproduce the manuscript and appendix results, with the corresponding inputs, code, and outputs.
@@ -151,7 +142,7 @@ Figure 5 uses the completed human- and synthetic-rubric grades from Claude Opus 
 | Appendix Table S5: direct vs rubric pairwise agreement | Six retained GPT-5 direct-judgment files and four final Claude Opus 5 grade files | `Analysis/Appendix/table_s5_direct_judgment_agreement.py` | Table CSV/Markdown, 1,692 question-pair decisions, provenance |
 | Supplementary Figure 4: wrong-claim counts | Two frozen count tables under `Data/appendix/`; optional raw factuality files for validation | `Analysis/Appendix/supp_figures_4_5_wrong_claims.py` | PNG/PDF, wrong-claim counts CSV, shared provenance |
 | Supplementary Figure 5: wrong-claim percentages | Same saved count tables as Supplementary Figure 4 | `Analysis/Appendix/supp_figures_4_5_wrong_claims.py` | PNG/PDF, wrong-claim percentages CSV, shared provenance |
-| Supplementary Figure 6: response token distributions | Frozen per-response token counts under `Data/appendix/`; optional original response files | `Analysis/Appendix/supp_figure_6_token_distribution.py` | PNG/PDF plot, boxplot statistics, provenance |
+| Supplementary Figure 6: response token distributions | Frozen per-response token counts under `Data/appendix/`; optional original responses under `Data/Response/` | `Analysis/Appendix/supp_figure_6_token_distribution.py`; add `--responses-dir Data/Response` to recount from response text. Optional token-count tables: `python Analysis/Appendix/count_tokens.py --responses-dir Data/Response` (no API calls). | PNG/PDF plot, boxplot statistics, provenance; optional token-count CSVs |
 
 ### Run the analyses
 
