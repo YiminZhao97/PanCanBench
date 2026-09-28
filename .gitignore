@@ -1,7 +1,11 @@
-# Local datasets are distributed in a verified reproduction bundle.
+# Track core benchmark files; distribute other datasets in the reproduction bundle.
 Data/**
 !Data/input_manifest.json
 !Data/prepare_data.py
+!Data/Questions/
+!Data/Questions/pancreatic_cancer_questions_282.jsonl
+!Data/Rubrics/
+!Data/Rubrics/rubrics_all_questions_final_version.json
 # Generated analysis and API outputs.
 Outputs/
 **/__pycache__/

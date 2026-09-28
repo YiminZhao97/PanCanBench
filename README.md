@@ -6,6 +6,8 @@ PanCanBench is a benchmark of 282 de-identified authentic pancreatic cancer pati
 
 The question–rubric dataset is available on [Hugging Face](https://huggingface.co/datasets/YiminZ07/PanCanBench).
 
+The [282 questions](Data/Questions/pancreatic_cancer_questions_282.jsonl) and [final rubrics](Data/Rubrics/rubrics_all_questions_final_version.json) are also included directly in this repository.
+
 The [versioned reproduction bundle](https://github.com/YiminZhao97/PanCanBench/releases/tag/reproducibility-v1) contains the saved responses, grades, rubrics, human ratings, and analysis inputs listed in `Data/input_manifest.json`. Download, install, and verify it from the repository root:
 
 ```bash
