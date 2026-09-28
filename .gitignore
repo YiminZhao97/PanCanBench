@@ -6,6 +6,16 @@ Data/**
 !Data/Questions/pancreatic_cancer_questions_282.jsonl
 !Data/Rubrics/
 !Data/Rubrics/rubrics_all_questions_final_version.json
+!Data/Rubrics/final_wording_corrections.json
+!Data/Rubrics/development/
+!Data/Rubrics/development/Phase1/
+!Data/Rubrics/development/Phase1/*.json
+!Data/Rubrics/development/Phase2/
+!Data/Rubrics/development/Phase2/*.json
+!Data/Rubrics/development/Phase3/
+!Data/Rubrics/development/Phase3/*_withgrades.md
+!Data/Rubrics/development/Phase4/
+!Data/Rubrics/development/Phase4/*.md
 # Generated analysis and API outputs.
 Outputs/
 **/__pycache__/

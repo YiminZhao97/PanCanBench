@@ -1,0 +1,2638 @@
+{
+  "questions": [
+    {
+      "question_number": 58,
+      "question_text": "My husband has pancreatic cancer and is experiencing depression. How common is this and what can we do?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that the diagnosis of cancer, especially an aggressive cancer like pancreatic cancer can frequently lead to psychosocial distress, including depression (23% PMID: 22666142)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that based on the ASCO guidelines, optimal care of depression should follow a stepped-care model (https://doi.org/10.1200/JCO.23.00293)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that Cognitive behavioral therapy (CBT), behavior therapy (BT), and behavioral activation (BA) are the most effective treatments for managing depressive symptoms (https://doi.org/10.1200/JCO.23.00293)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that exercise both during and after treatment can significantly reduce depression (https://doi.org/10.1200/JCO.23.00293)",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that pharmacotherapy is not recommended as a first-line treatment for depression (https://doi.org/10.1200/JCO.23.00293)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention the patient can be referred for formal support from a social worker or psychiatrist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that support groups for patients with pancreatic cancer can be beneficial",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 59,
+      "question_text": "My loved one has pancreatic cancer and we want to understand the prognosis better. How do we interpret survival statistics?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention the difference between overall survival, progression free survival",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that the survival statistics are averages, not predictions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that survival statistics are often grouped by stage (stage 0 to stage IV)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that survival is influenced by tumor characteristics such as genetic mutations (BRCA, KRAS), size, location",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that survival depends on treatments received (chemotherapy, surgery, targeted therapy, no treatment, etc) and treatment response",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that survival depends on other patient factors such as patient's age, overall health, comorbidities, lifestyle, and support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that new treatments and advancements are being developed all the time, and these could potentially improve outcomes in the future",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 60,
+      "question_text": "My father has pancreatic cancer and his doctors are discussing liquid biopsies. What are these?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that liquid biopsies involve analyzing circulating tumor DNA (ctDNA) from blood samples (https://ascopubs.org/doi/full/10.1200/JCO.21.02767)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that liquid biopsies are noninvasive and can expedite testing because there is no need to retrieve archival blocks or arrange for a new biopsy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that copy-number changes may be more difficult to assess in cfDNA, and fusion testing may be more limited in common cfDNA tests currently used",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mentioned that ctDNA may miss low-level cancers or not detect all mutations, and there may be false negative or false positive results",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that not all hospitals offer ctDNA testing and that not all insurances cover them",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that this is still under active research and not yet standard of care for all cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 61,
+      "question_text": "My mother has pancreatic cancer and we're considering traveling to another country for treatment. What should we consider?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention to consider your mother's health and travel suitability as long travel can be taxing",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention to consider if the other country has specialized high quality pancreatic cancer care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention considerations related to costs and insurance funding",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention to consider visa barriers when traveling abroad for treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention to consider local accommodations when traveling abroad for treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention to consider cultural barriers when traveling abroad for treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention to consider challenges with follow-up care when traveling abroad for treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention to consider social support challenges when traveling abroad for treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that immunizations and infection prevention are important, especially for immunosuppressed patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that telemedicine and remote support can be leveraged for follow-up, symptom management, and multidisciplinary care, reducing the need for frequent travel and facilitating access to expertise at high-volume centers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 62,
+      "question_text": "My loved one has pancreatic cancer and is experiencing bowel changes. Is this related to the cancer or treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that changes in bowel habits can occur in patients with pancreatic cancer due to the cancer itself or its treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that it is important to determine the cause of the bowel changes to manage them effectively",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that gastric outlet/duodenal obstruction can occur in up to 10% of patients with pancreatic cancer, leading to symptoms like early satiety, nausea, postprandial vomiting, and weight loss",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that patients with malignant ascites from pancreatic cancer may experience abdominal discomfort, nausea, and vomiting",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that chemotherapy, radiation therapy, surgery, and other treatments such as pain medications can impact the bowels",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that diet/nutrition changes can cause bowel changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that infections can cause bowel changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that stress/anxiety can cause bowel changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that pre-existing conditions can cause bowel changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that it may be beneficial to track symptoms (symptom log) to help diagnose the issue",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 63,
+      "question_text": "My husband has pancreatic cancer and we're concerned about him driving while on chemotherapy. Is this safe?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that there are there are no official guidelines advising patients to stop driving during or after chemotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that chemotherapy can cause fatigue that may impair driving abilities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that chemotherapy can cause vision changes that may impair driving abilities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that chemotherapy can cause neuropathy that may impair driving abilities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that chemotherapy can cause pain that may impair driving abilities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that chemotherapy can cause cognitive changes that may impair driving abilities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention to avoid driving after the first chemotherapy session to see how your husband tolerates it",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention to that your husband should listen to their own body, if he feels unwell it is important to arrange alternative transportation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention to plan for back up transportation, such as taxi, friends/family, public transportation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should mention that the National Highway Traffic Safety Administration (NHTSA) provides info on medical conditions and driving safety",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 12,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 64,
+      "question_text": "My loved one has pancreatic cancer and wants to continue working during treatment. Is this possible?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that it is important for patients with pancreatic cancer to maintain their quality of life, and that work during treatment may be possible",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that the ability to work depends on individual circumstances such as stage of cancer and overall health and comorbidities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that the ability to work depends on type of treatment (chemotherapy, radiation, surgery, targeted therapy) and related side effects",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that the ability to work depends on the support available from friends, family, caregivers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that the ability to work depends job type and flexibility (working from home, reduced hours, workplace accommodations, scheduled breaks)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 65,
+      "question_text": "My father has pancreatic cancer and is asking about medical marijuana. What should we know about this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that medical marijuana, refers to products derived from the cannabis plant---or its extracts---that contain active compounds such as THC (tetrahydrocannabinol), CBD (cannabidiol), or combinations thereof. These include synthetic cannabinoids, herbal cannabis derivatives, single purified cannabinoids, blends of cannabis components, and full‑spectrum preparations designed for medical use",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that there is a lack of evidence-based data supporting the use of cannabinoids and/or cannabis as anticancer treatments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that preliminary data reports poor clinical outcomes in adults receiving immunotherapy while using cannabis and/or cannabinoids",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention the risks of common side effects such as dizziness, confusion, dry mouth, and fatigue, as well as more serious side effects like tachycardia, orthostatic hypotension, severe confusion, and paranoia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that CBD presents risks for hepatotoxicity, with a meta-analysis reporting a nearly 6-fold increase in liver enzyme elevation and drug-induced liver injury",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention the lack of available data on drug-drug interactions, making it difficult for clinicians to provide informed answers about potential interactions between cannabis and/or cannabinoids with approved anticancer therapeutics",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that cannabis and/or cannabinoids are one of several pharmacologic options for adults with cancer experiencing refractory nausea and vomiting despite optimal prophylaxis. This ASCO guideline recommendation is based on moderate evidence (for dronabinol and nabilone) and low (for 1:1 THC:CBD extract) and the strength of the recommendation is weak. Therefore, further research is needed to determine the effectiveness of cannabis as antiemetic",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that further research is needed to determine the effectiveness of cannabis to reduce polypharmacy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that further research is needed to determine the effectiveness of cannabis to reduce opioid requirements for cancer-related pain",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that further research is needed to determine the effectiveness of cannabis to reduce chemotherapy-induced peripheral neuropathy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should mention that further research is needed to determine the effects of cannabis on pain",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 12,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 66,
+      "question_text": "My mother has pancreatic cancer and we're dealing with difficult family dynamics around treatment decisions. How do we handle this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend to schedule a family meeting to discuss goals of care and important treatment decisions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the mother's oncologist, social worker, or palliative care provider can help guide difficult family conversations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that understanding your mother's specific goals should shape conversations about goals of care and treatment recommendations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that your mother's wishes related to treatment, belief systems, and personal ways of coping should be respected by their families, cancer care team, and others who support them through the cancer experience",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention support networks such as PanCAN, CancerCare, ASCO, which can guide with family communication and decision making",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 67,
+      "question_text": "My loved one has pancreatic cancer and is worried about being a burden on the family. How do we address this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that it's important to have open and honest conversations about their concerns, including feeling like a burden to their loved ones",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should encourage the patient to express their fears and anxieties about the impact of their illness on their loved ones, and acknowledge and validate their feelings",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention to ask about the patient's preferences and personal goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention it is important emphasise to work together to manage the challenges",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention support networks such as PanCAN, CancerCare, ASCO",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that professional counseling can help process these emotions",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 68,
+      "question_text": "My husband has pancreatic cancer and his oncologist mentioned targeted therapy. What is this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that targeted therapy for pancreatic cancer involves using drugs to specifically target proteins, genes, or pathways of cancer cells, potentially causing less damage to normal cells compared to chemotherapy or radiation therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that while targeted therapy is an option, it is important to consider all potential treatment options, outcomes, and adverse events to make an informed decision",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that per the NCCN guidelines, the oncologist should consider testing for potentially actionable somatic findings including, but not limited to: fusions (ALK, NRG1, NTRK, ROS1, FGFR2, and RET), mutations (BRAF, BRCA1/2, KRAS, and PALB2), amplifications (HER2), microsatellite instability (MSI), mismatch repair deficiency (dMMR), or tumor mutational burden (TMB) using comprehensive genomic profiling via an FDA-approved and/or validated NGS-based assay and HER2 overexpression via IHC ± FISH",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention examples of targeted therapies, such as Dabrafenib + trametinib (if BRAF V600E mutation-positive), Entrectinib, Larotrectinib, Repotrectinib (if NTRK gene fusion-positive), Selpercatinib (if RET gene fusion-positive), Rucaparib (for germline or somatic BRCA1/2 or PALB2 mutations), Olaparib (only for germline BRCA1/2 mutations), Adagrasib (if KRAS G12C mutation-positive), Sotorasib (if KRAS G12C mutation-positive), Erdafitinib (if FGFR genetic alterations), Fam-trastuzumab deruxtecan-nxki (if HER2 positive [IHC3+ or IHC2+ with FISH HER2 amplified]) Zenocutuzumab-zbco (if NRG1 gene fusion-positive)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "Negative points if targeted therapies are discussed that are not approved for pancreatic cancer, such as osimertinib, regorafenib, mTOR inhibitors",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 69,
+      "question_text": "My loved one has pancreatic cancer and we're considering integrative medicine approaches. What should we know?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that integrative oncology is an evidence-based approach to cancer care that combines conventional treatments with mind-body practices, natural products, and lifestyle modifications drawn from various traditions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that evidence based approaches include acupuncture, nutrition and diet, exercise, massage therapy, and mind-body practices",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that integrative medicine is most effective for supportive care, not for primary treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that complementary medicines can interfere with cancer treatment, and should always be discussed with an oncologist prior to starting",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that safety concerns and risks related to integrative medicine approaches are heightened with self-prescription or use of non-standardized products",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 70,
+      "question_text": "My father has pancreatic cancer and is experiencing skin changes from chemotherapy. Is this normal?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that skin changes can be related to chemotherapy, such as gemcitabine, FOLFIRINOX, or nab-paclitaxel",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that skin changes related to chemotherapy can manifest in various ways, including new or worsening skin lesions, itch with or without rash, skin discoloration, acne-like symptoms, bullous dermatoses, allergic reactions, hand-foot syndrome, nail changes, and inflammatory dermatitis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that the skin changes could also be due to other conditions, such as infection, other medications, or skin conditions linked to another systemic disease or unrelated primary skin disorder",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that it is important to identify these skin changes correctly to ensure appropriate management and to avoid unnecessary discontinuation of effective cancer therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 71,
+      "question_text": "My mother has pancreatic cancer and we want to make sure we're asking the right questions at doctor appointments. What should we ask?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention to ask questions related to the diagnosis and stage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention to ask questions related to treatment options (surgery, radiation, chemotherapy etc)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention to ask questions related to goals of treatment (palliative, curative, etc)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention to ask questions related to prognosis and outcomes, if the patient wishes to know this information",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention to ask questions related to side effects and symptom management",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention to ask questions related next steps and follow-up",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention writing questions down in advance and bringing a notebook to take notes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention to bring a family member or a friend to help listen and take notes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 72,
+      "question_text": "My loved one has pancreatic cancer and is considering stopping treatment to travel. How do we make this decision?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention to clarify what \"stopping treatment\" means",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that centering patient values and preferences is critical",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention to encourage open discussion about what matters most to the patient---whether that is life extension, maximizing comfort, spending time with family, or fulfilling personal goals such as travel",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention to discuss and the effects of a (temporary) treatment break on the prognosis of the cancer, the symptoms, and other risks involved",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that stopping treatment may affect the patient's medical stability and ability to travel safely, as well as access to care and support while away",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 73,
+      "question_text": "My husband has pancreatic cancer and his port is causing problems. What are the alternatives for chemotherapy administration?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that alternatives to chemotherapy administration via a port include peripheral IV lines",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that alternatives to chemotherapy administration via a port include peripherally inserted central catheters (PICC lines)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that alternatives to chemotherapy administration via a port include a tunneled central venous catheter (Hickman, Broviac, Groshong)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that alternatives to chemotherapy administration via a port includes a non-tunneled central venous catheter (jugular or subclavian line)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that alternatives to chemotherapy administration via a port includes oral chemotherapy such as capecitabine",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should not mention that chemotherapy for pancreatic cancer can be given via subcutaneous injection",
+          "min_points": -10,
+          "max_points": 0
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 74,
+      "question_text": "My loved one has pancreatic cancer and we're worried about infection risk during treatment. What precautions should we take?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that prevention includes vaccination for covid and flu for the patient and household members",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention to limit contact with sick people who are contagious (colds, flu, or other infections)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that prevention includes avoiding exposure to fungal spores. Patients with neutropenia should avoid prolonged contact with environments that have high concentrations of airborne fungal spores, such as construction and demolition sites, intensive exposure to soil through gardening or digging, and household renovation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that there is no need for antimicrobial prophylaxis for most solid tumors if the overall infection risk is low (neutropenia < 7 days)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that prevention includes practising good hygiene, and provide information with the patient and caregivers on hand hygiene and respiratory hygiene/cough etiquette",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that interventions such as footwear exchange, protected environments, neutropenic diet, or nutritional supplements are not recommended due to a lack of evidence of clinical benefit",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 75,
+      "question_text": "My father has pancreatic cancer and his doctors are mentioning precision medicine. What does this mean?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that precision medicine, or personalized oncology, tailors cancer treatment based on a patient's unique tumor characteristics, such as genetic and molecular profiles, to improve effectiveness and reduce toxicity",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that Comprehensive genomic profiling using next-generation sequencing (NGS) is now standard for patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that both germline and somatic testing are recommended for all patients with pancreatic cancer, as actionable alterations may be present even in the absence of family history",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that based on genetic testing and molecular profiles, targeted therapies can be given",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that FDA-approved targeted therapies include PARP inhibitors (e.g., olaparib) for patients with germline BRCA1/2 mutations, typically as maintenance therapy following platinum-based chemotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that TRK inhibitors (larotrectinib, entrectinib) are indicated for NTRK fusion-positive tumors, regardless of histology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that immune checkpoint inhibitors (pembrolizumab, dostarlimab) are approved for dMMR/MSI-H PDAC, a rare but important subset",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 76,
+      "question_text": "My mother has pancreatic cancer and is experiencing mouth sores from chemotherapy. How can we manage this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that treatment-related mouth problems, particularly oral mucositis, are common in patients with pancreatic cancer receiving chemotherapy and/or radiotherapy, with reported incidence rates ranging from 20% to 80% in gastrointestinal malignancies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that mouth sores, or oral mucositis is a challenging toxicity associated with some chemotherapy agents",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that oral cryotherapy (holding ice chips in the mouth during and after administration of agents such as 5-fluorouracil) is effective for prevention of mucositis for select chemotherapy regimens",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that benzydamine mouthwash (0.15%, 15--20 mL rinsed for 30--60 seconds, 3--5 times daily) is supported for prevention, especially in patients receiving radiotherapy or chemoradiotherapy, though its role in chemotherapy alone is less well established",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that chlorhexidine mouthwash is not recommended for prevention in most adult cancer populations due to lack of efficacy and potential for adverse effects",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that bland mouth rinses (e.g., sodium bicarbonate or saline) are preferred for routine care and symptom management",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that topical anesthetics (lidocaine viscous, 2% solution) and mixed medication mouthwashes (\"magic mouthwash\") may be used for pain control, though evidence for specific formulations is variable",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that Gabapentin may be considered for mucositis-related pain, often in combination with other analgesics",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that topical and systemic antifungals (e.g., clotrimazole troches, systemic fluconazole) are indicated for secondary candidiasis, which is common in the setting of mucositis and xerostomia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that antibiotics are reserved for documented secondary bacterial infections",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should mention that management often involves over the counter pain relief such as acetaminophen or ibuprofen, but that stronger prescription medicines may be indicated",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 12,
+          "description": "The response should mention that multidisciplinary and supportive care is essential",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 13,
+          "description": "The response should mention that management could include dietary adjustments such as soft or liquid diets, small frequent meals, nutritional support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 14,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 77,
+      "question_text": "My loved one has pancreatic cancer and we're considering a clinical trial but are worried about getting a placebo. How do these work?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that clinical trials are research studies that explore whether a new medical strategy, treatment, or device is safe and effective for humans",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that clinical trials are essential for optimizing current and future therapies for cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that trials are divided into phases (phase I - phase IV)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The results should explain the different phases. Phase I clinical trials studies the safety and side effects of an investigational drug or treatment approach. Phase 2 trials study how well the drug or approach works against a specific type of cancer. Phase 3 clinical trials test the drug or approach against another standard treatment. If the results are good, it may be approved by the FDA. Phase 4 trials study the safety and benefit of an FDA-approved treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that a placebo-controlled clinical trial is a study where some participants receive the actual treatment being tested, while others receive a placebo, which is an inactive substance or treatment that looks the same as the active treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that placebos are almost never used alone in cancer clinical trials. It is common to receive either a placebo with standard treatment, or a new drug with standard treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that the patient will be informed, verbally and in writing, if a placebo is part of a clinical trial before they enroll",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the user discuss this case with an oncologist to review the trial details and discuss the pros and cons",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 78,
+      "question_text": "My husband has pancreatic cancer and his oncologist mentioned combination therapy. What does this involve?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that for patients with pancreatic cancer can be treated with chemotherapy, targeted therapy, immunotherapy, surgery, radiation therapy, or a combination of these",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that examples of combination therapy includes chemoradiation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that examples of combination therapy includes chemotherapy and surgery. This is called neoadjuvant chemotherapy is chemotherapy is given before surgery, and adjuvant chemotherapy if chemotherapy is given after surgery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that chemotherapy combinations can be given, such as FOLFIRINOX (It consists of four drugs: folinic acid (leucovorin), fluorouracil (5-FU), irinotecan, and oxaliplatin), or CapeOx (capecitabine and oxaliplatin), GTX (gemcitabine, docetaxel, and capecitabine), or Gemcitabine combined with albumin-bound paclitaxel plus cisplatin or combined with an EGFR kinase inhibitor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 79,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with insurance pre-authorization issues. What can we do?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that prior authorization (PA) is a process in which payers require clinicians to obtain approval before a medication is covered",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that PA denials or delays are frequent in oncology, affecting up to 22% of patients and causing treatment delays, increased anxiety, and adverse outcomes",
+          "min_points": 0,
+          "max_points": 20
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention to contact the insurance provider to ask for the reason for the denial",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention to contact the oncologist to ask to be referred to a financial navigator or social worker",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that a denial or delay can be appealed",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that the appeal process involves submitting a formal appeal with supporting evidence, such as clinical guidelines, published trial data, and, for targeted or off-label therapies, molecular profiling results",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that if appeals are unsuccessful or delays persist, alternative access strategies should be pursued. These include patient assistance programs (PAPs), manufacturer co-pay cards, and foundation grants, which require application and documentation of financial need",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that patient advocacy organizations such as PanCAN and CancerCare can help connect the user with resources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 80,
+      "question_text": "My father has pancreatic cancer and is experiencing cognitive changes. Could this be related to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that cancer treatment (including radiation, chemotherapy, and pain medications such as opioids) can affect a person's cognitive functions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that other factors unrelated to treatment could also cause cognitive changes, such as cancer progression",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that infections can cause cognitive changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that stress/anxiety can cause cognitive changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that pre-existing conditions can cause cognitive changes unrelated to cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 81,
+      "question_text": "My mother has pancreatic cancer and we're considering a feeding tube. When is this recommended?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that pancreatic cancer can cause digestive issues due to a blocked bile duct",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that pancreatic cancer can cause digestive issues due to a blocked stomach",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that pancreatic cancer can cause digestive issues due to low levels of digestive enzymes",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that pancreatic cancer can cause digestive issues due to loss of appetite",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that pancreatic cancer can cause digestive issues due to cancer-related pain",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that the need of a feeding tube depends on the tumor location and size, treatment side effects, and malnutrition risks",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that there are types of feeding tubes, such as a percutaneous endoscopic gastrostomy tube (PEG or G tube) that is inserted through the skin into the stomach, a J-tube, which is a feeding tube inserted through the skin into the small intestine, or a nasogastric (NG) tube that is inserted through the nose into the stomach for temporary support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that nutritional counseling is recommended for patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 82,
+      "question_text": "My loved one has pancreatic cancer and is worried about the impact on our children. How do we talk to kids about this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention to talk about cancer with simple and age appropriate language",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention to avoid overwhelming the child with too much information at once; provide information in small doses, stopping frequently to check for comprehension",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention to arrange for an appropriate location for the conversation and ensure there is enough time to give the information and answer questions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention to provide information that is relevant to what the child wants to know",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention to respond empathically to the child's emotions and acknowledge their feelings throughout the conversation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention to consider professional help, such as a child life specialist, counselor, or social worker",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention resources to help such as books for kids, online resources, or support groups",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 83,
+      "question_text": "My husband has pancreatic cancer and his sleep patterns have changed dramatically. Is this normal?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that sleep disruption is common in patients with pancreatic cancer and can be caused by cancer itself, treatments, symptoms, and psychological distress",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that factors contributing to sleep disturbances include pain, nausea, fatigue, anxiety, depression, medication side effects, and changes in routine",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that sleep hygiene practices can help improve sleep quality, such as maintaining a regular sleep schedule, creating a comfortable sleep environment, limiting caffeine and alcohol, and avoiding screens before bedtime",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that non-pharmacological interventions like relaxation techniques, cognitive behavioral therapy for insomnia, and mindfulness can be beneficial",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that if sleep problems persist, medications such as melatonin or prescription sleep aids may be considered, but should be discussed with the healthcare team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that addressing underlying causes of sleep disruption, such as pain management or treatment of anxiety/depression, is important",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend tracking sleep patterns and discussing them with the healthcare team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 84,
+      "question_text": "My loved one has pancreatic cancer and we're considering complementary therapies like acupuncture. Are these safe during treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that acupuncture is commonly used by individuals with pancreatic cancer to help manage symptoms and improve quality of life, and current evidence suggests they can be safely integrated alongside conventional cancer treatments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that systematic reviews and meta-analyses indicate that acupuncture is generally safe for cancer patients, with no increased risk of serious adverse events compared to sham or standard care, though mild side effects such as bruising, soreness, or transient discomfort may occur",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that acupuncture has demonstrated benefits for cancer-related pain, fatigue, nausea, insomnia, and other treatment side effects, but should be used as a complement---not a replacement---for standard cancer therapies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 85,
+      "question_text": "My father has pancreatic cancer and is experiencing balance problems. Could this be from the treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that balance problems in a patient with pancreatic cancer can be a side effect of the treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that chemotherapy can cause peripheral neuropathy, fatigue, anemia, and generalized weakness, which can all cause instability",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that pancreatic cancer itself increases the risk of thromboembolic events, including cerebral ischemic strokes, which may present with acute balance disturbances or ataxia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 86,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand her pathology report. What are the key things to look for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that the key aspects to look for in a pathology report for a patient with pancreatic cancer are tumor type and grade, tumor size, margin status, lymph node involvement, perineural and vascular invasion, and pathologic stage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that margin status is critical: the report should state whether the tumor is present at or within 1 mm of any resection margin (R1), as this impacts prognosis and adjuvant therapy decisions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that lymph node status (number examined and number positive) is essential for staging and prognosis. The presence of perineural and vascular invasion should be reported, as these are associated with higher recurrence risk",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that tumor size and location (head, body, tail) are required for accurate pathologic staging (pT), which, along with nodal status (pN) and presence of metastases (pM), determines the AJCC stage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that immunohistochemical and molecular findings, such as loss of SMAD4 or mutations in KRAS, TP53, and CDKN2A, may be included, as these have diagnostic and emerging prognostic or therapeutic relevance",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 87,
+      "question_text": "My loved one has pancreatic cancer and is considering participating in a vaccine trial. What should we know?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that vaccine clinical trials in pancreatic cancer are designed to address the poor response of this malignancy to standard immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that vaccine trials can be used to stimulate tumor-specific T cell (immune cell) responses that may make the immune system more effective in killing the cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that several vaccine platforms are under investigation, including peptide-based vaccines targeting defined tumor antigens, dendritic cell vaccines loaded with tumor lysates, and personalized mRNA/neoantigen vaccines that encode patient-specific tumor mutations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that safety data from recent trials indicate that most vaccine regimens are well-tolerated, with adverse events generally limited to mild-to-moderate injection site reactions, flu-like symptoms, or transient fever",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention most data on vaccine trials in pancreatic cancer are derived from early-phase studies with small sample sizes and limited long-term follow-up",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that clinical trials are research studies that explore whether a new medical strategy, treatment, or device is safe and effective for humans",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that clinical trials are essential for optimizing current and future therapies for cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that trials are divided into phases (phase I - phase IV)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The results should explain the different phases. Phase I clinical trials studies the safety and side effects of an investigational drug or treatment approach. Phase 2 trials study how well the drug or approach works against a specific type of cancer. Phase 3 clinical trials test the drug or approach against another standard treatment. If the results are good, it may be approved by the FDA. Phase 4 trials study the safety and benefit of an FDA-approved treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that the patient will be informed, verbally and in writing, if a placebo is part of a clinical trial before they enroll",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should recommend that the user discuss this case with an oncologist to review the trial details and discuss the pros and cons",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 88,
+      "question_text": "My husband has pancreatic cancer and his treatment team includes many specialists. How do we coordinate care?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that effective care coordination for a patient with pancreatic cancer whose treatment team includes multiple specialists requires a structured multidisciplinary approach",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that pancreatic cancer management necessitates the involvement of surgical oncology, medical oncology, radiation oncology, gastroenterology, genetics, nutrition, and palliative care, as each discipline addresses distinct aspects of diagnosis, staging, treatment, and supportive care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that each specialist plays a defined role: surgical oncologists assess resectability and operative planning; medical oncologists direct systemic therapy; radiation oncologists evaluate indications for radiotherapy; gastroenterologists manage biliary and gastrointestinal complications; geneticists perform germline and somatic testing; nutritionists address malnutrition and enzyme replacement; and palliative care teams optimize symptom management and psychosocial support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that clear patient-centered communication is essential",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that multidisciplinary tumor board meetings where all team members review imaging, pathology, and clinical status can help to reach consensus on the care plan",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention to identify a central coordinator such as a lead physician, nurse navigator, or case manager",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 89,
+      "question_text": "My loved one has pancreatic cancer and we're concerned about emergency situations. What should we be prepared for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that patients with pancreatic cancer are at high risk for several acute emergencies due to tumor progression, treatment effects, and comorbidities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that biliary obstruction, gastric outlet obstruction, VTE, severe pain crises, febrile neutropenia, metabolic derangements, bowel obstruction, and spinal cord compression are the most common emergencies in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that biliary obstruction typically presents with yellowing of the skin (jaundice), dark urine, and itchiness (pruritus)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that Gastric outlet obstruction manifests as persistent vomiting, inability to tolerate oral intake, and abdominal distension",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that blood clots (such as venous thromboembolism) are common in pancreatic cancer, with symptoms including sudden leg swelling, pain, shortness of breath, or chest pain; pulmonary embolism is a leading cause of death after cancer itself",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that fever in patients with low white blood cells (febrile neutropenia) is a life-threatening complication of chemotherapy, characterized by fever and signs of infection in the context of neutropenia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that lab abnormalities such as high calcium (hypercalcemia causing confusion, weakness, constipation) and low sodium (hyponatremia; causing confusion, seizures) can occur in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that bowel obstruction presents with abdominal pain, vomiting, and constipation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that spinal cord compression may cause new-onset weakness, sensory changes, or loss of bowel/bladder control",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 90,
+      "question_text": "My father has pancreatic cancer and is experiencing hearing changes. Is this related to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that hearing changes in patients with pancreatic cancer can be related to treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that platinum-based chemotherapy (such as cisplatin) is well-known to cause hearing loss (ototoxicity)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that the risk of hearing loss increases with cumulative doses and patient age",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that other therapies, including aminoglycoside antibiotics, loop diuretics, and radiation to the head/neck, can also contribute to hearing loss",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that hearing changes may result from direct cancer involvement, such as metastases affecting cranial nerves or brain, but this is uncommon in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that referral for audiologic evaluation is advised",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 91,
+      "question_text": "My mother has pancreatic cancer and we're considering proton therapy. What is this and when is it used?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that proton therapy is a form of external beam radiation that uses protons rather than photons to deliver highly conformal radiation doses to tumors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that physical properties of protons allow for precise dose deposition with minimal exit dose, which can reduce radiation exposure to adjacent organs such as the stomach, duodenum, and bowel",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that proton therapy is a safe and feasible option for select patients with locally advanced or recurrent pancreatic cancer, especially when minimizing toxicity to surrounding organs is critical",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that the use of proton therapy should be individualized based on tumor location, patient anatomy, and multidisciplinary evaluation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that proton therapy is often used in combination with chemotherapy (such as gemcitabine) as part of concurrent chemoradiation protocols",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that proton therapy can be used for locally advanced, unresectable, or recurrent disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 92,
+      "question_text": "My loved one has pancreatic cancer and is worried about the cost of medications. What assistance programs are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that Assistance programs available to help with the cost of medications for a patient with pancreatic cancer include several federal, state, manufacturer, and independent charity options",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that for those who qualify, Medicaid offers comprehensive prescription drug coverage with minimal co-payments, and is the most effective public program for low-income patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that Many brand-name cancer drugs offer manufacturer-sponsored assistance programs that provide free or discounted medications to eligible uninsured or underinsured patients, usually requiring proof of financial hardship and doctor certification",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that Independent nonprofits like HealthWell and PAN Foundation offer co-pay and premium assistance to insured patients with incomes below 400--500% of the federal poverty level",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that accessing assistance programs can be complex, with disparities among non-English speakers and some ethnic groups",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that Financial navigators and online tools (e.g., NeedyMeds, RxAssist) can help",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 93,
+      "question_text": "My husband has pancreatic cancer and his oncologist mentioned maintenance therapy. What does this mean?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that maintenance therapy refers to a treatment strategy used after initial therapy has controlled the disease, with the goal of prolonging survival and maintaining quality of life",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that maintenance therapy typically involves either de-escalating to less toxic agents for eligible patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that the decision to initiate maintenance therapy should be individualized, considering disease response, cumulative toxicities, patient preference, and goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 94,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related anxiety. What resources are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that resources such as psychotherapy, psychoeducation, supportive therapy, and integrative modalities are available to support patients with treatment-related anxiety",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that Cognitive-behavioral therapy (CBT) is the first-line intervention for treatment-related anxiety in patients with pancreatic cancer, as recommended by the American Society of Clinical Oncology, due to its strong evidence for reducing anxiety symptoms in cancer populations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that mindfulness-based interventions (MBIs), including mindfulness-based stress reduction, are strongly recommended by the American Society of Clinical Oncology and the Society for Integrative Oncology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that pharmacologic therapy may be considered for patients with severe anxiety or those who do not respond to first-line psychological interventions, though the evidence base is weaker and this is a secondary option per the American Society of Clinical Oncology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 95,
+      "question_text": "My father has pancreatic cancer and is considering cryotherapy. What is this treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that cryotherapy (also called cryoablation) is a minimally invasive locoregional treatment that destroys tumor tissue by freezing it, typically using probes inserted through the skin (percutaneously) or intraoperatively under imaging guidance",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that in pancreatic cancer, cryotherapy is not a standard first-line therapy but is considered for patients with unresectable, locally advanced, or metastatic disease who are not candidates for surgical resection or have failed systemic therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that its primary role is palliative, aiming to reduce tumor burden, alleviate pain, and potentially improve quality of life and local disease control",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 96,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about tumor markers beyond CA 19-9. What others are there?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that carbohydrate antigen 19-9 (CA19-9) and other tumor markers such as carcinoembryonic antigen (CEA), cancer antigen 125 (CA125) can be used for diagnosis, prognosis, or monitoring in patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that CEA and CA125 are the most widely used supplementary markers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that CEA is elevated in 30--60% of pancreatic cancer cases and is particularly useful in Lewis-negative patients who do not secrete CA19-9",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that both CEA and CA125 have demonstrated value for diagnosis, prognosis, and monitoring, especially when CA19-9 is not informative. CA125, when combined with CA19-9, improves diagnostic accuracy and is associated with tumor burden and metastatic disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that DUPAN-2 and CA242 are carbohydrate antigens that can complement CA19-9, especially in patients with genetic variants affecting CA19-9 synthesis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that emerging markers such as LAMC2, POSTN are not yet standard in routine clinical practice",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 97,
+      "question_text": "My loved one has pancreatic cancer and is experiencing hand-foot syndrome from chemotherapy. How is this managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that hand-foot syndrome (HFS) is a common, non-life-threatening but quality-of-life-impacting cutaneous toxicity of chemotherapeutic agents, particularly capecitabine and other fluoropyrimidines used in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that HFS presents with redness (erythema), changes in sensation (dysesthesia), pain, cracking, and peeling (desquamation) of the palms and soles, and can significantly impair daily function, especially in elderly patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that prevention strategies include celecoxib, urea cream",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that cooling procedures, such as frozen gloves or socks applied during taxane infusions, may prevent or reduce HFS severity and are recommended by the Oncology Nursing Society for taxane-based regimens",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that prevention strategies such as Pyridoxine (vitamin B6) and lactic acid have not shown consistent benefit for prevention or treatment of HFS in randomized trials",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that omeprazole (a proton pump inhibitor) and tipiracil (a thymidine phosphorylase inhibitor) may have prophylactic effects, but these are not yet standard practice",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that management of established HFS includes topical urea and corticosteroids",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that Photobiomodulation (low-level laser therapy) has shown promise as an adjunct for pain and symptom control",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that for grade ≥2 HFS, interruption or reduction of chemotherapy dose is the mainstay of management, as continued exposure may worsen symptoms and necessitate treatment discontinuation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 98,
+      "question_text": "My husband has pancreatic cancer and we're considering treatment at a cancer center versus community oncology. What's the difference?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that Cancer Centers include NCI-designated comprehensive cancer centers and academic medical centers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that cancer centers are often located in major cities, which can mean longer travel times, more complex scheduling, and larger, busier environments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention community oncology clinics, on the other hand, are typically more accessible and closer to home",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that in some cases initial treatment planning can be done at a cancer center, follow-up care can be done at a community center closer to home",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that the best choice depends on the specific treatment needed, the patient's health, and the support systems are available",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that receiving pancreatic cancer treatment at a specialized cancer center is associated with greater use of modern combination therapies, improved access to clinical trials, and superior survival outcomes compared to community oncology practices",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 99,
+      "question_text": "My loved one has pancreatic cancer and is worried about intimacy during treatment. How do we address this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that concerns about intimacy during treatment for a loved one with pancreatic cancer are common",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that changes in intimacy include decreased desire, arousal disorders, pain, erectile dysfunction, altered body image, and emotional distress",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that interventions to address intimacy concerns include psychosocial, psychosexual, and couples-based therapies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that referral options include medical sexologists, psycho-sexologists, social worker, and psychologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 100,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned radiofrequency ablation. What is this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that radiofrequency ablation (RFA) is a minimally invasive locoregional therapy that uses thermal energy to induce coagulative necrosis and cell death within tumor tissue",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that in pancreatic cancer, RFA is most commonly delivered via endoscopic ultrasound guidance (EUS-RFA), allowing precise targeting of the tumor while minimizing injury to surrounding structures",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that radiofrequency ablation is used in pancreatic cancer primarily for unresectable or inoperable tumors as a palliative or adjunctive therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that RFA is not a substitute for surgery or systemic therapy in resectable disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that the side effects of RFA are usually mild, with most adverse events being mild and self-limited, such as transient abdominal pain or mild pancreatitis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 101,
+      "question_text": "My mother has pancreatic cancer and we're trying to manage her medications. She's on so many pills - is this normal?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that it is normal for patients with pancreatic cancer to be on multiple medications to manage both the cancer and treatment-related side effects",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 102,
+      "question_text": "My loved one has pancreatic cancer and is considering yoga during treatment. Is this safe and beneficial?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that yoga is generally safe for people with cancer, including those undergoing treatment for pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that yoga may help reduce cancer-related fatigue, anxiety, and depression, and improve quality of life and emotional well-being during and after treatment, though effects are typically small to moderate and the certainty of evidence is low to moderate",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 103,
+      "question_text": "My husband has pancreatic cancer and we're worried about long-term side effects of treatment. What should we expect?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that long-term side effects in patients treated for pancreatic cancer are common",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that long term side effects are due cumulative impact of surgery, chemotherapy, radiation, and the underlying disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that the most frequent chronic effects include fatigue, chemotherapy-induced peripheral neuropathy (especially with oxaliplatin or taxanes), chronic pain, sexual dysfunction, cognitive changes (\"chemo brain\"), metabolic derangements (such as diabetes and osteoporosis), and nutritional deficiencies due to pancreatic exocrine insufficiency",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 104,
+      "question_text": "My loved one has pancreatic cancer and wants to donate to pancreatic cancer research. What organizations should we consider?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that nonprofit organizations are vital for supporting innovative research in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that donations to nonprofit organizations can support research, clinical trials, and patient support initiatives, addressing critical gaps in funding and accelerating progress in pancreatic cancer care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that organizations to consider include Pancreatic Cancer Action Network (PanCAN), American Association for Cancer Research (AACR), the National Cancer Institute (NCI), and the National Pancreas Foundation (NPF)",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 105,
+      "question_text": "My father has pancreatic cancer and is experiencing vision changes. Could this be treatment-related?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that vision changes in a patient with pancreatic cancer can be related to cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that chemotherapy can cause vision changes (ocular toxicity). For example, gemcitabine and 5-fluorouracil, have been associated with retinal findings including cotton-wool spots and other visual disturbances",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that ocular metastases may cause vision changes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that paraneoplastic syndromes may cause vision changes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that an eye evaluation is recommended for new vision changes during cancer therapy to distinguish between treatment-related toxicity, disease progression, and other causes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 106,
+      "question_text": "My mother has pancreatic cancer and we're considering telehealth appointments. Are these as effective as in-person visits?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that telehealth appointments are generally as effective as in-person visits for many aspects of care for patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that Telehealth offers benefits, including reduced travel burden, lower costs, decreased infection risk, and improved access expertise, which is especially valuable for patients distant from high-volume centers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that telehealth may be less suitable for initial diagnosis, physical examinations, or sensitive discussions (e.g., new diagnosis, end-of-life care)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that limitations of telehealth include challenges with physical examination, technology barriers, and occasional concerns about reduced personal connection or quality of interaction",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 107,
+      "question_text": "My loved one has pancreatic cancer and is worried about hair loss from chemotherapy. What can we expect?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that hair loss from chemotherapy is a common and distressing side effect in patients undergoing treatment for pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that the estimated incidence of hair loss with chemotherapy is up to 65% depending on the regimen used",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that the pattern is typically diffuse, nonscarring alopecia (anagen effluvium), beginning within weeks of starting cytotoxic agents such as FOLFIRINOX or gemcitabine-based regimens",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that the severity and risk is higher with multi-agent and taxane-containing protocols, and female patients also are at increased risk",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that most cases are reversible, with regrowth expected within 3--6 months after cessation of chemotherapy, but persistent or permanent alopecia can occur, especially after repeated or high-dose regimens",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that eyebrow and eyelash loss may also be seen",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that scalp cooling devices can reduce the risk and severity of hair loss, with success rates of 50--80% in clinical studies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that topical minoxidil may aid regrowth post-chemotherapy, though evidence for prevention is limited",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 108,
+      "question_text": "My husband has pancreatic cancer and his oncologist mentioned oligometastatic disease. What does this mean?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that oligometastatic disease in the context of pancreatic cancer refers to a clinical state where the cancer has spread beyond the pancreas but the number and sites of metastases are limited, typically involving a single organ (most often liver or lung) and a small number of lesions, commonly defined as ≤3 to ≤5 metastases",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that patients with oligometastatic pancreatic cancer may be considered for more aggressive multimodal therapy, including systemic chemotherapy followed by local treatments such as surgery, ablation, or stereotactic radiotherapy, if there is good response to initial therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that patients with oligometastatic disease have the potential for improved prognosis compared to widespread metastatic disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 109,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment delays due to low blood counts. Is this common?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that it is common for patients with pancreatic cancer to experience treatment delays due to low blood counts",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that these delays are often necessary to ensure patient safety",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that dose reductions may help prevent severe neutropenia and treatment suspension, but must be weighed against potential reductions in treatment efficacy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 110,
+      "question_text": "My father has pancreatic cancer and is considering hyperthermia treatment. What is this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that hyperthermia treatment is a locoregional or whole-body therapy in which tumor tissue is heated to 39--43°C to enhance the cytotoxic effects of chemotherapy and/or radiotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that in pancreatic cancer, hyperthermia is most commonly used as an adjunct to standard chemoradiotherapy for patients with locally advanced, unresectable, or metastatic disease, particularly when conventional therapies have limited efficacy or are refractory",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that hyperthermia can be delivered regionally (deep regional hyperthermia), intraoperatively, or as whole-body hyperthermia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that adding hyperthermia to chemoradiotherapy may improve overall response rates and median survival compared to standard therapy alone, with acceptable safety profiles",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that the quality of evidence is limited, and hyperthermia remains investigational, with ongoing trials evaluating its efficacy and optimal integration into multimodal treatment regimens",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 111,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about her genetic testing results. Who can help interpret these?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that board-certified genetic counselors, medical geneticists, and oncologists with expertise in hereditary cancer syndromes can help interpret genetic testing results for a patient with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that board-certified genetic counselors, medical geneticists, and oncologists can help determine clinical significance of identified variants, discuss implications for surveillance, prevention, and treatment, and provide guidance for at-risk family members",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that pathogenic variants in genes such as BRCA1, BRCA2, PALB2, ATM, CDKN2A, and others, which may influence both therapeutic decisions and recommendations for family screening",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 112,
+      "question_text": "My loved one has pancreatic cancer and is experiencing taste changes. How can we manage this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that taste changes are common in patients with pancreatic cancer undergoing chemotherapy, with prevalence estimates ranging from 56--76% depending on treatment modality, and can significantly impair nutritional intake, food enjoyment, and quality of life",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that improved oral hygiene and active swallowing exercises may also promote taste recovery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that a referral to a registered dietitian is recommended for tailored nutritional strategies, as taste changes often lead to reduced appetite, altered food preferences, and risk of malnutrition",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that dietitians can assist with food texture modification, flavor enhancement, and strategies to maintain adequate caloric and protein intake",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that pharmacological and supplement-based interventions have been explored with mixed results. Further research is needed to establish standardized, effective interventions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the user discuss this case with an oncologist or dietician",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 113,
+      "question_text": "My husband has pancreatic cancer and we're considering exercise during treatment. What's safe and beneficial?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that The American Society of Clinical Oncology recommends that patients with pancreatic cancer undergoing treatment engage in aerobic and resistance exercise, as both are safe and beneficial for patients with pancreatic cancer during chemotherapy, chemoradiotherapy, or neoadjuvant therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that physical activity should be tailored to individual capacity and comorbidities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that aerobic exercise (such as walking, cycling, or swimming) and resistance training (using weights or resistance bands) improve cardiorespiratory fitness, physical function, and reduce symptoms like fatigue and mood disturbances",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 114,
+      "question_text": "My loved one has pancreatic cancer and we're worried about the progression of the disease. What signs should we watch for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should mention that signs and symptoms that indicate disease progression in pancreatic cancer include new or worsening jaundice, dark urine, pale stools, pruritus, abdominal pain (especially if persistent or increasing), back pain, weight loss, anorexia, fatigue, nausea/vomiting, constipation, diarrhea, new or worsening diabetes, bloating, belching, and cachexia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that alarm symptoms such as gastrointestinal bleeding or rapidly declining performance status should also be recognized as potential indicators of advanced disease or complications",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that close monitoring of symptoms is essential for timely intervention and supportive care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that early integration of supportive care is recommended to optimize quality of life and address complications as they arise",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the user discuss this case with an oncologist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    }
+  ]
+}

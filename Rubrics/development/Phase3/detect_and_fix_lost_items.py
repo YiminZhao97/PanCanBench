@@ -22,9 +22,10 @@ from typing import Dict, List, Tuple, Any
 
 # ── Paths ──────────────────────────────────────────────────
 BASE = str(Path(__file__).resolve().parents[3] / "Data/Rubrics/development")
-MERGED_DIR = os.path.join(BASE, "Phase3/merged rubrics")
-PHASE2_DIR = os.path.join(BASE, "Phase2/Data")
-BETA_DIR   = os.path.join(MERGED_DIR, "beta")
+# Preserve the original repair inputs; reviewed Phase 3 files are stored separately.
+MERGED_DIR = str(Path(__file__).resolve().parents[3] / "Data/historical/rubric_development/Phase3/merged rubrics")
+PHASE2_DIR = os.path.join(BASE, "Phase2")
+BETA_DIR = str(Path(__file__).resolve().parents[3] / "Outputs/rubrics/lost_items")
 
 FOLD_CONFIG = {
     1: ("polished_rubrics_Fold1_Expert_A.json",   # rubric-a file (→ "A" in merged)

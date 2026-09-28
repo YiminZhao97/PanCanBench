@@ -1,0 +1,2206 @@
+{
+  "questions": [
+    {
+      "question_number": 227,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of mechanical properties of tissues. How do these affect cancer spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response mentions tissue stiffness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential effect on treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 228,
+      "question_text": "My loved one has pancreatic cancer and we're considering participating in patient advocacy. What opportunities are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response defines patient advocacy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response provides examples of patient advocacy work",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends asking the patient's healthcare team about patient advocacy opportunities within their organization",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers examples of patient advocacy groups and provides contact information or a website for each",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response offers examples of patient advocacy opportunities specific to pancreatic cancer and provides contact information or a website for each",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 229,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer metabolism. How do cancer cells obtain energy differently?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains normal cellular metabolism in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response outlines the differences between normal cellular metabolism and cancer cell metabolism",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions the Warburg effect",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response gives examples of how cancer cell metabolism effects its clinical behavior",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response gives examples of targeting the differences in cancer cell metabolism as a means of treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response provides published scientific journal articles as evidence for its claims and cites its sources",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 230,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related peripheral neuropathy. What rehabilitation options exist?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response states peripheral neuropathy is a common side effect of certain chemotherapy agents used to treat pancreatic cancer, including oxaliplatin",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides examples of symptoms of peripheral neuropathy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides examples of how peripheral neuropathy symptoms may affect a patient's function",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response states some patients may see an improvement in symptoms when the causative medication is stopped",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response recommends physical therapy",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response recommends occupational therapy",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response states medication may help with some symptoms of peripheral neuropathy and provides examples like gabapentin, pregabalin, and duloxetine",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 231,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned liquid-liquid phase separation in cells. How does this relate to cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains what liquid-liquid phase separation is using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains how liquid-liquid phase separation relates to cancer cell biology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 232,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of mechanical forces in drug delivery. How does this affect treatment effectiveness?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response mentions tissue stiffness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions blood flow and hypoxia as potentially having effects on treatment effectiveness",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 233,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with long-distance caregiving challenges. What strategies work best?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker or patient care navigator",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response states the patient's healthcare team may have resources to help patients at home and lighten caregivers' load",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides data on caregiver burnout and cites its sources from published scientific literature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response offers examples of signs and symptoms of caregiver burnout",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response mentions assisted living, home health aides, and respite homes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response recommends utilizing telemedicine when available and appropriate",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response recommends having a plan for emergencies",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 9,
+          "description": "The response recommends engaging family and friends for assistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response offers resources for cancer patients and their caregivers and provides contact information or websites",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 234,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell competition. How do different cancer cells interact?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains cell competition for oxygen and nutrients within a tumor in layman's terms",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses how cell competition may lead to clonal evolution of cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses how clonal evolution in cancer can lead to drug resistance and progression of disease",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 235,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of mechanical stress in drug resistance. How does this affect treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response mentions tissue stiffness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions blood flow and hypoxia as potentially having effects on treatment effectiveness",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 236,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned proteostasis in cancer cells. What is this and how does it relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains proteostasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response explains how proteostasis may be altered in cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides examples of cancer treatments that target proteostasis in cancer cells and explains their mechanism of action in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 237,
+      "question_text": "My mother has pancreatic cancer and we're dealing with treatment decision fatigue. How do we manage this overwhelming feeling?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a patient care navigator or social worker",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends cancer support groups and online resources for cancer patients and their families",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends breaking up decisions into smaller portions and creating pros and cons lists to organize thoughts",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends discussing this with a Palliative Care team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides data on caregiver burnout and cites its sources from published scientific literature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response offers examples of signs and symptoms of caregiver burnout",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response recommends discussing goals of care with the patient to help with decision making",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 238,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell migration. How do cancer cells spread through the body?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response mentions cancer metastasis as a response to cell stress",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response mentions the healthcare team uses advanced imaging like CT, MRI, and PET/CT to identify places the cancer has spread to",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response mentions how different treatment modalities are or are not helpful once cancer has metastasized",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 239,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of mechanical cues in cancer stem cells. How does this affect cancer recurrence?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response defines cancer stem cells and discusses their role in cancer biology using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response mentions tissue stiffness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions the role cancer stem cells may play in cancer recurrence",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 240,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the emotional toll of uncertainty. What coping strategies are most effective?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, counselor, or Palliative Care professional",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends cancer support groups as a resource",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers examples of organizations that offer support for cancer patients and their families and provides contact information or a website",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends prioritizing self care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response offers examples of stress relief strategies",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response emphasizes the importance of establishing a strong support system",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 241,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned phase separation in cancer cells. How does this cellular organization affect cancer behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains what phase separation is using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains how phase separation relates to cancer cell biology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 242,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of mechanotransduction. How do cells sense and respond to mechanical forces?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of how cells sense mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses the biology of how cells respond to mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response outlines how these processes may be altered in pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 243,
+      "question_text": "My loved one has pancreatic cancer and we're considering legacy planning. What should we focus on during treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends meeting with a Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains Advanced Care Planning and how it impacts a patient's clinical course",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response mentions code status",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions an advanced directives or living will",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions financial planning and recommends discussing this with a professional with experience in this",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response recommends discussing this with a social worker or counselor",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response mentions the importance of a strong support system during cancer treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or websites",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 244,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell adhesion. How do cancer cells attach and detach from tissues?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of cell adhesion in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response mentions integrins and cadherins",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response contrasts the biology of cancer cell adhesion with normal cell adhesion using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions changes to cell adhesion in pancreatic cancer specifically",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 245,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of hope versus realism. How do we balance these perspectives?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual worker, counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends establishing the patient's goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends open communication between patient and caregivers",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends cancer support groups as helpful resources",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or a website",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 246,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned condensates in cancer cells. What are these structures and how do they affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains what condensates are using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains how condensates relate to cancer cell biology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 247,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of tissue stiffness. How does this physical property affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response mentions tissue stiffness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential effect on treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 248,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the complexity of multi-generational family support. How do we coordinate care across generations?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends clear communication",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response emphasizes the importance of a strong support system for patients with cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response provides examples of organizations that support cancer patients and their families and includes contact information or websites",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response recommends participating in a support group for cancer patients and their families",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response recommends educating the family on the patient's diagnosis and treatment",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 249,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell invasion. What makes cancer cells able to invade healthy tissue?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response mentions cancer metastasis as a response to cell stress",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response mentions the healthcare team uses advanced imaging like CT, MRI, and PET/CT to identify places the cancer has spread to",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response mentions how different treatment modalities are or are not helpful once cancer has metastasized",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 250,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of fluid flow in tumors. How does this affect drug delivery and cancer behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response discusses the normal flow of fluid from blood vessels to the extracellular space to the lymphatic system and blood vessels using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses changes to fluid flow that may occur in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses the implications of altered fluid flow on cancer treatment, including reduced drug delivery or immune cell penetration into the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions how altered cellular biology and extracellular structures can impact cancer behavior",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response provides published scientific journal articles as evidence of its claims and cites its sources",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 251,
+      "question_text": "My father has pancreatic cancer and we're dealing with the challenge of maintaining dignity during treatment. What approaches help preserve this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends establishing the patient's goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response reviews Advanced Care Planning and mentions Advance Directives and Living Wills",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends support groups for cancer patients",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides examples of organizations that support cancer patients and their families and includes contact information or websites for each",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 252,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about cancer cell contractility. How do mechanical forces generated by cells affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of how cells sense mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses the biology of how cells respond to mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 253,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of extracellular matrix. How does this tissue scaffolding affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response defines the extracellular matrix and explains its role in normal cellular biology in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response contrasts the role of the extracellular matrix in cancer cell biology with normal cell biology in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses the potential consequences of an altered extracellular matrix for cancer treatment effectiveness and resistance, including examples like decreased drug and immune cell penetration",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response discusses the potential consequences of an altered extracellular matrix on cancer cell biology, including examples like angiogenesis and metastasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 254,
+      "question_text": "My husband has pancreatic cancer and we're dealing with the challenge of maintaining relationships during this difficult time. What strategies work?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends support groups for cancer patients",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response emphasizes the importance of self care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response emphasizes the importance of a support system during cancer treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides examples of organizations that support cancer patients and their families and includes contact information or websites for each",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 255,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell mechanosensing. How do cancer cells detect and respond to their mechanical environment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of how cells sense mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses the biology of how cells respond to mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response outlines how these processes may be altered in pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 256,
+      "question_text": "My father has pancreatic cancer and we're trying to understand the role of pressure in tumors. How does elevated pressure affect treatment delivery?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response discusses the normal flow of fluid from blood vessels to the extracellular space to the lymphatic system and blood vessels using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses changes to fluid flow that may occur in pancreatic cancer, including increased intratumoral pressure",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses the potential implications of altered fluid flow on cancer treatment, including reduced drug delivery or immune cell penetration into the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions the potential impact altered cellular biology and extracellular structures may have on cancer behavior",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response provides published scientific journal articles as evidence of its claims and cites its sources",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 257,
+      "question_text": "My mother has pancreatic cancer and we're dealing with the emotional impact on our extended family. How do we support everyone affected?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends clear communication",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response emphasizes the importance of self care and healthy boundaries",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response emphasizes the importance of a strong support system for patients with cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides examples of organizations that support cancer patients and their families and includes contact information or websites",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response recommends participating in a support group for cancer patients and their families",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response recommends educating the family on the patient's diagnosis and treatment",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 258,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell deformability. How does the ability of cells to change shape affect cancer spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions cancer metastasis as a response to cell stress",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 259,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of shear stress in cancer. How do fluid forces affect cancer cells?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response discusses the normal flow of fluid from blood vessels to the extracellular space to the lymphatic system and blood vessels which may cause sheer stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses changes to fluid flow that may occur in pancreatic cancer, including increased intratumoral pressure",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses the potential implications of altered fluid flow on cancer treatment, including reduced drug delivery or immune cell penetration into the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions the potential impacts of altered fluid flow on cancer behavior",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response provides published scientific journal articles as evidence of its claims and cites its sources",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 260,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of maintaining hope while being realistic about prognosis. How do we find this balance?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual worker, counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends establishing the patient's goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends open communication between patient and caregivers",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends cancer support groups as helpful resources",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or a website",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 261,
+      "question_text": "My father has pancreatic cancer and we want to understand more about cancer cell traction forces. How do the forces cells exert on their environment affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of how cells sense mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses the biology of how cells respond to mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 262,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of viscosity in the tumor environment. How does tissue thickness affect cancer behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions reduced blood flow and hypoxia as potential consequences of tissue thickness which may have effects on treatment effectiveness",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 263,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of cultural differences in medical decision-making. How do we navigate this sensitively?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with a social worker, spiritual counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends respectful and open communication",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response mentions cultural mediators",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends organizations that support cancer patients and their families and includes contact information or a website for each",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends setting boundaries",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 264,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell elasticity. How does cell stiffness or softness affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response mentions tissue stiffness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential effect on treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 265,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of confinement in cancer cell behavior. How does physical space restriction affect cancer cells?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of how cells sense mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses the biology of how cells respond to mechanical stress using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response relates tissue properties to their potential consequences for treatment effectiveness and resistance",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 266,
+      "question_text": "My father has pancreatic cancer and we're dealing with the challenge of maintaining family traditions during treatment. What approaches help preserve meaningful activities?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with a social worker, spiritual worker, counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends open communication",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends flexibility",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends cancer support groups as helpful resources",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or a website",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response mentions the importance of a strong support system during cancer treatment",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 267,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about cancer cell swimming. How do cancer cells move through fluid environments?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response clarifies that cancer cells do not swim, as they lack the cellular machinery to do so",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 268,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of surface tension in cancer. How do interfacial forces affect cancer cell behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response defines surface tension and interfacial forces",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response states interfacial tissue planes typically serve as barriers for cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 269,
+      "question_text": "My husband has pancreatic cancer and we're dealing with the challenge of long-term uncertainty. How do we live with not knowing what the future holds?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual worker, counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends establishing the patient's goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends open communication between patient and caregivers",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends cancer support groups as helpful resources",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or a website",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 270,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell climbing. How do cancer cells move along surfaces and fibers?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains the biology of cell adhesion in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response mentions integrins and cadherins",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response contrasts the biology of cancer cell adhesion with normal cell adhesion using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions changes to cell adhesion in pancreatic cancer specifically",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 271,
+      "question_text": "My father has pancreatic cancer and we're trying to understand the role of geometry in cancer. How do shapes and structures in tissues affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions cancer metastasis as a response to cell stress",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 272,
+      "question_text": "My mother has pancreatic cancer and we're dealing with the challenge of maintaining privacy while seeking support. How do we balance these needs?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends respectful and honest communication",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends maintaining personal boundaries",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends cancer support groups as helpful resources",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or a website",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response emphasizes the importance of a strong support system",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 273,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell squeezing. How do cancer cells move through tight spaces?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response mentions cancer metastasis as a response to cell stress",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 274,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of topology in cancer. How do the connectivity and structure of tissue networks affect cancer spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response defines topology",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response states in cancer care, topology may relate to the organization of tissues, blood vessels, or lymphatics",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response states the anatomic organization of cancer may impact the cancer's stage or likelihood to respond to certain treatments like surgery or radiation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 275,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of maintaining optimism for our children while being honest about the situation. How do we handle this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's oncologist",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, spiritual worker, counselor, or Palliative Care specialist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends establishing the patient's goals of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response recommends honest and open communication between patient and caregivers",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response recommends tailoring the discussion to the age of the children",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response recommends cancer support groups as helpful resources",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response provides examples of organizations with resources for cancer patients and their families and includes contact information or a website",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 276,
+      "question_text": "My father has pancreatic cancer and we want to understand more about cancer cell collective migration. How do groups of cancer cells move together?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response mentions epithelial to mesenchymal transition",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response explains the biology of cell adhesion in layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response mentions integrins and cadherins",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response contrasts the biology of cancer cell adhesion with normal cell adhesion using layman's terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 277,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of curvature in cancer. How do curved surfaces and structures affect cancer cell behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response defines curvature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response states in cancer care, curvature may relate to the organization of tissues, blood vessels, or lymphatics",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response states the anatomic organization of cancer may impact the cancer's stage or likelihood to respond to certain treatments like surgery or radiation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response explains cancer metastasis in layman's terms",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response gives examples of how cancer spreads in the body, including direct invasion by the tumor, spread through the lymphatic system, and spread through the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response discusses some of the cellular mechanisms by which cancer spreads in the body",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 278,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of celebrating milestones during treatment. How do we acknowledge important moments while managing the illness?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, counselor, or Palliative Care professional",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends cancer support groups as a resource",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers examples of organizations that support cancer patients and their families and provides contact information or a website",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response emphasizes the importance of quality of life",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response emphasizes the importance of establishing a strong support system",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 279,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell jamming. How do crowded conditions affect cancer cell movement?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response discusses changes to tissue architecture that may occur in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response discusses the potential implications of altered tissue architecture on cancer treatment, including reduced drug delivery or immune cell penetration into the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response mentions the potential impact altered tissue architecture and extracellular structures may have on cancer behavior",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides published scientific journal articles as evidence of its claims and cites its sources",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 280,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of pattern formation in cancer. How do organized structures emerge in tumors?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response mentions tissue stiffness and fibrosis in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response reviews intercellular communication between pancreatic cancer cells and their environment, including stromal cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response relates tissue properties to their potential effect on cancer spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response relates tissue properties to their potential effect on treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response offers published scientific journal articles as evidence of its claims and provides citations",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 281,
+      "question_text": "My father has pancreatic cancer and we're dealing with the challenge of making memories while managing the reality of limited time. What approaches help create meaningful experiences?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response recommends discussing this with the patient's healthcare team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response recommends discussing this with a social worker, counselor, or Palliative Care professional",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response recommends cancer support groups as a resource",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response offers examples of organizations that support cancer patients and their families and provides contact information or a website",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response emphasizes the importance of quality of life",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response emphasizes the importance of establishing a strong support system",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 282,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about cancer cell waves. How do coordinated movements propagate through cancer cell populations?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response states that tumors are not typically functioning tissues",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response reviews the biology of intercellular communication",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response reviews intercellular communication in pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response provides published scientific journal articles as evidence for its statements and cites its sources",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    }
+  ]
+}

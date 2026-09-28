@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 import os
 
-BASE = str(Path(__file__).resolve().parents[3] / "Data/Rubrics/development")
+BASE = str(Path(__file__).resolve().parents[3] / "Data/historical/rubric_development")
 FINAL_DIR = os.path.join(BASE, "Phase4")
 BETA_DIR = os.path.join(BASE, "Phase3/merged rubrics/beta")
 OUTPUT_DIR = os.path.join(BASE, "Phase4/beta version")

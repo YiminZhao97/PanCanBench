@@ -1,0 +1,3124 @@
+{
+  "questions": [
+    {
+      "question_number": 171,
+      "question_text": "My father has pancreatic cancer and is considering volunteering for research studies. What opportunities exist?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that standard of care treatment for pancreatic cancer can include surgery and/or chemotherapy, depending on how advanced the disease is, as outlined in the NCCN guidelines version 2.2025",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that patients with pancreatic cancer should undergo genetic testing for mutations that have been inherited, which may provide targeted therapy options",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that patients with pancreatic cancer should have molecular evaluation of their tumor tissue to understand if there are particular abnormalities in their cancer that might provide targeted therapy options",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include the definitions of different types of research studies including randomized clinical trials and observational studies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain that not all research studies are clinical trials, and some explore ancillary aspects of cancer care such as symptom control or mental health",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should include definitions of phases 1, 2, and 3 clinical trials",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should include that clinical trials are most commonly done at academic medicine institutions",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should state that clinical trials may include an experimental treatment or placebo, and the efficacy may not be known as compared to standard of care treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should include links and references to informational websites about clinical trials being held across the United States such as Pancreatic Cancer Action Network (PanCAN), National Cancer Institute (NCI), and the National Institutes of Health (NIH)",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient ask his/her oncologist about locations where clinical trials are being held, and consider a referral to institutions where trial participation is possible",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 172,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of the immune system in her treatment. Can you explain?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe how cells that acquire mutations that can go on to form a cancer in our bodies can evade the immune system",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the immune system's role in protecting the body from mutated cells that have oncogenic potential",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should include a definition of immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the mechanism of action of immunotherapies in cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe what features of malignancies makes them more likely to respond to immunotherapy including MSI-H, high TMB, and/or an increased presence of immune cells in the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe features of pancreatic cancer that make this malignancy difficult to treat with immunotherapy",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that there is research being done on the role of the immune system in pancreatic cancer treatment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient speak with his/her oncologist about clinical trials that might utilize immunotherapy for pancreatic cancer, or consider a referral to a center that does clinical trials",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 173,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with caregiver burnout. What support is available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe what burnout is, and normalize burnout in caretaking as a common phenomenon",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 2,
+          "description": "The response should inform patients that there may be insurance-covered caregiver assistance, and the individuals should inquire with their insurance carrier what is covered",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should emphasize the importance of caregiver wellbeing on their ability to take care of loved ones. Caregivers can improve their wellbeing with a balanced diet, staying hydrated with water, good quality sleep, and exercise",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 4,
+          "description": "The response should provide resources for the mental wellbeing of the caregiver such as finding therapists through Psychology Today's website",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the focus on using family members and friends to help with caretaking responsibilities",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should link no-cost support services for caregivers such as support groups or online groups of people with similar experiences",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend the patient's caregiving team reach out to their oncology team to inquire if social work resources are available that can assist in determining if any in-home support or respite services are financially covered by the patient's insurance",
+          "min_points": 1,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that Hospice services offer varying degrees of in-home support and caregiver support, if/when this is appropriate for their loved one",
+          "min_points": 1,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 174,
+      "question_text": "My husband has pancreatic cancer and his doctors mentioned liquid biopsy monitoring. What does this involve?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should explain what liquid biopsies are and how they are different from traditional biopsies",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain the different uses of liquid biopsies in cancer care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention if liquid biopsy is FDA approved for any uses in pancreatic adenocarcinoma",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe that liquid biopsies are used as an adjunct to traditional cancer monitoring techniques",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe advantages of liquid biopsy over traditional biopsy, but should state that liquid biopsy cannot be used to diagnose cancer at this time",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the logistics of having a liquid biopsy",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe that liquid biopsies can provide information about the genetic mutations in a cancer which can impact treatment options",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should include limitations of liquid biopsy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that the role of liquid biopsy in cancer care is being heavily studied",
+          "min_points": 0,
+          "max_points": 1
+        },
+        {
+          "item_number": 10,
+          "description": "The response should state that liquid biopsy meaningfulness is different across cancer types and sometimes among patients with the same cancers, as some tumors do not shed material as much as others",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 175,
+      "question_text": "My loved one has pancreatic cancer and we're trying to maintain their independence during treatment. What strategies work?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of managing treatment and disease-related side effects in order to preserve independence and quality of life",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the expected side effects of pancreatic cancer treatment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe common symptoms that patients experience from pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest ways to use technology to help with everyday tasks in the home",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should suggest ways to make modifications in the home to allow the patient to traverse and use their home independently",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should emphasize the importance of maintaining autonomy and some control for the patient regarding their everyday tasks and life",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should make recommendations for how to assist an individual suffering from pancreatic cancer treatment or disease-related side effects on their activities of daily living including:",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 8,
+          "description": "The response should emphasize the importance of maintaining good mental health by the patient and caregivers",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention resources for in-home assistance such as paid caregivers or Hospice services",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should suggest asking the oncology team if there is social work support available, and/or if anyone can assist in determining if the patient's insurance will cover the cost of an in-home paid caregiver",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 11,
+          "description": "The response should mention the importance of advanced care planning, completion of a POLST, designation of a medical DPOA, and to discuss the patient's wishes in case of an emergency",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 176,
+      "question_text": "My father has pancreatic cancer and we're considering family genetic testing. Who should be tested and when?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should include a definition of genetic testing for heritable cancer syndromes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that genetic testing for inherited mutations is recommended for all patients with pancreatic adenocarcinoma, at diagnosis, per the NCCN guidelines version 2.2025",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "If a patient's genetic testing for inherited mutations returns positive for a pathogenic mutation or they have a strong family history for cancer (regardless of mutation status) they should be referred to a genetic counselor (ATM, BRCA1, BRCA2, CDKN2A, MLH1, MSH2, MSH6, PALB2, PMS2, STK11, and TP53)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that some family members of a patient with a positive pathogenic mutation may be at increased risk for certain cancers, and should consider genetic testing",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that all family members of a patient with a pathogenic genetic mutation should have genetic testing",
+          "min_points": -5,
+          "max_points": 0
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe that the minimum age for genetic testing is usually 18 years old, and why",
+          "min_points": 0,
+          "max_points": 1
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe why family members at risk of inheriting a genetic mutation should be aware of they have it",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should list cancer syndrome and mutated genes that are associated with an increased risk of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should state that if a relative of a cancer patient with a genetic cancer syndrome undergoes testing and is negative for the mutation, they do not have the syndrome",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient discuss genetic testing for inherited cancer syndromes and molecular testing of tumor tissue with their oncologist and oncology team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 177,
+      "question_text": "My mother has pancreatic cancer and we're dealing with treatment-related cognitive changes. Is this reversible?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the phenomenon known as \"chemo-brain,\" or cognitive issues experienced by individuals undergoing chemotherapy treatment",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 2,
+          "description": "The response should include information about impaired cognition related to chemotherapy treatment and how long it is expected to last once treatment is completed",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that some medications, such as opioids, used for symptom management can cause depressed cognition",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that other etiologies of impaired cognition may also be present such as organ dysfunction, age-related cognitive decline, poor nutritional status, or medication side effects",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that depression is related to cognitive impairment, especially in the elderly population",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that some causes of cognitive impairment are reversible, while others are not",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient or family member discuss cognitive impairment with the patient's oncology team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 178,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer stem cells. How do these affect treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe what cancer stem cells are",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain the role that cancer stem cells play in tumorigenesis and metastasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that pancreatic cancer commonly is metastatic at diagnosis",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe what is known about cancer stem cells in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should reference research on pancreatic cancer stem cells, and include real citations. If the reference does not have a true citation, this answer will receive no points",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should clearly state what is known about how pancreatic cancer stem cells affect treatment efficacy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should summarize knowledge about treatments that are or are not effective on pancreatic cancer stem cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should direct the patient to discuss cancer stem cells with their oncologist, and inquire about whether there are clinical trials available for pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 179,
+      "question_text": "My husband has pancreatic cancer and we're considering joining support groups. What types are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the importance of maintaining mental health support for patients and caregivers affected by pancreatic cancer",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 2,
+          "description": "The response should list resources with website links that provide free or insurance-covered pancreas cancer support group information such as PanCAN, NCI, and NCCN",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe different types of support groups such as in person, virtual, and telephone",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention websites for people to find support groups local to their home",
+          "min_points": 0,
+          "max_points": 1
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention ways in which support groups for people affected by cancer can be helpful",
+          "min_points": 0,
+          "max_points": 1
+        },
+        {
+          "item_number": 6,
+          "description": "The response should normalize use of support groups for people affected by cancer",
+          "min_points": 0,
+          "max_points": 1
+        },
+        {
+          "item_number": 7,
+          "description": "The response should state that people can use support groups for different stages of cancer, and that mental health challenges can be faced even during survivorship period",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 8,
+          "description": "The response should emphasize that support groups can help people affected by cancer feel less isolated or alone",
+          "min_points": 0,
+          "max_points": 1
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that faith-based support groups exist",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 10,
+          "description": "The response should state that support groups are not a substitute for seeking mental health services if you are suffering from depression, and should describe what depression is",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should recommend that the patient and/or family inquire with the oncology team about support groups resources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 12,
+          "description": "The response should mention other avenues for support including palliative medicine and Hospice",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 180,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand treatment resistance. Why do treatments stop working?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should summarize how cells in the body can gain mutations that transform them into malignant cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should summarize how malignant cells evade the body's immune system",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should summarize how chemotherapy, immunotherapy, and radiation work to kill cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should summarize ways cancer cells gain mutations and other features to allow them to evade treatments they've been exposed to",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention cancer stem cells and the proposed mechanisms by which they resist treatments such as drug efflux pumps, enhanced DNA repair mechanisms, and immune evasion",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe that sometimes most of the cancer cells are killed by treatment, but the tumor can repopulate if even a few cells survive",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe that with every treatment the cancer cells see, a selective pressure is applied",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that cancer treatments may need to be dose-reduced if the patient has unacceptable toxicity, which may reduce the efficacy of the treatment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should state that this topic is being widely researched and cite sources in the literature",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 181,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned biomarker testing. What biomarkers are important?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define what biomarkers for cancer are in general terms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe what specific biomarkers exist for pancreatic cancer, including CA 19-9 and CEA",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how these biomarkers are used in pancreatic cancer care, and should always state that they are an adjunct to traditional imaging and biopsy interventions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should discuss that biomarkers reliability vary between persons with cancer and are not always interpretable",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that biomarkers can have false positive and negative",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain what circulating tumor DNA is, and how this is considered a cancer biomarker in some malignancies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should summarize how ctDNA enters the bloodstream and then is detected through blood tests",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should include links to existing scientific literature regarding ctDNA use in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should include ways that ctDNA detection can enhance existing modalities for cancer monitoring, including detection of new and potentially targetable mutations in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should suggest that the patient discuss pancreatic cancer biomarker testing with their oncology team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 182,
+      "question_text": "My mother has pancreatic cancer and we're dealing with treatment-related bone problems. How are these managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe different bone and bone density problems that can arise during cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should discuss bone metastases and how these are treated. Some examples are with systemic therapy and observation, radiation, and/or surgery",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that bone metastases can be painful though can also be asymptomatic",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention the rates at which pancreatic cancer metastasizes to the bone, and whether this is a common occurrence",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe what osteopenia and osteoporosis are",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain which patients are at risk for osteopenia and osteoporosis, and how this is tested",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how osteopenia and osteoporosis are managed",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that some patients undergoing chemotherapy receive injections to help the bone marrow recover after treatment, called granulocyte colony stimulating factor, which can cause temporary bone pain",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that pain related to cancer or cancer-treatment is taken seriously and should be discussed with the patient's oncology team",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that palliative medicine is a specialty with expertise in managing symptoms related to medical diagnoses and treatments, and that the patient can request a referral to this specialty if they exist at their cancer center",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 183,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about epigenetic changes. How do these affect the disease?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define epigenetics",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how epigenetic changes can happen in normal cells, including gene silencing, activation, and DNA methylation",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how epigenetic changes impact the cell's function",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe drug classes that target epigenetics including DNA methylation inhibitors or histone deacetylase inhibitors",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the role of epigenetic changes in cancer cells",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain what modifiable lifestyle habits can contribute to epigenetic changes",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend genetic testing of all pancreatic cancer tumor tissue to understand if there are mutations that are targetable by medications",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that targeting epigenetic changes in pancreatic cancer is an experimental topic that is being actively researched",
+          "min_points": 0,
+          "max_points": 4
+        }
+      ]
+    },
+    {
+      "question_number": 184,
+      "question_text": "My husband has pancreatic cancer and we're considering home health services. What should we look for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that there is a broad range of types of in-home care and that the patient and family should consider what tasks they need assistance with",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should summarize common types of assistance that cancer patients benefit from such as cooking, cleaning, general home upkeep, shopping",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 3,
+          "description": "The response should provide links to websites where patients can learn more about the types of care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that patients consider care agencies that are accredited and have a good reputation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that patients consider care agencies that provide a broad range of services, as the patient may have evolving needs as their treatment progresses",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient inquire with his oncology team if there is social work support available to assist in seeking home health care that is covered by the patient's insurance carrier",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention Hospice as a service that provides care in the home for patients with a prognosis of 6 months or less",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 185,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of angiogenesis. How does this relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define angiogenesis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the role of angiogenesis in solid tumors",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the role of angiogenesis in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should discuss how angiogenesis is a target for cancer treatment in some cancers, and whether this type of treatment works well in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should link to randomized control trials studying the effect of anti-angiogenic therapies in pancreatic cancer, with summaries. No points will be awarded if there is not a link to the actual study",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient discuss treatment options with their oncology team, and/or inquire about clinical trials that may be locally available to the patient",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 186,
+      "question_text": "My father has pancreatic cancer and we're dealing with treatment-related liver problems. How are these monitored and managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe ways in which pancreatic cancer and pancreatic cancer treatment can affect the liver including:",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that patients undergoing active cancer treatment should have their liver function tests periodically to monitor for injury and/or resolution of injury",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe ways in which liver injury can be treated such as dose reduction in systemic treatment, local therapy to tumors in the liver, biliary stenting, elimination of offending medications or supplements, or treatment of infection",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include that in rare cases, biopsy of liver tissue is needed to understand the cause of liver injury",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that many different medications and supplements can cause liver toxicity, and the patient should discuss all medications and supplements they take while undergoing cancer treatment to ensure no interactions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe red flag symptoms for liver injury",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend the patient discuss any new or worrisome symptoms with a member of their oncology team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should emphasize the importance of exercise, nutrition, and sleep in mitigating treatment related toxicities and side effects",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 187,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about tumor dormancy. Can cancer cells become inactive?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should discuss what tumor dormancy is",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the implications of tumor cells that can enter dormancy, such as disease recurrence",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 3,
+          "description": "The response should reference evidence from the scientific literature that discuss tumor dormancy in pancreatic cancer, and only references with a PubMed identification number (PMID) should be included",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should indicate whether or not it is possible to detect dormant cancer cells in the body in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should outline that there is ongoing study on the subject of tumor dormancy, though it is not fully understood at this time",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 188,
+      "question_text": "My loved one has pancreatic cancer and we're considering advance directives. What should these include?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe what an advance directive is and why people create them",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the patient and family of the patient ask their oncology team if there are resources available to assist in the creation of this type of documentation, such as social work",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should direct the patient to consider what medical treatments they would accept in the event of an emergency or if they became too sick to make decisions on their own. This should include their wishes surrounding CPR, invasive medical procedures such as dialysis, whether they would accept artificial nutrition, and noninvasive medical treatments such as intravenous fluids or antibiotics. This is also referred to as a living will",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient elect a specific person to be their durable power of attorney for healthcare, or a person who would make medical decisions for them in the event they were too sick to make their own decisions",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that the patient should also complete a POLST, or a physician order for life-sustaining treatment, with their oncologist or other health practitioner, and should have this in their home in an easy-to-see location",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should encourage patients to complete advance directives as soon as possible, and even if their cancer is in remission or cured",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain the logistic of completing an advance directive and recommend that the patient turn in a completed copy of the form to their oncology team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should emphasize to patients with pancreatic cancer the importance of future planning, as this disease is difficult to cure and can be aggressive",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 189,
+      "question_text": "My husband has pancreatic cancer and his doctors mentioned combination targeted therapy. What does this involve?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define what targeted therapy is in oncologic treatment and should explain what combination targeted therapy is",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe what kinds of targeted therapy options exist in pancreatic cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should illustrate why more than one targeted medication might be used at the same time to treat cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain why the patient's tumor tissue needs to undergo molecular testing to understand what targeted therapies are indicated",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain that some targeted therapies may not work on the patient's tumor due to lack of targetable mutations",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain that targeted therapies do not always work in pancreatic cancer due to tumor heterogeneity",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe that targeted therapies are sometimes used at the same time as traditional chemotherapies",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient discuss this further with their oncologist as targeted therapies are individualized to each patient's cancer, and not all targeted therapies are treatment options for all patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 4
+        }
+      ]
+    },
+    {
+      "question_number": 190,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand metastatic patterns. Where does pancreatic cancer typically spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define metastasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain what proportion of pancreatic cancers are metastatic at diagnosis and why",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain how cancer metastasizes, such as hematologic spread and lymphatic spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how pancreatic cancer metastasizes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that metastatic spread of the pancreatic cancer can be influenced by the location of the primary tumor, for example whether it is located at the pancreatic head or the tail",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain the most common locations in the body for pancreatic metastases",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should discuss that pancreatic cancer commonly has already metastasized at the time of diagnosis because it often is asymptomatic at early stage and only becomes symptomatic, prompting diagnostic investigation, once it has spread beyond it's original site",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should state that treatment options exist for all stages of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should state that options for treatment modalities, for example surgery or chemotherapy, depend on the stage of the cancer",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 191,
+      "question_text": "My father has pancreatic cancer and we're dealing with treatment-related kidney problems. How are these managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe how pancreatic cancer chemotherapy treatment can cause injury to the kidneys",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how other pancreatic cancer treatments, such as surgery or radiation, can cause injury to the kidneys",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that urinary tract infection should be ruled out, as some cancer treatments can put patients at increased risk for infection",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain what tumor lysis syndrome is, and state that tumor lysis is considered to be very unlikely in pancreatic cancer treatment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe that patients undergoing systemic treatment for pancreatic cancer should have their kidney function monitored frequently to evaluate for toxicity",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe ways that renal toxicity related to pancreatic cancer treatment is monitored and managed such as: a. serial lab tests of renal function to understand if it is improving over time; b. dose reduction of systemic treatment, particularly the offending drugs; c. administration of intravenous fluids or other medications to support the kidneys; d.thorough evaluation of other medications or supplements a patient is taking to ensure there are no harmful interactions",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient consult with their oncology team and oncology pharmacist prior to starting new medications or supplements while undergoing pancreatic cancer treatment to avoid harmful interactions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that sometimes dialysis may be indicated, if there is a severe kidney injury related to cancer treatment",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend staying well hydrated and with adequate nutrition intake while undergoing pancreatic cancer treatment to preserve energy and organ functions",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 192,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about tumor evolution. How does cancer change over time?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the role of genetic mutations in cancer",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain how cancer treatment applies selective pressure on cancer cells, allowing those that harbor certain characteristics that confer resistance to therapy a survival advantage",
+          "min_points": 0,
+          "max_points": 9
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain that after certain treatments, tumor cells susceptible to that treatment will have died while those resistant to the treatment survive, making the residual cancer fundamentally different that the original cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how genetic mutations can cause cancer cells to resist certain treatments",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the heterogenous cellular make-up of pancreatic cancer at baseline",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the mesenchymal-epithelial transition, including triggers for this phenomenon",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe methods for evaluating tumor evolution over time, including circulating tumor DNA and/or traditional biopsy of the primary tumor or metastatic lesion",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 193,
+      "question_text": "My loved one has pancreatic cancer and we're considering complementary therapies like aromatherapy. Are these safe during treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define complementary therapies, including supportive and integrative therapy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define aromatherapy",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention that any substances that are ingested or applied to the body can cause a reaction, such as an allergic reaction, and may be difficult to tell if the patient's reaction is from the complementary therapy or the cancer treatment itself. For this reason, these complementary therapies should be used with caution",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should inform patients that complementary therapies do not treat cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should inform patients that some complementary therapies may help with symptoms related to their cancer diagnosis, such as stress or insomnia",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend the patient inquire with their oncology team if there are practitioners of complementary therapies that they trust, or can place a referral to",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should provide website links to informational pages from cancer societies such as NCI or PanCAN",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should strongly recommend that the patient discuss any complementary therapies they are considering with their oncology team to ensure there are no harmful interactions with their cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 194,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of metabolism in cancer. How does this affect treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define metabolism in humans",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the Warburg Effect and provide links to additional information about this phenomenon",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should include information about glucose, amino acid, and lipid metabolism in cancer cells, and what is known about these in respect to pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "If the response references scientific studies or clinical trials, there should be a link provided to the specific articles and PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should not recommend specific diets for management of cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should not reference specific diets unless it provides PMID to studies that examine the effect of diet on pancreatic cancer, and the response should provide a summary of the findings",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should not indicate that restrictive diets, such as ketogenic diet or intermittent fasting, should be started by patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should clearly state if treatments are experimental or if they are evidence based and/or FDA approved",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the patient discuss diet with their oncologist and request a referral to a nutritionist if they are interested in learning more",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 195,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related eye problems. Should we be concerned?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should list causes of eye problems related to cancer and/or cancer-treatment including but not limited to: Chemotherapy-induced optic neuropathy; Immunotherapy related inflammation; Bleeding; Cataracts; Dry eye; Metastatic disease to the brain or eye; Infections",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that the patient's eye symptoms may not be related to cancer or cancer treatment, and they should seek out an eye exam by a qualified practitioner",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the patient document characteristics of their symptoms, such as severity and date of onset",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should list \"red flag\" eye symptoms that should prompt immediate presentation to medical care such as vision loss or severe pain",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient discuss any new symptoms with their oncology team, and possibly request a referral to an ophthalmologist (appropriateness of referral is based on reported symptoms",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 196,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned neoantigens. What are these and how do they relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define neoantigens in cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention ongoing research involving neoantigens in cancer including cancer vaccines, immunotherapy, and CAR-T trials with links and PMID references",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there are no FDA approved treatments targeting neoantigens at this time",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient discuss the role of neoantigens in their cancer care with their oncology team, and consider referral to be considered for clinical trials for pancreatic cancer treatment in their area",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 197,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of autophagy. How does this cellular process affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define autophagy, including its normal role in cellular turnover",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the role of autophagy in cancer, including tumor suppression and promotion",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe what is known about autophagy in pancreatic adenocarcinoma",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should reference the scientific literature when able, and all references should have a PubMed identification number",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain if the autophagy process can be targeted with cancer treatment, and provide references with PMID if available",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "whether the autophagy process in cancer cells can be target by cancer treatment drugs and should reference existing evidence in the scientific literature. The response should clearly state if this treatment strategy is FDA approved",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should direct the patient to discuss clinical trial eligibility with their oncology team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 198,
+      "question_text": "My loved one has pancreatic cancer and we're considering telehealth support groups. Are these as effective as in-person groups?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the different types of support groups that exist for cancer patients and family members of cancer patients",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should list pros and cons of each type of support group from Rubric 1",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should address whether there is evidence that a telehealth support group is inferior to an in-person support group, and should provide references and sources for this evidence",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include a way for the patient or family member to input their location in order for the response to generate a list of local support group resources",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should list organizations to contact that might be able to provide support resources",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient ask his/her oncology team for assistance in finding support groups",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe that increased stress is normal when dealing with a cancer diagnosis and treatment, or as a family member of a cancer patient",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 199,
+      "question_text": "My husband has pancreatic cancer and we're dealing with treatment-related sleep problems. What can help improve sleep quality?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe strategies to improve sleep that are evidence based, and should provide references for these interventions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should include insights into things in everyday life that may be interfering with a patient's ability to sleep",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should mention the effect of caffeine, alcohol, and illegal drugs on sleep",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should provide insights into how cancer-related symptoms can interfere with sleep",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should emphasize the importance of appropriate management of cancer-related or cancer-treatment related symptoms to prevent interference into everyday life including sleep",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe common symptoms that people with pancreatic cancer might experience",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should direct the patient to discuss any symptoms of cancer or cancer treatment with their oncology team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should emphasize the importance of mental health and the impact of stress on sleep",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 200,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cachexia. How is this different from regular weight loss?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cancer related cachexia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how cachexia occurs in patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should delineate cancer cachexia from regular weight loss",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include information about prognosis in patients experiencing cancer cachexia, and this information should include references to the scientific literature with PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should provide evidence based recommendations to patients experiencing cancer cachexia, and provide references for these recommendations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient discuss their concerns about cancer cachexia with their oncology team and/or a nutritionist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 201,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned epithelial-mesenchymal transition. What is this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define epithelial cells and their role in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define mesenchymal cells and their role in the body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe epithelial-mesenchymal transition and why this happens in normal tissue, with references to the scientific literature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the role of epithelial-mesenchymal transition in pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that EMT is thought to play a role in metastatic potential of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that EMT is an area of current research and there aren't treatments aimed at this process yet",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient inquire about clinical trials in their area with their oncology team",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 202,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of the microbiome. How does this affect cancer and treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define microbiome",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention the various roles the microbiome is postulated to play in the human body",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should summarize the scientific research with references (PMID if available)",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that this is an area of ongoing scientific research with limited evidence",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe what is known about how the microbiome is associated with cancer, and specifically pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe what is known about how the microbiome is thought to affect pancreatic cancer treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe standard of care treatments for pancreatic cancer, including chemotherapy and immunotherapy, and mention that appropriate treatment selection depends on stage of cancer and fitness of the patient",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should suggest that the patient discuss whether there are ways to support a healthy microbiome with a nutritionist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 203,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related mood changes. Is this common and how is it managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should provide supportive language about mood changes during cancer treatment, and attempt to normalize this phenomenon",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should reference studies that quantify patients with cancer that suffer from mood changes after diagnosis and/or during treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the patient and/or the patient's family members discuss treatment-related mood changes with their oncology team to ensure they are provided with available local resources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe different interventions that may help alleviate the mood issues such as counseling, psychiatric evaluation, medications, support group participation, exercise, nutrition, and cancer-related symptom control",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that patients with suicidal thoughts consider presentation to medical care urgently or emergently",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the role of palliative medicine in cancer care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should list common side effects of both pancreatic cancer and pancreatic cancer treatment, and suggest that feeling poorly can impact one's mood",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that some patients benefit from a mental health standpoint by having their affairs in order, as this can provide some peace of mind in the face of a serious illness",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should list online resources for support for patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend seeking mental health support from a provider who is familiar with cancer patients and cancer care",
+          "min_points": 0,
+          "max_points": 4
+        }
+      ]
+    },
+    {
+      "question_number": 204,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about tumor suppressor genes. How do these relate to cancer development?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define tumor suppressor genes and their function in the human body",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how defects in tumor suppressor genes can lead to cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how tumor suppressor genes gain defects or mutations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that there are genetic syndromes inherited in families that affect tumor suppressor genes, leaving affected individuals at higher risk of developing cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention tumor suppressor genes that are thought to play a role in pancreatic cancer, with references to scientific literature that has a PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that this is an active area of research",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient discuss whether there are clinical trials available in their area with their oncology team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 205,
+      "question_text": "My loved one has pancreatic cancer and we're considering professional counseling. What type of counselor should we look for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should list different types of mental health care providers and include their credentials and what limitations they have in practice",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe different modalities for delivery of mental health counseling, such as in-person and telehealth options",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that choosing the best provider will be individualized and ultimately up to the patient, it cannot be recommended online",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe that there are providers who specialize in cancer care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should mention that there can be providers affiliated with different religious denominations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient discuss mental health counseling with their oncology team to ensure they are connected with local resources",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that there are mental health resources available for family members and caregivers of cancer patients",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient seek counseling as soon as they want to, and not to await a crisis situation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend other ways, in addition to formal counseling, that the patient can improve their overall wellbeing such as adequate nutrition, exercise, quality sleep, and appropriate symptom control",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should introduce palliative medicine as a specialty that can help manage symptoms and/or end of life care for pancreatic cancer patients",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 206,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned DNA damage response pathways. How do these relate to treatment options?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define what DNA damage repair pathways are in the human body",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how mutations in these pathways are detected in tumors, which is through genetic testing of tumor tissue from a biopsy or through blood test",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should list examples of genes implicated in DNA repair pathways in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain treatments in pancreatic cancer that are indicated for mutations in certain DNA repair pathway mutations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should list DNA pathway repair targeted therapies in pancreatic cancer treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should provide references to scientific literature with PMID for any of the FDA approved treatments listed in rubric 5",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient discuss tumor genetic testing with their oncologist, to understand if they are a candidate for any DNA damage repair pathway mutations",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention how mutations in DNA damage repair pathways affect chemotherapy effectiveness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend the patient inquire about clinical trials in their local area that might be evaluating new drugs that target DNA damage repair pathways, or inquire about a referral to a local institution that might have general clinical trials for pancreatic cancer",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 207,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of inflammation in cancer progression. How is this managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define inflammation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should delineate between acute and chronic inflammation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe in general, how inflammation can be managed medically",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should mention that there is not a formal strategy that is evidence based to quantify and target inflammation in the bodies of cancer patients",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that treatment of the cancer itself is postulated to improve cancer-related inflammation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe that chronic injury to the pancreas, such as chronic pancreatitis, is thought to promote cancer formation and provide references to the scientific literature with PMID",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should provide recommendations for lifestyle interventions that can decrease generalized inflammation, such as well balanced diet that emphasizes plant-based foods, exercise, hydration, good quality sleep",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend against nicotine and alcohol use and reference their role in inflammation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the patient report any symptoms to their oncology team, as adequate management of symptoms can assist in lifestyle interventions known to help reduce inflammation",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 208,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with medication management challenges. What systems can help organize this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should list methods to organize medications at home such as a centralized location for medication storage, pill boxes or organizers, physical or digital calendars, use of technology to set reminders/alarms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should empathize about the medication burden in patients undergoing cancer treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend exploration of cell phone or computer based apps that can assist with medication management",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should direct the patient to discuss options for medication management with their oncology team and/or pharmacy team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient look into medication deliver services and bubble packs",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient have a loved one help with their medication management",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 209,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about oncogenes. How do these contribute to cancer development?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define oncogenes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe that oncogenes can undergo mutation, which might put the individual at risk for developing cancer",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how mutated oncogenes put patients at increased risk for cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how oncogenes mutate",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should reference which mutated oncogenes are implicated in pancreatic cancer, with references to the scientific literature with PMID if available",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state whether there are FDA-approved treatments available for pancreatic cancers with mutated oncogenes, with references to the scientific literature and PMID",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that patients with pancreatic cancer undergo tumor genetic testing either with biopsy of primary tumor or blood test",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that patients inquire with their oncology team if there are clinical trial opportunities available to them, or a local institution",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 210,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand treatment sequencing. Does the order of treatments matter?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe that sometimes pancreatic cancer management requires different modalities of treatments, such as chemotherapy and surgery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe what treatment sequencing in pancreatic cancer is",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain the goal of treatment sequencing in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe that treatment recommendations for pancreatic cancer are made based on the stage of the cancer, the fitness of the patient, and additional features of the cancer/patient that would affect the treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe that in pancreatic tumors that are thought to be surgically resectable, patients often undergo chemotherapy prior to surgery to try to shrink the tumor and kill any micrometastases for the best possible surgical outcome",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention that surgery rarely plays a role in advanced pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should state risks involved if cancer treatment is no appropriately sequenced",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient request a multidisciplinary conference to discuss their pancreatic cancer management recommendations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe what a tumor board (or multidisciplinary conference) is for discussions on management of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should explain that the oncology care team needs to gather information in order to make informed recommendations on pancreatic cancer treatment, such as imaging studies, tumor biomarkers, and possibly tumor genetic testing",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 11,
+          "description": "The response should emphasize that treatment sequencing is individualized to the patient",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 12,
+          "description": "The response should define the following terms: neoadjuvant, adjuvant, perioperative",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 211,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned hypoxia in tumors. What does this mean for treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define hypoxia",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe why cancer cells that exist in a hypoxic environment are difficult to treat",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain what is known about hypoxia and pancreatic cancer, including references to the scientific literature with PMID if available",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how hypoxic environments affect cancer's response to treatment, including references to the scientific literature with PMID if available",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the mechanism of action of VEGF inhibitors, and their postulated role in the treatment of hypoxic tumors",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain whether there is evidence-based information about hyperbaric oxygen therapy in hypoxic tumors, with references to the scientific literature and PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how hypoxic environments effect the immune system's ability to access cancer cells",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend the patient discuss whether there are clinical trials focusing on tumor cell hypoxic environments available in their area",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 212,
+      "question_text": "My mother has pancreatic cancer and we're dealing with communication challenges with the medical team. How can we improve this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient bring a loved one or family member to all appointments, and consider taking notes or recording the conversation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the patient document all of their questions or concerns in advance of an appointment with the oncology team in order to ask everything during their allotted face to face time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the patient utilize online patient portals to send messages if/when needed",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient inquire about communication contacts and channels that would be best to contact their oncology team as soon as possible in their treatment journey. This way they can establish a \"point person\"",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should provide a list on online resources that patients and family members can reference to provide some answers to questions",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend additional points of contact with the oncology team such as patient advocates, social workers, nurses, and/or palliative medicine specialists",
+          "min_points": 0,
+          "max_points": 9
+        },
+        {
+          "item_number": 7,
+          "description": "The response should emphasize the importance of feeling supported in their cancer journey",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should encourage the patient and/or family members to ask for clarification on any aspects of care that are unclear, and to encourage question-asking during appointments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the patient request a language interpreter if they feel more comfortable communicating in an alternate language (than what their medical team speaks)",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 10,
+          "description": "The response should inform patients that they can ask for a written summary of their medical appointments, after the visit",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 213,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell plasticity. How does this affect treatment response?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cancer cell plasticity",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how cancer cell plasticity is thought to make cancer cells more difficult to treat, with references to scientific literature and PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the role plasticity plays in metastatic potential of a cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe what epithelial-mesenchymal transition in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should define and describe cancer cell dormancy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how cancer cell plasticity can contribute to cancer cell dormancy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how cancer cell plasticity allows cancer cells to evade the immune system, making immunotherapy relatively ineffective in these cancer types",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention ways that cancer directed therapy can be used to attempt to overcome cancer cell plasticity, such as treatment sequencing and medication combinations",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 214,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of mechanical forces in cancer. How do these affect tumor growth?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanical forces in relation to cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the different kinds of mechanical forces present in tissues; such as rigidity, compression/tension, shear stress, and solid stress",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the effect of different mechanical forces on cancer growth and proliferation",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should discuss how different aspects of tissue are affected by stiffness, including blood vessels",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should define desmoplastic stroma, which is often seen in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how stiffness of the tumor environment in pancreatic cancer can promote tumor growth and invasion into nearby structure and provide references from the scientific literature including PMID",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe the pancreatic cancer tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention future research directions as it pertains to desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain if there are FDA approved therapies that act on the desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 215,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with coordination between multiple specialists. What's the best approach?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient discuss the primary medical team responsible for keeping track of their referrals and oncologic care; this is usually the medical oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the potential medical teams involved in cancer care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the patient keep a comprehensive log of their test results and progress notes, in order to provide these to providers in the event that they did not receive everything",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient have a loved one accompany them to all appointments, preferably the same person, and take notes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient use online patient portals to ask questions and contact their oncology team",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe different professionals that can possibly help with care coordination, such as nurse case managers and social workers",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 216,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned senescence in cancer cells. What is this and how does it relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define senescence in cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the role of senescence in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe ways in which cancer cells evade senescence",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain how some cancer therapies induce senescence, including references from the scientific literature with PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain what senolytics are, and describe if there are any FDA approved in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how senescent cells can produce a tumor-friendly environment and local inflammation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe senescence-associated secretory phenotype factors",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should state that this is an active area of research in the scientific community",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should suggest that the patient discuss senescence with their oncologist and consider referral for clinical trial consideration at a local academic institution",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 217,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of exosomes. How do these cellular components affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define exosomes and describe what they contain",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the role of exosomes in cancer cells, including cell-cell communication, tumor promotes, immune evasion, and drug resistance",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the emerging or experimental role of exosomes as tumor biomarkers",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how exosomes travel in the body",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain how exosomes are thought to facilitate metastases in cancer",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe if there are any FDA approved treatments that are associated with cancer exosomes",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 218,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with end-of-life planning. What should we consider and when?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the different categories of tasks that need to be addressed when a patient is approaching end of life due to pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define what a medical durable power of attorney is, as well as how the steps one needs to take in order to elect a medical DPOA",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define a POLST and recommend that a patient have this filled out and displayed in their home. The patient's healthcare provider teams should also have a copy of the patient's POLST",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define advance directive and living will, and recommend that a patient have these documents completed and/or updated as they reach end of life",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend a palliative medicine consultation to consider transitioning treatment focus from disease-targeted to comfort-focused care",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe Hospice, and ensure to include that patients with a prognosis of less than 6 months are eligible to enroll",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should state that Hospice benefits vary across insurance plans, so it is important to understand what their specific benefits are",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should include information about Hospice, namely that services are provided for the patient but also for the family and caregivers of the patient",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the patient elects a financial durable power of attorney as someone to make financial decisions for the patient if they are unable to make decisions for themselves from illness",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient consider what funeral arrangements they would prefer after their death, and communicate this to their loved ones and family",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should recommend that the patient plan for their death with regard to any religious or spiritual rituals",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 12,
+          "description": "The response should describe the importance of open communication between the patient and their decision makers to ensure their wishes can be respected as they approach death",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 219,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell dormancy. Can cancer cells remain inactive for long periods?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cancer cell dormancy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain why it is advantageous for cancer cells to be able to enter a dormant state",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe scenarios in which a cancer cell may be prompted to enter dormancy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain how long a cancer cell can remain dormant in the body",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe cancer cell dormancy in other cancers such as breast cancer, and provide references in the scientific literature including PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe what is known about cancer cell dormancy in pancreatic cancer, preferably with references to the scientific literature with PMID",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 220,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of mechanical stress in tumors. How does this affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanical stress, and describe what mechanical stress is related to a tumor in the human body",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe sources of mechanical stress in tumors",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how mechanical stress on tumor cells impacts their ability to grow and metastasize, with references to the scientific literature and PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the relationship between mechanical stress in tumors and hypoxia",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should inform the patient that effects of mechanical stress on tumor tissue is not fully elucidated and is an area of active scientific research",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention the effect of mechanical stress on the tumor in angiogenesis, invasion and metastasis, and promotion of tumor cell survival",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain that mechanical stress on tumor tissue is implicated in treatment resistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should encourage the patient to discuss available clinical trials in their area",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 221,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned tumor organoids. What are these and how are they used in research?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define tumor organoids",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define patient-derived organoids",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how tumor organoids are grown",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain how tumor organoids are different than cultured cells",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how tumor organoids are used for testing cancer medications",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how tumor organoids are used to tailor treatments to the patient from which they are derived",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe advantages of using patient-derived organoids for research",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe limitations of using patient-derived organoids for research",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain that the use of tumor organoids is experimental and not available at all cancer centers",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 222,
+      "question_text": "My mother has pancreatic cancer and we're dealing with complex family dynamics around medical decisions. How do we navigate this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient and her legal next of kin request assistance from social work from their oncology team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the patient choose a medical decision maker, or medical durable power of attorney, who will make medical decisions for her in the event she is unable to do so herself",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should inform the patient about the role of palliative medicine in cancer care, who are providers who can help establish a patient's goals of care and can assist with documentation of this",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient designate a primary family member who can attend appointments and relay information to other family members",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend establishment of a meeting schedule, where the primary family member or patient meet with a greater group of family members for regular updates",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 223,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about circadian rhythms in cancer. How do these affect treatment timing?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define circadian rhythm",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain how disruptions in the circadian rhythm are thought to promote pancreatic cancer growth, and should include references to the scientific literature and PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the concept of chronotherapy",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend ways to promote normal circadian rhythms in pancreatic cancer patients",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain the effect of poor or interrupted sleep on circadian rhythms",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain the effect of poor or inadequate diet on circadian rhythms",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should provide general recommendations for sleep hygiene",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient discuss nutrition and eating with a nutritionist that is familiar with nutritional challenges associated with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the patient inquire with their oncology team about clinical trials pertaining to circadian rhythms in pancreatic cancer in their area",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 224,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of mitochondria in cancer cells. How does this relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mitochondria",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain the roles of mitochondria in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain what is known about how the role of mitochondria in cancer cells differs from that of normal cells",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the increased metabolic demands on cancer cells and why this happens",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain the Warburg effect",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define apoptosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain the role of mitochondria in apoptosis in normal cells, and explain how this can be altered in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define reactive oxygen species and how they are created with regard to the role that mitochondria play",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how ROS can damage surrounding cells, and the subsequent cellular signalling pathways that are stimulated as a result",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe that as a facilitator of cellular energy, mitochondria are a potential treatment target",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 11,
+          "description": "The response should define glutamine and how this substance is used in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 12,
+          "description": "The response should state that cancer treatment targeting mitochondrial functions are experimental and not part of FDA-approved treatment regimens at this time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 13,
+          "description": "The response should recommend that the patient discuss experimental treatment options, or clinical trials, with their oncology team to learn if there are any being conducted locally",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 225,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with insurance coverage for experimental treatments. What options do we have?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient and/or family discuss their insurance coverage issues with the oncology team that is administering the experimental treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should mention that there are financial assistance programs available for some experimental drugs, but this varies from drug to drug so they must inquire",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that many clinical trial drugs are free of cost to the patients, however travel to and from the center administering the trial is often not covered",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe what \"compassionate use\" is and recommend that the patient/family ask their oncology team about this",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient discuss their concerns with their cancer center's financial team and/or patient advocacy office",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient and/or family become familiar with their insurance policy to understand what is or is not covered",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should inform the patient that they have the right to appeal any decision made by the insurance company",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient seek out patient advocacy groups online to learn how other patients navigated the same issues",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 226,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned ferroptosis. What is this type of cell death and how does it relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define ferroptosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should provide references in the scientific literature about ferroptosis and link PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe if there are any FDA-approved cancer treatments that target the ferroptosis process",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain the role of iron in ferroptosis",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe why ferroptosis occurs",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the role of ferroptosis in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention if there are FDA-approved cancer treatments that target the ferroptosis pathway",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define apoptosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe the difference between apoptosis and ferroptosis",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    }
+  ]
+}

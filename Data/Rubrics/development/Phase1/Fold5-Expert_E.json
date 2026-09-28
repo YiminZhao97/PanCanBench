@@ -1,0 +1,3586 @@
+{
+  "questions": [
+    {
+      "question_number": 227,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of mechanical properties of tissues. How do these affect cancer spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanical properties of tissues",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should include descriptions of the following mechanical properties of tissue: stiffness, elasticity, viscosity, density, and compression",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe compression of surrounding tissue by the tumor",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define desmoplastic stroma and it's role in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain what tumor microenvironment is",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe ways by which cancer metastasizes",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how tissue stiffness promotes cancer spread",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe epithelial-to-mesenchymal transition and what environmental factors trigger this transition in pancreatic cells and pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how pancreatic cells interact with desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 9
+        },
+        {
+          "item_number": 10,
+          "description": "The response should define tumor microenvironment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe how pancreatic cancer cells interact with the tumor microenvironment, and how different elements encourage cell travel; such as inflammation, hypoxia",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 12,
+          "description": "The response should describe the effect of DNA mutations, such as KRAS, on a pancreatic cancer cell's potential to travel outside of the primary site",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 13,
+          "description": "The response should explain other methods for spread of pancreatic cancer besides invasion into solid tissue, such as hematologic spread, lymphatic spread, and perineural invasion",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 228,
+      "question_text": "My loved one has pancreatic cancer and we're considering participating in patient advocacy. What opportunities are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The patient should reach out to their oncology team to inquire about availability of support services such as patient advocacy through their institution",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should provide online links to organizations that provide advocacy assistance to cancer patients",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the patient and/or family seek out pancreatic cancer support groups to learn about advocacy opportunities",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend different areas in which people can participate in advocacy for pancreatic cancer patients; such as direct patient support, support groups, funding for cancer research, awareness of clinical trials for pancreatic cancer, or political lobbying for government research funding for pancreatic cancer treatment advancement",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient consider contacting their government representatives regarding patient advocacy opportunities",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should suggest fundraising campaigns for cancer research as an advocacy avenue",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 229,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer metabolism. How do cancer cells obtain energy differently?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define metabolism in humans",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the Warburg Effect and provide links to additional information about this phenomenon",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should include information about glucose, amino acid, and lipid metabolism in cancer cells, and what is known about these in respect to pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how cancer cells are required to obtain fuel in a hypoxic environment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should discuss how cancer cells utilize glucose inefficiently",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define glycolysis",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how cancer cells use glutamine, and how this is different than normal cells",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define lactic acid and describe how excess lactic acid can be produced by cancer cells",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "If the response references scientific studies or clinical trials, there should be a link provided to the specific articles and PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should not recommend specific diets for management of cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should not reference specific diets unless it provides PMID to studies that examine the effect of diet on pancreatic cancer, and the response should provide a summary of the findings",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 12,
+          "description": "The response should not indicate that restrictive diets, such as ketogenic diet or intermittent fasting, should be started by patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 13,
+          "description": "The response should clearly state if treatments are experimental or if they are evidence based and/or FDA approved",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 14,
+          "description": "The response should recommend that the patient discuss diet with their oncologist and request a referral to a nutritionist if they are interested in learning more",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 230,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related peripheral neuropathy. What rehabilitation options exist?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define chemotherapy induced peripheral neuropathy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the grading system oncologists use to quantify the severity of chemotherapy induced peripheral neuropathy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe medical therapy options for management of peripheral neuropathy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient request a referral to physical therapy and/or occupational therapy for rehabilitation from peripheral neuropathy",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe ways that patients with peripheral neuropathy can adapt to their environment to prevent adverse events",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should inform patients the importance of protecting body parts that are experiencing neuropathy, such as appropriately sized and firm shoes",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain common symptoms from peripheral neuropathy, such as numbness or paresthesia",
+          "min_points": 0,
+          "max_points": 9
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe that some patients have diminishment of chemotherapy induced peripheral neuropathy over time, but sometimes it is permanent",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should encourage patients to participate in activities that promote general wellness such as exercise, balanced nutrition with an emphasis on plant-based foods, good sleep hygiene, and adequate hydration",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient discuss adjunct therapies and interventions for patients experiencing severe treatment side effects such as peripheral neuropathy, including cognitive behavioral therapy",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 231,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned liquid-liquid phase separation in cells. How does this relate to cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define liquid-liquid phase separation (LLPS) in cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the role of LLPS in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe ways that LLPS is affected in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the role of LLPS in pancreatic cancer, and what specific ways LLPS can be affected in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the link between common mutations seen in pancreatic cancer and dysregulated LLPS, and include references to the scientific literature including PMID if available",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain that this is an active area of scientific research",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should mention that there are no FDA-approved treatments that target LLPS at this time",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient consider inquiry on LLPS in pancreatic cancer with their oncology team, and ask about local clinical trial availability",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 232,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of mechanical forces in drug delivery. How does this affect treatment effectiveness?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define the mechanical properties of tissues",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should include descriptions of the following mechanical properties of tissue: stiffness, elasticity, viscosity, density, and compression",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe compression of surrounding tissue by the tumor",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define desmoplastic stroma and it's role in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain what tumor microenvironment is",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how pancreatic cancer is able to remodel it's surrounding extracellular matrix to promote a tumor-friendly environment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how blood vessels in the tumor's surrounding area are affected by mechanical changes to the tissue",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should reference scientific literature with PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain that research on the effects of mechanical properties of tissue on treatment delivery is active and ongoing",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient inquire about experimental treatments, or clinical trials, in their area with their oncology team",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 233,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with long-distance caregiving challenges. What strategies work best?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of building a local support network, in addition to the long-distance network the patient already has",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should emphasize the importance of regular and comprehensive communication with the patient to ensure they feel well supported",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend shared apps or other technological tools to share information between the patient and distant caregivers",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that an emergency plan is in place for the patient with local people",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend distant caretakers tune into medical appointments via speakerphone of video call capabilities",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend ways that caregivers can provide support from afar",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient inquire about local support and caregiving opportunities with a social worker",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient look into their insurance to understand if they have a benefit for paid caregiving",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should provide online resources for patients with pancreatic cancer to learn more about local caregiving opportunities",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 234,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell competition. How do different cancer cells interact?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the origin of cancer, from a single mutated cell that proliferates over time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain that subsequent tumor cells can acquire additional mutations, which go on to create subpopulations of cancer cells that are different",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how different stressors on the tumor, such as chemotherapy, select for certain characteristics in the cancer cell populations, such as chemotherapy resistance",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe that sometimes the interests of the different subpopulations of cancer cells oppose each other, and how",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe that sometimes the interests of different subpopulations of cancer cells are aligned and their effect benefit all of the cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe ways in which cancer cells may compete for resources, with links to the scientific literature if available",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe cancer cell competition",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain ways pancreatic cancer cells differ and how they compete with each other",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 235,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of mechanical stress in drug resistance. How does this affect treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define the mechanical properties of tissues",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should include descriptions of the following mechanical properties of tissue: stiffness, elasticity, viscosity, density, and compression",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe compression of surrounding tissue by the tumor",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define desmoplastic stroma and it's role in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain what tumor microenvironment is",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how pancreatic cancer is able to remodel it's surrounding extracellular matrix to promote a tumor-friendly environment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how blood vessels in the tumor's surrounding area are affected by mechanical changes to the tissue",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should reference scientific literature with PMID if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain that research on the effects of mechanical properties of tissue on treatment delivery is active and ongoing",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient inquire about experimental treatments, or clinical trials, in their area with their oncology team",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 236,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned proteostasis in cancer cells. What is this and how does it relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define proteostasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain the role or proteostasis in normal cells and ensure to mention: protein synthesis, protein folding, protein trafficking, and protein degradation",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain the role of proteostasis in pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how proteostasis is a target for cancer therapy drugs",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain different steps and phases of proteostasis, which could be potential targets for cancer treatments",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention whether there are any FDA-approved therapies for pancreatic cancer that target proteostasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient inquire about therapies that target proteostasis with their oncology team, and whether there are clinical trials available to target this pathway",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 237,
+      "question_text": "My mother has pancreatic cancer and we're dealing with treatment decision fatigue. How do we manage this overwhelming feeling?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should attempt to normalize treatment decision fatigue for patients undergoing cancer care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should emphasize the importance of maintaining mental health while undergoing cancer treatments, for both the patient and their loved ones",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend avenues for support for pancreatic cancer patients, including online groups and in-person local groups",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain the role of palliative medicine in assisting patients with deciphering their goals of care, particularly in the midst of a serious cancer diagnosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that patients lean on their support network for assistance in making medical decisions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient inform their oncology team about feeling overwhelmed with decision making",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should suggest that the patient request more frequent appointments with their oncology team for ongoing conversations and to answer questions that arise",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should have the patient consider organizing all of the treatment recommendations before them, and create pros vs cons list",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention that documentation of thoughts can be helpful to reflect upon when it comes time to make a medical decision",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 238,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell migration. How do cancer cells spread through the body?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define metastasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe lymphatic spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe perineural invasion and describe how cancer can spread this way",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe hematologic spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how cancer cells lodge in tissues distant from their original site",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain epithelial-mesenchymal transition in pancreatic cancer, and how this promotes cancer cell spread",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe that pancreatic cancer is often diagnosed at advanced stages, when it has already spread outside of the original site",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain the most common sites that cancer cells spread",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe patterns of spread in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should explain how treatment recommendations change in pancreatic cancer if the cancer has spread beyond the local site",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe characteristics of cancers that have higher predilection for spreading",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 239,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of mechanical cues in cancer stem cells. How does this affect cancer recurrence?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cancer stem cells and what specific properties they have",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define tumor microenvironment",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe mechanical cues as they pertain to solid tumors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should delineate between other types of environmental inputs that cells experience and mechanical forces, such as chemical or hormonal cues",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe that pancreatic cancer promotes desmoplasia in its microenvironment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain how mechanical forces in the tumor microenvironment influence the behavior of cancer stem cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should link scientific literature with PMID on the subject, if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe how mechanical forces in the tumor microenvironment affect disease recurrence and metastatic potential",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should mention how mechanical cues affect tumor cell dormancy",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention that the desmoplastic tumor microenvironment in pancreatic cancer is actively being researched",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 240,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the emotional toll of uncertainty. What coping strategies are most effective?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should normalize the range of emotions felt after a loved one receives a serious cancer diagnosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should emphasize the importance of maintaining mental health during times of strife",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend avenues of support for cancer patients and their family members",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient lean on their loved ones and support network",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should emphasize the importance of maintaining healthy lifestyle habits to support wellbeing during times of stress, such as a cancer diagnosis",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend organization of thoughts and questions to discuss with the oncology team",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should emphasize the importance of understanding the diagnosis to the patient and suggest ways to educate themselves",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend seeking emotional and/or mental health support from a professional",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 9,
+          "description": "The response should suggest that the patient discuss their emotional state with their oncology team and inquire about resources for assistance",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 10,
+          "description": "The response should mention the importance of getting one's affairs in order upon receiving a cancer diagnosis, as this can provide some peace of mind about the future",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 11,
+          "description": "The response should emphasize the importance of avoiding isolation",
+          "min_points": 0,
+          "max_points": 2
+        }
+      ]
+    },
+    {
+      "question_number": 241,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned phase separation in cancer cells. How does this cellular organization affect cancer behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define phase separation in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define phase separation in cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define biomolecular condensates",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how phase separation affects drug resistance in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how phase separation affects gene manipulation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the role that phase separation plays in the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe the effect that phase separation has on cellular metabolism and survival",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that phase separation is the topic of ongoing research at this time",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe the role of phase separation in the facilitation of invasion and metastasis of cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 242,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of mechanotransduction. How do cells sense and respond to mechanical forces?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanotransduction",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe mechanical forces on tissues",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain how mechanical forces in tumors and/or the surrounding tissues are different than in normal tissue",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe ways that cells detect mechanical forces in their environment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe ways that pancreatic cancer cells respond to mechanical forces in their environment, particularly stiffness or desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 243,
+      "question_text": "My loved one has pancreatic cancer and we're considering legacy planning. What should we focus on during treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient do advance care planning for their preferences for medical care in the event of emergency or inability to communicate",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should instruct patients to create a POLST with their healthcare provider, and post this in a visible place in their home",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the patient elect a healthcare durable power of attorney",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient ensure their financial affairs are in order",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient elect a financial durable power of attorney",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient complete a will and designate beneficiaries on life insurance",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient consider reaching out to friends and loved ones in order to connect and spend time together",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that that the patient consider how to reconcile their affairs in the financial, legal, and social realms",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should provide online references and links to resources regarding legacy planning",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 10,
+          "description": "The response should suggest the patient inquire about assistance with some of these aspects of legacy planning with their oncology team, to understand if there are resources available",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 244,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell adhesion. How do cancer cells attach and detach from tissues?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cell adhesion in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how cell adhesion processes are changed in cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should list and define adhesion proteins",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the extracellular matrix",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain epithelial-mesenchymal transition (EMT)",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain how EMT facilitates cancer cell spread",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe the components of cell adhesion",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe the components of cell detachment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should include different enzymes implicated in cell adhesion and detachment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe factors in the tumor microenvironment that promote or facilitate tumor cell detachment and migration",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should mention if there are any FDA-approved treatments that target cancer cell detachment",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 245,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of hope versus realism. How do we balance these perspectives?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of maintaining mental health throughout the cancer diagnosis and treatment process",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should emphasize the importance of supporting the patient's autonomy and keeping strong lines of communication open",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that it is normal to feel this conflict in the face of a pancreatic cancer diagnosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest that the patient and/or family member ask their oncology team about prognostic information to understand the expected outcome of their treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain quality of life, and describe factors of cancer treatment that can impact the patient's quality of life",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should provide online resources for pancreatic cancer information and support groups for the patient to consider reaching out to a community about their struggles",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 246,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned condensates in cancer cells. What are these structures and how do they affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define biomolecular condensates",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain the role of biomolecular condensates in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define liquid-liquid phase separation (LLPS)",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how biomolecular condensates become deregulated in cancer cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the protein YAP/TAZ and it's role in biomolecular condensates in cancer cells",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 6,
+          "description": "The response should reference the scientific literature regarding biomolecular condensates when available, including PMID",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should list ways that biomolecular condensates encourage cancer cell growth, proliferation, and migration",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention that the study of biomolecular condensates and their role in cancer is an area of active scientific research",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should state whether there are FDA-approved therapies that target biomolecular condensates in cancer",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 247,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of tissue stiffness. How does this physical property affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define tissue stiffness",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain how and why pancreatic cancer promotes formation of desmoplastic stroma around itself",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the process of cell adhesion in normal tissue",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how increased stiffness in tumors and the tumor microenvironment influences cell adhesion",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should mention the effect of tissue stiffness on angiogenesis and drug resistance",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how development of desmoplastic stroma around pancreatic cancer tumors is a protective factor",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain whether there are FDA-approved treatments that target tissue stiffness in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should define mechanotransduction",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 10,
+          "description": "The response should suggest that the patient discuss the role of clinical trials in their cancer care with their oncology team",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 248,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the complexity of multi-generational family support. How do we coordinate care across generations?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of being organized and open with communication",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that one family member is designated as a communication person, and perhaps accompany the patient to their medical appointments and take notes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should encourage the communication person to develop a strategy to deliver information to the multi-generational family members",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest a weekly family meeting",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should reinforce the importance of boundaries for the pancreatic cancer patient while they undergo treatment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should suggest that the patient inquire with their oncology team if there are resources available for group support or for cultural mediation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient or loved ones identify care needs, such as cleaning or food prep, and assign roles to family members according to their strengths",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should suggest that the patient utilize technology to help with communication, such as a shared document or app that tracks medical appointments",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should encourage the patient to focus on their own wellbeing and mental health",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend online resources for pancreatic cancer information as well as support services that the patient and family members can access to answer questions, etc",
+          "min_points": 0,
+          "max_points": 2
+        }
+      ]
+    },
+    {
+      "question_number": 249,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell invasion. What makes cancer cells able to invade healthy tissue?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe how a cancer cell develops, including DNA mutations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe tumor suppressor genes",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe oncogenes",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe cell adhesion, and how this process can be altered in cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain epithelial-mesenchymal transition and how this affects a cell's ability to migrate",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain the phenomenon of loss of cell-cell adhesion in cancer cells",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe hematologic spread, lymphatic spread, perineural invasion, and direct invasion as ways cancer can spread to distant parts of the body",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define tumor microenvironment",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how cancer cells can use enzymes to change the tumor microenvironment to their advantage",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe other ways cancer cells can interact with the tumor microenvironment to promote migration",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe any unique ways pancreatic cancer cells are thought to metastasize",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 12,
+          "description": "The response should recommend websites that help explain different aspects of pancreatic cancer and provide resources for pancreatic cancer patients",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 250,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of fluid flow in tumors. How does this affect drug delivery and cancer behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe different fluids that exist in a tumor and it's environment",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain how fluids move in normal tissue to perform tasks such as nutrient and oxygen delivery, and to manage waste products",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe attributes of tumors and the surrounding tissue that disrupt the normal function of fluids",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 5,
+          "description": "The response should define desmoplastic stroma and how pancreatic cancer encourages the development of this",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe abnormalities seen in tumors with fluid management",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how abnormalities in fluid flow within tumors can affect drug delivery to the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define interstitial fluid pressure",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how increased interstitial fluid pressure impacts drug delivery, including uneven distribution of exposure in the tumor",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe how fluid flow affects cancer behavior",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe how low flow to tumor tissue stimulates further cancer cell growth and development",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 12,
+          "description": "The response should explain that poor fluid flow in tumor tissue is an active area of scientific research at this time",
+          "min_points": 0,
+          "max_points": 2
+        }
+      ]
+    },
+    {
+      "question_number": 251,
+      "question_text": "My father has pancreatic cancer and we're dealing with the challenge of maintaining dignity during treatment. What approaches help preserve this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should attempt to normalize feelings of loss of control for cancer patients at the time of diagnosis and/or during cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe components of personal dignity",
+          "min_points": 0,
+          "max_points": 9
+        },
+        {
+          "item_number": 3,
+          "description": "The response should encourage the patient, family and friends of the patient, and oncology care team to respect the patient's bodily autonomy",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should encourage the patient to prioritize management of side effects and symptoms of cancer or cancer treatment",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should encourage the patient to communicate any side effects or symptoms of cancer or cancer treatment to their oncology care team to ensure they are being offered management solutions",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 6,
+          "description": "The response should encourage the patient and family to have open and ongoing communication about the patient's wishes for medical care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient put his/her wishes for medical care in writing as a POLST and advance directive",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that the patient and loved ones promote independence and normalcy in the patient's life as much as possible",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should encourage the patient to always remember that anything that happens to their body with regard to cancer treatment, is their choice",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that that patient disclose any feelings of overwhelm or loss of autonomy with their oncology team, and inquire about resources for support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 11,
+          "description": "The response should explain the role of palliative medicine and suggest the patient inquire about a referral with their oncology team",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 12,
+          "description": "The response should emphasize the importance of prevention of caregiver burnout",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 252,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about cancer cell contractility. How do mechanical forces generated by cells affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should explain normal cell contractility",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define actin",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define myosin",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain cell contractility in cancer cells, and ways this process differs in cancer cells from normal cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how the tumor microenvironment affects mechanical forces on cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should define extracellular matrix",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define mechanobiology",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how changes in the tumor microenvironment contribute to cancer spread and drug resistance",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should explain epithelial-mesenchymal transition and describe why this happens in pancreatic cancer cells, and how this affects cancer spread",
+          "min_points": 0,
+          "max_points": 8
+        }
+      ]
+    },
+    {
+      "question_number": 253,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of extracellular matrix. How does this tissue scaffolding affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define the extracellular matrix and its function in normal tissues",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the different components of the extracellular matrix in normal tissue",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how the extracellular matrix changes in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain how the changes in the extracellular matrix in pancreatic cancer promote cancer growth and facilitate movement of cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should define desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how desmoplastic stroma causes hypoxia in the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe how hypoxia in the tumor microenvironment causes inflammation, and how this promotes cancer growth",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how the desmoplastic stroma in the pancreatic cancer microenvironment contributes to treatment resistance",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe how the desmoplastic stroma in the pancreatic cancer microenvironment can cause symptoms and complications due to mechanical forces on the surrounding structures, specifically mentioning the effect on blood vessels",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 254,
+      "question_text": "My husband has pancreatic cancer and we're dealing with the challenge of maintaining relationships during this difficult time. What strategies work?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that loved ones of a patient with pancreatic cancer seek education about the disease and common symptoms that patient experience from the cancer or treatment, in order to have a better understanding what the patient is experiencing",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should encourage open communication between the patients and their loved ones",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should encourage the patient to seek support from their loved ones",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should attempt to normalize the stress that patients feel after receiving a pancreatic cancer diagnosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend the patient consider professional counseling support",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend against behaviors that might isolate the patient after a serious medical diagnosis",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient prioritize symptom control, in order to feel as normal as possible",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should indicate that some people may not feel comfortable discussing a serious cancer diagnosis with a friend or loved one, and that this can be a normal response",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend that the patient observe which people in their social circle want to be supportive, and to lean on these people",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend that the patient continue to reach out to friends and loved ones, and try to participate in the same activities they previously did, in order to maintain relationships",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 11,
+          "description": "The response should suggest that the patient consider creating boundaries with people, including how to handle unsolicited advice",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 12,
+          "description": "The response should recommend that the patient consider activities where they can be fully present with the people they are with, for the best quality interactions",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 255,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell mechanosensing. How do cancer cells detect and respond to their mechanical environment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanosensing",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe mechanosensing in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define desmoplastic stroma and describe its development in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how cancer cells detect mechanical characteristics of their environment",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe integrins, cytoskeleton, ion channels, membrane sensors",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain the YAP/TAZ pathway and it's role in the development of desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how cancer cells respond to characteristics in their environment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention if there are FDA-approved therapies that target the cancer cells' ability to mechanosense",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how cancer cells migrate in response to cues from mechanical forces in their environment, and define epithelial-mesenchymal transition",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 256,
+      "question_text": "My father has pancreatic cancer and we're trying to understand the role of pressure in tumors. How does elevated pressure affect treatment delivery?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe different fluids that exist in a tumor and it's environment",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain how fluids move in normal tissue to perform tasks such as nutrient and oxygen delivery, and to manage waste products",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe attributes of tumors and the surrounding tissue that disrupt the normal function of fluids",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 5,
+          "description": "The response should define desmoplastic stroma and how pancreatic cancer encourages the development of this",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe abnormalities seen in tumors with fluid management",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how abnormalities in fluid flow within tumors can affect drug delivery to the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define interstitial fluid pressure",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how increased interstitial fluid pressure impacts drug delivery, including uneven distribution of exposure in the tumor",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe how fluid flow affects cancer behavior",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe how low flow to tumor tissue stimulates further cancer cell growth and development",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 12,
+          "description": "The response should explain that poor fluid flow in tumor tissue is an active area of scientific research at this time",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 13,
+          "description": "The response should describe ways that increased pressure from interrupted fluid dynamics and desmoplastic stroma can cause compression on surrounding structures, leading to blockages and symptoms",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 257,
+      "question_text": "My mother has pancreatic cancer and we're dealing with the emotional impact on our extended family. How do we support everyone affected?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of open communication with the family regarding how everyone is dealing with the patient's cancer diagnosis",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 2,
+          "description": "The response should encourage that family members provide emotional support to each other",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend pursuit of professional mental health counseling for family members of a patient with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend resources that patients and families of patients with pancreatic cancer can access for information about the disease",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should list sources and/or websites for support groups for patients with pancreatic cancer and their family members",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should encourage family members to provide assistance and support to their loved ones affected by pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 258,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell deformability. How does the ability of cells to change shape affect cancer spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should explain cancer cell deformability",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define extracellular matrix and cytoskeleton",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain cell adhesion processes",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how cell deformity changes in cancer cells as compared to normal cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the impact of enhanced deformability of cancer cells on their ability to metastasize",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain ways that cancer cells migrate from the primary tumor, including hematologic and lymphatic spread, perineural invasion, and direct invasion",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how cancer cells with increased ability to deform survive stresses that normal cells would not",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe desmoplastic stroma in the pancreatic cancer tumor microenvironment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how increased deformability capabilities are necessary for cells to travel within the desmoplastic stroma of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 259,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of shear stress in cancer. How do fluid forces affect cancer cells?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define shear stress",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe what sources of shear stress exist in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define mechanobiology",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain that cancer cells can encounter shear stress forces in the tumor, in the bloodstream, and in lymph channels",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe desmoplastic stroma and how this forms in pancreatic cancer's tumor microenvironment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain the effect that the desmoplastic stroma has on fluid flow in and around a pancreatic cancer tumor",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how increased shear stress encourages cancer cells to proliferate and metastasize",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe how shear stresses on cancer cells impact drug resistance",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 260,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of maintaining hope while being realistic about prognosis. How do we find this balance?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of maintaining mental health throughout the cancer diagnosis and treatment process",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should emphasize the importance of supporting the patient's autonomy and keeping strong lines of communication open",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that it is normal to feel this conflict in the face of a pancreatic cancer diagnosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest that the patient and/or family member ask their oncology team about prognostic information to understand the expected outcome of their treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain quality of life, and describe factors of cancer treatment that can impact the patient's quality of life",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should provide online resources for pancreatic cancer information and support groups for the patient to consider reaching out to a community about their struggles",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 261,
+      "question_text": "My father has pancreatic cancer and we want to understand more about cancer cell traction forces. How do the forces cells exert on their environment affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define traction forces that exist in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define the extracellular matrix",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how traction forces are changed in cancer cells, as opposed to normal cells",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how increased traction forces from pancreatic cancer cells on their environment promote cancer cell proliferation and migration",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe changes in the pancreatic cancer environment that are prompted by traction forces from the cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define mechanotransduction",
+          "min_points": 0,
+          "max_points": 2
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe the extracellular matrix",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define desmoplastic stroma in pancreatic cancer's tumor microenvironment",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe the effect of desmoplastic stroma on cancer cell's ability to metastasize",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe how traction forces in cancer cells contribute to drug resistance in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 262,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of viscosity in the tumor environment. How does tissue thickness affect cancer behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define viscosity and explain what this is in normal cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe how viscosity is changed in the pancreatic cancer microenvironment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should define tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define desmoplastic stroma and how pancreatic cancer promotes the formation of this in its environment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain how \"thickness\" of the tissue surrounding a tumor can influence the behavior of the cancer cells",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the influence of desmoplasia on cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how desmoplasia limits oxygen delivery to tumor tissue",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain how hypoxia affects the behavior of cancer cells",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how desmoplasia limits tumor access by the immune system",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should explain how desmoplasia causes drug resistance in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should explain how desmoplastic stroma in the pancreatic cancer microenvironment selects for tumor cells with more aggressive migratory behavior",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 263,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of cultural differences in medical decision-making. How do we navigate this sensitively?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient and family members communicate their important cultural beliefs to their oncology team, for better understanding",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that the patient or family members inquire with their oncology team about cultural mediators that might assist in communication and decision making with the patient and their medical team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should strongly recommend that a medical interpreter is present for all medical appointments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest that the patient request more time for their appointments, especially if a medical interpreter is needed",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should suggest the patient and/or family inquire about services a patient advocacy office could provide",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should encourage the patient to communicate their preferences around medical decision making with their oncology team",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should encourage the patient, family, and medical team to remain respectful to each other",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend online resources for both patients and medical teams to learn about particular cultural norms around medical care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should recommend referrals for additional specialists for layers of support, such as palliative medicine",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend medical teams to complete thorough documentation on patient preferences surrounding communication and medical decision making",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 264,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell elasticity. How does cell stiffness or softness affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should explain cancer cell deformability",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define extracellular matrix and cytoskeleton",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain cell adhesion processes",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how cell deformity changes in cancer cells as compared to normal cells",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the impact of enhanced deformability of cancer cells on their ability to metastasize",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain ways that cancer cells migrate from the primary tumor, including hematologic and lymphatic spread, perineural invasion, and direct invasion",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe how cancer cells with increased ability to deform survive stresses that normal cells would not",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe desmoplastic stroma in the pancreatic cancer tumor microenvironment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how increased deformability capabilities are necessary for cells to travel within the desmoplastic stroma of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        }
+      ]
+    },
+    {
+      "question_number": 265,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of confinement in cancer cell behavior. How does physical space restriction affect cancer cells?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define confinement in the context of cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define desmoplastic stroma in pancreatic cancer and describe its formation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should connect how the desmoplastic stroma that forms around the tumors in pancreatic cancer leads to confinement of cancer cells",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how physical space restriction affects cancer cells",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain how confinement of cancer cells due to desmoplastic stroma enhances migration and invasion, essentially stimulates metastases",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain how confinement of cancer cells due to desmoplastic stroma can promote genetic mutations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how confinement of cancer cells due to desmoplastic stroma enhances their ability to survive and adapt to stress",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention the role of hypoxia in all of these features of pancreatic cancer, and describe why pancreatic tumors are in a hypoxic environment",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 9,
+          "description": "The response should state that this is an area of active scientific research",
+          "min_points": 0,
+          "max_points": 2
+        }
+      ]
+    },
+    {
+      "question_number": 266,
+      "question_text": "My father has pancreatic cancer and we're dealing with the challenge of maintaining family traditions during treatment. What approaches help preserve meaningful activities?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should recommend that the patient prioritize management of cancer or cancer-treatment related side effects to feel as \"normal\" as possible to be present for himself and his family",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should suggest that family traditions can take on modifications or adaptations in order to allow their father to participate",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that the family members consider documentation of the family traditional events with their father, as a way to reminisce and honor his presence",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should encourage the family members to be thoughtful about ways their father can feel included in family events",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 5,
+          "description": "The response should suggest that the family seek their father's input on what meaningful events and activities he desires to participate in",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should encourage the patient and any loved ones to consider professional mental health support during this challenging time",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should suggest that the patient and/or family members leverage support systems",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should encourage family members to be flexible with any plans they make with their father, and expect to need to modify aspects of events according to his needs and energy level",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should provide resources to organizations that provide support to patients and families dealing with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 267,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about cancer cell swimming. How do cancer cells move through fluid environments?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe ways cancer cells migrate, including in solid tissues and through a fluid-filled environment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should explain hematologic spread and lymphatic metastasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain amoeboid motility that some cancer cells can perform to actively travel through fluid",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain membrane fluctuations and how some cancer cells can do this to actively travel through fluid",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain chemical gradients and provide examples, and should define chemotaxis",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe passive movements of cancer cells in fluid-filled environments",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should provide links to the scientific literature that discusses ways cancer cells can move through fluid substances, with PMIDs if available",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should summarize ways pancreatic cancer cells migrate in their solid tissue environment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe the most common way that pancreatic cancer cells are thought to spread",
+          "min_points": 0,
+          "max_points": 4
+        }
+      ]
+    },
+    {
+      "question_number": 268,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of surface tension in cancer. How do interfacial forces affect cancer cell behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define interfacial forces in cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define surface tension, and describe this phenomenon as it pertains to pancreatic cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe cell to cell adhesion",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the different mechanical cues that exist in the tumor microenvironment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define extracellular matrix",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe ways that normal cells interact with the extracellular matrix, and ways that cancer cells interact with the extracellular matrix",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe the role of interfacial forces during cancer cell metastasis",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how interfacial forces in cancer cells contribute to their ability to spread",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 269,
+      "question_text": "My husband has pancreatic cancer and we're dealing with the challenge of long-term uncertainty. How do we live with not knowing what the future holds?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should attempt to normalize the challenge of living with long-term uncertainty with a family member dealing with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The responses should recommend professional counseling or therapy to deal with the difficult emotions that come from living with a family member dealing with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should provide links to resources where patients and family members of patient with pancreatic cancer can find support groups and information",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend that the patient/family request updates and communication with the oncology team as often as needed to feel more informed about the diagnosis, treatment, etc",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend attempting to preserve normal routines in the home as much as possible for patients with pancreatic cancer and their families",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should emphasize the importance of quality of life when someone is facing a serious diagnosis such as pancreatic cancer",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should suggest ways to maintain good quality of life for patients facing pancreatic cancer diagnoses",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that patients and family members of patients with pancreatic cancer learn about the disease, to provide some understanding of the expected outcomes (which vary depending on stage of disease)",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 270,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell climbing. How do cancer cells move along surfaces and fibers?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define metastasis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how pancreatic cancer forms desmoplastic stroma in its environment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe cell-to-cell adhesion and include definitions of: integrins, collagen, fibronectin",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should define extracellular matrix",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define actin and myosin, and describe how these proteins act to deform cells to assist in traction and movement",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 7,
+          "description": "The response should define chemotaxis",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define amoeboid migration",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe how pancreatic cells interact with desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 9
+        },
+        {
+          "item_number": 10,
+          "description": "The response should define tumor microenvironment",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe how pancreatic cancer cells interact with the tumor microenvironment, and how different elements encourage cell travel; such as inflammation, hypoxia",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 12,
+          "description": "The response should describe the effect of DNA mutations, such as KRAS, on a pancreatic cancer cell's potential to travel outside of the primary site",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 13,
+          "description": "The response should explain other methods for spread of pancreatic cancer besides invasion into solid tissue, such as hematologic spread, lymphatic spread, and perineural invasion",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 271,
+      "question_text": "My father has pancreatic cancer and we're trying to understand the role of geometry in cancer. How do shapes and structures in tissues affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define geometry in biology and medicine, and with regards to human cells and their surrounding structures",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe that normal cells exist in a neat, orderly, and structured space within their respective tissues",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how normal tissue structure is disrupted in solid cancer",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the components of normal tissue architecture; such as collagen and extracellular matrix",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe that cancer cells proliferate in an unchecked fashion, disrupting the architecture of their environment",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe the effect of desmoplastic stroma on pancreatic cell proclivity to migrate and spread",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should mention the role of blood vessels in drug delivery, and how this can be impacted by pancreatic tumors and desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 272,
+      "question_text": "My mother has pancreatic cancer and we're dealing with the challenge of maintaining privacy while seeking support. How do we balance these needs?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should encourage patients and their families to be selective about who they disclose the patient's pancreatic cancer diagnosis to",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that patients who prefer to maintain privacy with their medical diagnoses communicate to all those aware of their cancer diagnosis that they do not want the information disseminated",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should inform the patient and family members that medical records are subject to HIPAA laws, which prevent divulgence of medical information unless a patient has specifically consented to this",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should encourage the patient and family members to consider utilizing online support groups in order to maintain confidentiality with their local social circles",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that the patient inform their oncology care team of their wishes to keep their diagnosis confidential",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend that the patient and family members be careful and thoughtful with social media posting to maintain her confidentiality",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that the patient and/or family members seek a balance; it is OK to be selective with sharing her diagnostic information however isolation for patients and/or caregivers can accelerate burnout",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should provide online links to pancreatic cancer support resources for patients and caregivers",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 273,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell squeezing. How do cancer cells move through tight spaces?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cancer cell migration and metastasis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define the extracellular matrix",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the different components of the extracellular matrix",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define desmoplastic stroma, and describe how this is formed in the pancreatic cancer environment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how cancer cells are able to deform their shapes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain the cellular cytoskeleton and it's main component parts, such as actin and myosin",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe amoeboid movement in cells, and include a description of filopodia",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe mesenchymal movement in cancer cell, and provide examples of enzymes used by cancer cells in this phenomenon",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should provide links to any scientific literature it references, including PMID",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 10,
+          "description": "The response should explain how cells can use ion gradients to prompt movement",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe the importance of pancreatic cancer cells' ability to deform or \"squeeze\" in the desmoplastic stromal environment for survival and spread",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 12,
+          "description": "The response should include information about how the nucleus is thought to be deformable in cancer cell migration",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 13,
+          "description": "The response should describe the primary mechanisms of pancreatic cancer spread; including local invasion into solid tissue, hematologic spread, and lymphatic spread",
+          "min_points": 0,
+          "max_points": 4
+        }
+      ]
+    },
+    {
+      "question_number": 274,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of topology in cancer. How do the connectivity and structure of tissue networks affect cancer spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define topology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe tissue networks and their component parts",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe ways that pancreatic cancer is known to metastasize; including local solid tissue invasion, hematologic spread, lymphatic spread, and perineural invasion",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should define the extracellular matrix and describe its component parts",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the desmoplastic stroma that pancreatic cancer encourages to grow in its environment",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how abnormal tissue, such as desmoplastic stroma, increases in density of tissue networks structures and encourages cancer growth and spread",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe the roles of blood and lymph vessels in cancer spread",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain how disrupted tissue architecture can encourage cancer growth and spread",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe cell-to-cell adhesions in normal cells, and how cancer cells can disrupt these adhesions making them more able to migrate",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe how mechanical properties of tissue can stimulate tumor growth and spread",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 275,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of maintaining optimism for our children while being honest about the situation. How do we handle this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of maintaining mental health throughout the cancer diagnosis and treatment process",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend professional counseling or other therapy to maintain a positive attitude in the face of a serious illness",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should emphasize the importance of supporting the patient's autonomy and keeping strong lines of communication open",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that it is normal to feel this conflict in the face of a pancreatic cancer diagnosis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should suggest that the patient and/or family member ask their oncology team about prognostic information to understand the expected outcome of their treatment",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain quality of life, and describe factors of cancer treatment that can impact the patient's quality of life",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should provide online resources for pancreatic cancer information and support groups for the patient to consider reaching out to a community about their struggles",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 8,
+          "description": "The response should provide resources specifically for children affected by a family member's pancreatic cancer diagnosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should suggest that the patient and/or family members leverage support systems",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 10,
+          "description": "The response should recommend remaining honest and open with children of a family member affected by pancreatic cancer",
+          "min_points": 0,
+          "max_points": 7
+        }
+      ]
+    },
+    {
+      "question_number": 276,
+      "question_text": "My father has pancreatic cancer and we want to understand more about cancer cell collective migration. How do groups of cancer cells move together?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe ways that pancreatic cancer is known to metastasize; including local solid tissue invasion, hematologic spread, lymphatic spread, and perineural invasion",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe cell-to-cell adhesions in normal cell and in cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain the theory of \"leader cells\" and \"follower cells\" in a group of cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe how cancer cells exhibit amoeboid movement",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how cancer cells exhibit mesenchymal migration",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define the extracellular matrix",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should define desmoplastic stroma",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should describe how pancreatic cells interact with desmoplastic stroma to encourage cancer cell growth and migration",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how \"leader cells\" influence a clump of traveling cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should define integrins, cadherins, and other proteins that play roles in cell-to-cell adhesions",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 11,
+          "description": "The response should show how cells communicate with each other, such as with chemical signals or enzymes",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 277,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of curvature in cancer. How do curved surfaces and structures affect cancer cell behavior?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define the extracellular matrix",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should define epithelial-to-mesenchymal transition (EMT)",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should explain cancer cell migration",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the effect of mechanical forces on cell signaling",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how varying levels of positive or negative curvature at the cellular level influence EMT and cancer cell migration, and reference the scientific literature with PMID if available",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe the effect of mechanical forces of tissues on cancer cells",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should include that cellular curvature acts as both a signal and constraint in cancer cell progression",
+          "min_points": 0,
+          "max_points": 8
+        },
+        {
+          "item_number": 9,
+          "description": "The response should describe cancer cell membrane tension, and what occurs when this force is too high",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe how high cell surface membrane tension, such as from curvature, can hinder movement of the cytoskeleton",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 11,
+          "description": "The response should describe the effects of mechanical tension at the level of tissue and organs, particularly if imbalanced, can play on the spread of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 12,
+          "description": "The response should define paracrine signaling and explain it's role in pancreatic cancer cell communication",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 278,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with the challenge of celebrating milestones during treatment. How do we acknowledge important moments while managing the illness?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of controlling symptoms related to pancreatic cancer or pancreatic cancer treatment in patients with pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should recommend that caregivers take measures to prevent burnout, which is prevalent in care for cancer patients",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should recommend that loved ones plan small, meaningful gatherings with the patient",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should emphasize the importance of flexibility when planning events with a patient with pancreatic cancer, and remain patient and understanding if plans fall through",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should recommend that planners of celebrations of milestones with pancreatic cancer patients consider incorporating time for rest and keep gatherings small and simple",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 6,
+          "description": "The response should suggest that a professional therapist or counselor can help maintain mental health in patients experiencing pancreatic cancer",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend that patients discuss plans for celebrations with their oncology teams, to better plan treatments around in order to ensure the patient is feeling their best",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 8,
+          "description": "The response should recommend that patients and/or family members take care of any legal and/or medical paperwork as soon as possible to prevent the need to discuss this at celebrations (eg. DPOA selection, will, POLST)",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain that there will likely be a decline in overall health of the patient over time, and expectation management should be discussed by the patient and their oncology team",
+          "min_points": 0,
+          "max_points": 4
+        }
+      ]
+    },
+    {
+      "question_number": 279,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell jamming. How do crowded conditions affect cancer cell movement?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define and explain cancer cell jamming",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should also define and describe cancer cells that are in an unjammed state",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how cancer cells become unjammed",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe the intrinsic properties of cells that contribute to jamming and unjamming of cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe the extrinsic properties of cells that contribute to jamming and unjamming of cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should describe how cancer cells that are in a jammed state have restricted movement",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 7,
+          "description": "The response should explain how jamming occurs in normal cells",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 8,
+          "description": "The response should explain methods of cancer cell movement",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain how unjamming of cancer cells contributes to cancer spread and migration of cancer cells",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 280,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of pattern formation in cancer. How do organized structures emerge in tumors?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should describe the concept of pattern formation in cellular structures",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should give commonly recognizable examples of biologic pattern formation",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe how organized structures develop in tumors",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should explain how DNA mutations in cancer cells can change their behavior, and how this plays a role in pattern formation",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 5,
+          "description": "The response should describe how cancer cells promote angiogenesis",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 6,
+          "description": "The response should explain how cancer cells interact with tissues in their environment",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should define and describe the extracellular matrix",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 8,
+          "description": "The response should define and describe desmoplastic stroma in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 9,
+          "description": "The response should explain the influence of the tumor microenvironment on tumor cell pattern formation",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 10,
+          "description": "The response should describe evolutionary pressures on cancer cells and the acquisition of DNA mutations",
+          "min_points": 0,
+          "max_points": 6
+        },
+        {
+          "item_number": 11,
+          "description": "The response should define and describe mechanical forces that exist in the tumor's environment that contribute to structure emergence in tumors",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 281,
+      "question_text": "My father has pancreatic cancer and we're dealing with the challenge of making memories while managing the reality of limited time. What approaches help create meaningful experiences?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should emphasize the importance of focusing on prioritization of quality time, over quantity",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 2,
+          "description": "The response should encourage patients to open lines of communication with their affected family member, such as daily phone calls to check in",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should encourage loved ones of a pancreatic cancer patient to consider legacy-building activities, such as photobook creation or writing letters to loved ones",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 4,
+          "description": "The response should recommend keeping family members and loved ones involved in the patient's life, being mindful of the patient's energy level",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should suggest that the patient and/or family members prioritize symptom management related to cancer or treatment, in order to ensure the patient is feeling their physical best if possible",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should recommend ways to document events and/or moments for future reference",
+          "min_points": 0,
+          "max_points": 4
+        },
+        {
+          "item_number": 7,
+          "description": "The response should recommend the use of technology, such as video calls (eg. Zoom) to keep in contact with loved ones without having to travel",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 8,
+          "description": "The response should advise the patient and family members to explore assistive medical professionals such as with Hospice services and/or palliative medicine for support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 9,
+          "description": "The response should emphasize the importance of preventing caregiver burnout",
+          "min_points": 0,
+          "max_points": 6
+        }
+      ]
+    },
+    {
+      "question_number": 282,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about cancer cell waves. How do coordinated movements propagate through cancer cell populations?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define cancer cell waves and state that there are several different types of waves known to exist in cancer cell biology",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should describe calcium waves and provide PMID of referenced scientific literature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe bioelectric waves and provide PMID of referenced scientific literature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should describe metabolic (glycolytic) waves and provide PMID of referenced scientific literature",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should explain different mechanisms of cell-to-cell communication",
+          "min_points": 0,
+          "max_points": 7
+        },
+        {
+          "item_number": 6,
+          "description": "The response should define and describe paracrine signalling",
+          "min_points": 0,
+          "max_points": 3
+        },
+        {
+          "item_number": 7,
+          "description": "The response should describe what is known about cellular waves in pancreatic cancer, and how it affects the cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    }
+  ]
+}

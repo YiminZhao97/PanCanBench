@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parents[3]
 
 
 def default_source_dir() -> Path:
-    return ROOT / "Data/Rubrics/reviewed_phase4"
+    return ROOT / "Data/Rubrics/development/Phase4"
 
 
 def default_check_file() -> Path:

@@ -439,9 +439,9 @@ The polished rubrics demonstrate {'significant improvement' if (expert1_stats['i
         
         # Default polished rubrics files
         if expert1_polished_file is None:
-            expert1_polished_file = 'Data/Rubrics/development/Phase2/Data/polished_rubrics_Fold1_Expert_A.json'
+            expert1_polished_file = 'Data/Rubrics/development/Phase2/polished_rubrics_Fold1_Expert_A.json'
         if expert2_polished_file is None:
-            expert2_polished_file = 'Data/Rubrics/development/Phase2/Data/polished_rubrics_Fold1_Expert_B.json'
+            expert2_polished_file = 'Data/Rubrics/development/Phase2/polished_rubrics_Fold1_Expert_B.json'
         
         # Process Expert1
         expert1_results = self.process_expert_questions(
@@ -502,9 +502,9 @@ def main():
     """Main function to run the analysis."""
     
     parser = argparse.ArgumentParser(description='Compare grading consistency before and after rubric polishing')
-    parser.add_argument('--expert1_polished', type=str, default='Data/Rubrics/development/Phase2/Data/polished_rubrics_Fold1_Expert_A.json',
+    parser.add_argument('--expert1_polished', type=str, default='Data/Rubrics/development/Phase2/polished_rubrics_Fold1_Expert_A.json',
                        help='Path to Expert1 polished rubrics file')
-    parser.add_argument('--expert2_polished', type=str, default='Data/Rubrics/development/Phase2/Data/polished_rubrics_Fold1_Expert_B.json',
+    parser.add_argument('--expert2_polished', type=str, default='Data/Rubrics/development/Phase2/polished_rubrics_Fold1_Expert_B.json',
                        help='Path to Expert2 polished rubrics file')
     parser.add_argument('--expert1_original', type=str, default='targeted_large_differences_expert1_data.json',
                        help='Path to Expert1 original differences file')

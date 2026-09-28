@@ -1,0 +1,26 @@
+{
+  "description": "Three approved wording updates applied after the reviewed Phase 4 source files; preserve the existing final rubric JSON.",
+  "changes": [
+    {
+      "question_number": 68,
+      "item_number": 9,
+      "field": "description",
+      "before": "Negative points if targeted therapies are discussed that are not approved for pancreatic cancer, such as osimertinib, regorafenib, mTOR inhibitors.",
+      "after": "The response discusses targeted therapies that are not approved for pancreatic cancer, such as osimertinib, regorafenib, or mTOR inhibitors."
+    },
+    {
+      "question_number": 73,
+      "item_number": 14,
+      "field": "description",
+      "before": "The response should not mention that chemotherapy for pancreatic cancer can be given via subcutaneous injection.",
+      "after": "The response mentions that chemotherapy for pancreatic cancer can be given via subcutaneous injection."
+    },
+    {
+      "question_number": 176,
+      "item_number": 14,
+      "field": "description",
+      "before": "The response should not incorrectly state that all family members of a patient with a pathogenic genetic mutation should have genetic testing.",
+      "after": "The response incorrectly states that all family members of a patient with a pathogenic genetic mutation should have genetic testing."
+    }
+  ]
+}

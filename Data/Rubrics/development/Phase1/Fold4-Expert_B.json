@@ -1,0 +1,1768 @@
+{
+  "questions": [
+    {
+      "question_number": 171,
+      "question_text": "My father has pancreatic cancer and is considering volunteering for research studies. What opportunities exist?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that research opportunities include clinical trials",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that research studies can also consist of observational studies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that patients can participate in registries and biorepositories that can be used for further studies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should link the clinical trials dot gov and NCI to search for active trials",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that the patient should discuss with their oncologist to review the risks and benefits of participating and research and to explore active opportunities",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 172,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of the immune system in her treatment. Can you explain?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that immunotherapy is the type of treatments that utilize the immune system to recognize and destroy cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that immunotherapy is an area of active research for pancreatic cancer but that it is not currently shown to be effective for most pancreas cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that a limited number of pancreatic cancer cases have features that do make it respond to immunotherapy such as MSI-H or mismatch repair deficiency",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should ask the oncologist if her mother's tumor has MSI-H or mismatch repair deficiency",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that they can ask the oncologist about if immunotherapy clinical trials are available",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 173,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with caregiver burnout. What support is available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that caregiver burnout is common among family members of pancreas cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that there are emotional support groups for patients and caregivers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there are options for professional caregiver support to give a break to family members/loved ones",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that palliative care involvement can help with optimizing symptom management which may help reduce caregiver burden",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state they should make sure to take time for self care",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 174,
+      "question_text": "My husband has pancreatic cancer and his doctors mentioned liquid biopsy monitoring. What does this involve?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that \"liquid biopsy\" involves taking a sample of blood to analyze either circulating tumor DNA or circulating tumor cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that this is done in order to follow the activity of cancer over time and that it can correlate with treatment response",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that this is not sufficient to establish whether or not the cancer is responding to treatment and that it has to be used in addition to imaging tests",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should also state that the approach is not established as standard of care and would likely be offered in the context of a research study",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 175,
+      "question_text": "My loved one has pancreatic cancer and we're trying to maintain their independence during treatment. What strategies work?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that physical independence can be promoted by maintaining strength with rehab and exercises",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that one strategy is to promote physical independence by maintaining strength with rehab and exercises",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that assistance devices and equipment such as shower chairs and grabbing bars can be used to help maintain independence",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that emotional support including participating in patient groups is another good way of maintaining independence",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 176,
+      "question_text": "My father has pancreatic cancer and we're considering family genetic testing. Who should be tested and when?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that genetic testing can be considered for the patient particularly if he is young or has first degree relatives with a history of cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that younger first degree relatives should be referred for genetic counseling and testing can be considered",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state the BRCA1 and BRCA 2 testing can be considered particularly if there are other first degree relatives with malignancies such as breast or prostate cancer",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 177,
+      "question_text": "My mother has pancreatic cancer and we're dealing with treatment-related cognitive changes. Is this reversible?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that treatment related cognitive changes is a known side effect of treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the cognitive changes can be from the chemotherapy drugs or from the cancer itself",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the changes can get better after completion of treatment but that it can take a long time and the patient may not recover completely to pre-treatment baseline",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the intensity and duration of treatment can be correlated with the extent of cognitive changes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that symptoms can be managed with \"cognitive rehabilitation\" which can include exercises such as puzzles and word games. Additionally, optimizing lifestyle changes such as good sleep and exercise can help",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should also state that in some cases the treatment team may consider prescribing a stimulant such as methylphenidate",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 178,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer stem cells. How do these affect treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that cancer stem cells are cancer progenitor cells that are persistent and can self-renew",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state these cells are more resilient than normal cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the cells are implicated in the treatment resistance and recurrence",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that there are no current standard of care treatments that directly target cancer stem cells but that it is an active area of research",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 179,
+      "question_text": "My husband has pancreatic cancer and we're considering joining support groups. What types are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that there are many different options for treatment groups",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that there are in person and virtual options",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should provide examples of nationals support organizations such as the Pancreatic Cancer Action Network (PanCAN) and the American Cancer society",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that virtual options include facebook groups and PanCAN virtual support groups",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that cancer centers often have their own support groups and that it would be worthwhile to ask someone on the treatment team what is available",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 180,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand treatment resistance. Why do treatments stop working?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that define treatment resistance as when cancer cells over time no longer respond to therapies",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 181,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned biomarker testing. What biomarkers are important?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that BRCA and HRD genes are key biomarkers as they can predict response to platinum chemotherapy and PARP inhibitors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that MSI/MMR is an important biomarker as it can identify the small percentage of patients that may respond to immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that KRAS is an important biomarkers as it could determine eligibility for experimental treatments directly targeting the mutations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that testing can be done on a blood sample or from tumor tissue",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 182,
+      "question_text": "My mother has pancreatic cancer and we're dealing with treatment-related bone problems. How are these managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that low bone density, or osteoporosis, can be managed with bone strengthening agents such as bisphosphonates or RANKL inhibitors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state pain and fractures can be managed with pain control and therapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 183,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about epigenetic changes. How do these affect the disease?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that epigenetics are changes in activation of DNA that can occur in response to environmental factors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that epigenetic changes can lead to inactivation of silencing tumor-suppressor genes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that it can also lead to activation of oncogenes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that epigenetic changes can contribute to changes in the behavior of the tumor such as increased propensity to spread",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that epigenetic changes can impact treatment response",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that targeted epigenetic changes is an area of research but is not standard therapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 184,
+      "question_text": "My husband has pancreatic cancer and we're considering home health services. What should we look for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that they should make sure that the home health service is licensed and accredited",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they should ensure that the specific services that they are seeking are offered by the specific agency",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that home health services can include home nurse visits and in-home therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should seek agencies that work with cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that they should ask the social worker to help them understand what will be covered by insurance, medicare or medicaid and what they out of pocket expense will be",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 185,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of angiogenesis. How does this relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that angiogenesis is a key feature of cancer which allows it to grow and spread",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should that that anti angiogenesis agents such as bevacizumab or TKIs are used to treat cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that anti-angiogenesis drugs are not used routinely in pancreas cancer as they have not been shown to significantly improve outcomes",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 186,
+      "question_text": "My father has pancreatic cancer and we're dealing with treatment-related liver problems. How are these monitored and managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that liver function is routinely monitored during treatment using labs",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that changes in liver function labs will often be investigated further with imaging studies",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state the management will depend on the specific cause of the liver problems",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the culprit drug will have its dose reduced or held entirely depending on how severe the injury is",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that biliary obstruction can be managed with procedures to place a stent or drain to relieve the blockage",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 187,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about tumor dormancy. Can cancer cells become inactive?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that cancer cells can become dormant which means that they remain in place but are not actively dividing or spreading",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that dormancy can occur because of microenvironmental or genetic factors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The dormant cells will often be less susceptible to chemotherapy than rapidly dividing cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that these dormant cells can lead to disease recurrence after treatments as they can reactivate after a long period of time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that dormancy is an active area of research",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 188,
+      "question_text": "My loved one has pancreatic cancer and we're considering advance directives. What should these include?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state the advanced directives should include a living will which specifies which types of medical treatment the patient would be open to receiving",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that it should include designation of a health care power of attorney",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that is should include a DNR order if desired",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that it should include POLST forms",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 189,
+      "question_text": "My husband has pancreatic cancer and his doctors mentioned combination targeted therapy. What does this involve?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that combination targeted therapy is when two or more drugs are used to specifically address the genetic alterations that cause the tumor to grow",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the combination can include one mutation directed drug with traditional chemotherapy or immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that sometimes more than one targeted agent is used together to synergistically inhibit a signaling pathway and lower the likelihood of treatment resistance such as dual BRAF/MEK inhibitions",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that KRAS inhibitors in pancreas cancer is a current area of research",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that PARP inhibitors are used in pancreas cancer patients with BRCA1/2 mutations",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 190,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand metastatic patterns. Where does pancreatic cancer typically spread?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that pancreas cancer typically spreads locally first involving surrounding lymph nodes, organs and blood vessels",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the liver is usually the first location for metastases",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that pancreas cancer can also metastasize to the peritoneum or lining of the abdominal cavity",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the cancer can also spread to the lung",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that the cancer can, though less commonly, spread to the bones, brain, and adrenal gland",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 191,
+      "question_text": "My father has pancreatic cancer and we're dealing with treatment-related kidney problems. How are these managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that chemotherapy drugs such as platinum drugs can directly injure the kidney",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that dehydration and obstruction can also lead to kidney injury",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the first step is to identify the culprit and reduce or hold the drug",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that hydration can be given with IV fluids",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that alleviating obstruction can also help recover renal function",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 192,
+      "question_text": "My mother has pancreatic cancer and we want to understand more about tumor evolution. How does cancer change over time?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that tumor evolution is when the cancer changes and adapts over time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the tumor will acquire more genetic mutations which can alter its behavior",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the cancer can acquire resistance to treatment through selective pressure and clonal expansion",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 193,
+      "question_text": "My loved one has pancreatic cancer and we're considering complementary therapies like aromatherapy. Are these safe during treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that complementary therapies should be discussed with the oncology team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that aromatherapy can be safe provided that it is used through inhalation and the oils are appropriately prepared",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that essential oils on the skin should be used with caution as it can worsen skin irritation from chemotherapy or radiation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the aromatherapy can be used to help promote relaxation but complementary therapies have not been shown to directly treat the cancer itself",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 194,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of metabolism in cancer. How does this affect treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that cancer cells change their metabolism and can rely more on glycolysis known as the warburg effect",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that changes in metabolism can alter sensitivity to cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there is not any current evidence for dietary interventions in order to alter the metabolism of the cancer and improve treatment",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 195,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related eye problems. Should we be concerned?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that chemotherapy can lead to eye dryness and irritations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that eye drops can be used to mitigate the symptoms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that use of steroid can lead to increase in cataracts or glaucoma",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state the immunosuppressed patients can be more likely to have infections in their eyes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that any eye symptoms should be discussed with their oncology team and any severe symptoms such as sudden vision loss or blurred vision, pain, or discharge should be promptly evaluated",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 196,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned neoantigens. What are these and how do they relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that neoantigens are proteins expressed on the surface of cancer cells that the immune system can use to differentiate the cancer from healthy tissue",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the presence of neoantigens can increase the likelihood that the cancer will respond to immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 197,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of autophagy. How does this cellular process affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that autophagy is the cellular process where cells break down dysfunctional or unneeded components of the cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that autophagy can be protective against cancer by removing damaged or dysregulated proteins",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the cancerous cells can utilize autophagy to promote survival, growth, and therapy resistance",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that blocking autophagy has been explored as an area of research but there are no current standard of care treatments targeting autophagy in pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 198,
+      "question_text": "My loved one has pancreatic cancer and we're considering telehealth support groups. Are these as effective as in-person groups?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that in person and telehealth groups each have their advantages and disadvantages can either may be as effective based on an individual's needs and preferences",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that telehealth groups can be more accessible and convenient",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that limited studies suggest that virtual groups can lead to equivalent mental health outcomes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that some may feel that in person groups will lead to better emotional connection",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 199,
+      "question_text": "My husband has pancreatic cancer and we're dealing with treatment-related sleep problems. What can help improve sleep quality?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that sleep hygiene is an important first step",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that one element of good sleep hygiene is to have a consistent relaxing bedtime routine that starts half an hour to an hour before bed time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that stimulant use should be avoided in the afternoon and evenings",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state the sleep environment can be optimizing by keeping the room dark, cool, and quiet",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that supportive therapies such as melatonin or other sleep aids can be considered if deemed safe by the medical team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 200,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cachexia. How is this different from regular weight loss?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that cancer cachexia is weight loss that is due to the inflammatory properties of cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the cachexia can occur independently of dietary changes and it involves muscle loss",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that cachexia is difficult to manage",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that it can be mitigated by nutritional support, medications, and physical therapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 201,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned epithelial-mesenchymal transition. What is this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the epithelial-mesenchymal transition which is a key feature of cancer progression as the cells lose their organization and gain the ability to become more mobile and invade surrounding structures",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that plasticity is a key factor in treatment resistance in pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that therapeutic strategies to target plasticity is an active area of research",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 202,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of the microbiome. How does this affect cancer and treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the microbiome is the microorganisms that live in the body that play a role in digestion, immune function, metabolism, and inflammation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that disruption of the microbiome has been associated with increased risk for cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the microbiome can influence the efficacy of immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the microbiome can also influence how the body metabolizes chemotherapy drugs",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that modulating the microbiome to improve outcomes in cancer is an active area of research but there are no standard of care options to date",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 203,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with treatment-related mood changes. Is this common and how is it managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that mood changes are very common with diagnosis of pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that mood changes should be discussed with the oncology team and a referral can be considered to a mental health provider",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the mood changes can be addressed with counseling",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that medications such as anti-depressants can be considered for management of mood changes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that mindfulness and relaxation techniques can be considered",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that support groups can also be considered",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 204,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about tumor suppressor genes. How do these relate to cancer development?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that tumor suppressor genes prevent cancer by controlling cell division, repairing mistakes in DNA, and inducing apoptosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that cancer can arise once the tumor suppressor genes are inactivated",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that TP53, CDKN2A, BRCA 1/2 and SMAD4 are important tumor suppressor genes in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 205,
+      "question_text": "My loved one has pancreatic cancer and we're considering professional counseling. What type of counselor should we look for?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that there are psychologists and counselors that specialize in taking care of cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that a licensed clinical social worker would be a good resource to utilize for advice and to be connected to further resources such as financial or caregiver support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the palliative care team can also have providers that can assist with psychosocial aspects of care",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should ask the oncology team for assistance with referrals",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 206,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned DNA damage response pathways. How do these relate to treatment options?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that DNA damage response pathways are the body's mechanisms to repair breaks and errors in the DNA",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that example genes that are involved in DDR that can be mutated in pancreas cancer include BRCA1/2, ATM, PALB2, and CHEK2",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that around 5-10 percent of pancreas cancers have these mutations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should say that given that they have deficiencies in the repair pathways the cells can be more vulnerable to further DNA damage and can respond to treatments that induce damage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that example treatments include platinum chemotherapies and PARP inhibitors such as Olaparib which can be used as maintenance therapy in pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 207,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of inflammation in cancer progression. How is this managed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that chronic inflammation can help promote tumor growth",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that inflammatory signaling pathways are often overactivated in cancer which can help drive progression",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that activation of the immune system can also be leveraged to recognize and attack the cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that anti-inflammatory drugs are not used as a primary treatment for pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that NSAID and steroids can be prescribed to manage symptoms associated with the cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 208,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with medication management challenges. What systems can help organize this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that one common tool is a pillbox which can be a weekly organizer with multiple compartments for different times a day",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that another tool is to utilize a medical management application",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that another tool is to utilize a written medication chart",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest that they meet with a pharmacist or provider to complete a medication reconciliation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that they can set alarms to help remind them to take the medications",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 209,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about oncogenes. How do these contribute to cancer development?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that oncogenes are genes that are mutated or abnormally activated that promote unregulated cell growth, divisions, and survival",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state the oncogenes are mutated or abnormally activated forms of normal genes called proto-oncogenes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that oncogenes are a key component of why cancer arises through uncontrolled growth and division",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state the oncogenes can be the product of amputation, gene amplification, or chromosomal rearrangement",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that KRAS is a common and important oncogene in pancreas cancer",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 210,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand treatment sequencing. Does the order of treatments matter?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the order of treatment is important in pancreas cancer and is determined by the stage of the cancer and the intent of the treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that for early stage pancreas cancer surgery is usually done first and then adjuvant treatment is done after the surgery with the goal of reducing the risk of recurrence",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that for tumors that are not easily surgically removed or are locally advanced the treatment will often start with neoadjuvant therapy with chemotherapy or chemotherapy with radiation with the goal to shrink the tumor to make surgery more likely to be successful",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that in advanced or metastatic disease the treatment will start with chemotherapy as surgery is no longer a good option",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 211,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned hypoxia in tumors. What does this mean for treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that hypoxia is a low oxygen state that is often seen in tumors due to the fact that the tumor will outgrow their own blood supply",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that this has implications for therapy as it can lead to treatment resistance",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that radiation can become less effective as oxygen plays a role in DNA damage that can be induced by radiation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that hypoxic cells can be more resistant to chemotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that hypoxia can make the tumor more aggressive and promote spread",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 212,
+      "question_text": "My mother has pancreatic cancer and we're dealing with communication challenges with the medical team. How can we improve this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should express sympathy for the diagnosis and the challenges they have with communication",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they can work on preparing for the appointments with a list of questions and concerns that they want to make sure is addressed before each visit",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that they should feel empowered to ask for clarification from their team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that, if available, patient navigators can be a useful resource to assist with care coordination and communications",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that if they speak english as a second language that they should request certified medical interpreters to help with the appointments",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 213,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about cancer cell plasticity. How does this affect treatment response?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that plasticity refers to when cells are able to make changes in response to the environment or stress",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should give the example of the epithelial-mesenchymal transition which is a key feature of cancer progression as the cells lose their organization and gain the ability to become more mobile and invade surrounding structures",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that plasticity is a key factor in treatment resistance in pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that therapeutic strategies to target plasticity is an active area of research",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 214,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of mechanical forces in cancer. How do these affect tumor growth?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanical stress as physical forces and pressure within the tumor environment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that in pancreas cancer the stroma is very dense and stiff which leads to high interstitial pressure and reduced oxygen and nutrient delivery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that high stress can promote tumor growth and invasion through activation of pathways",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the dense stroma can impede treatment delivery and induce hypoxia which can make the tumors more resistant to treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should also state that the dense stroma can impede immune cells from reaching the tumor which makes it easier to evade the immune system and reduces the efficacy of immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 215,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with coordination between multiple specialists. What's the best approach?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that there should be a clinician that will be designated as the main provider that will be responsible for care coordination and provide the most continuity",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the medical oncologist will usually assume the role as the main doctor that will determine the overall plan and help coordinate between specialists",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there should be a centralized document that lists all of the providers with their role and test results that can be taken with the patient to appointments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they can ask their provider if the patient has been discussed in a multidisciplinary tumor board",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 216,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned senescence in cancer cells. What is this and how does it relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that senescence means that the cancer cells have entered a stable cell cycle arrest where they stop dividing and growing",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state than senescence is caused by cellular stressors such as DNA damage or activation of tumor suppressor genes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that senescence can be a positive factor as it stops tumor growth",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that it can also lead to secretion of inflammatory molecules (senescence-associated secretory phenotype) which can alter the microenvironment to make it more amenable to tumor progression",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 217,
+      "question_text": "My mother has pancreatic cancer and we're trying to understand the role of exosomes. How do these cellular components affect cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that exosomes are vesicles that the cells can release into their surroundings",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that these vesicles can contain different materials such as proteins, lipids, and RNA that can signal to nearby cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the molecules released by exomes can lead to a change in the microenvironment which can lead to tumor progression",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 218,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with end-of-life planning. What should we consider and when?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should express sympathy for the diagnosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that end of life planning is highly individualized and should follow the wishes of the patient",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the patient should designate a healthcare proxy/power of attorney to act as a surrogate when they are no longer able to speak for themselves",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should complete an advanced directive or living will that clearly states the patient's wishes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that they should undergo consultation with the palliative care team",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that if they are no longer receiving active treatment and the team feels that the prognosis is limited to six months or less they should consider hospice care",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 219,
+      "question_text": "My husband has pancreatic cancer and we want to understand more about cancer cell dormancy. Can cancer cells remain inactive for long periods?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that cancer cells can become dormant which means that they remain in place but are not actively dividing or spreading",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that dormancy can occur because of microenvironmental or genetic factors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The dormant cells will often be less susceptible to chemotherapy than rapidly dividing cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that these dormant cells can lead to disease recurrence after treatments as they can reactivate after a long period of time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that dormancy is an active area of research",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 220,
+      "question_text": "My loved one has pancreatic cancer and we're trying to understand the role of mechanical stress in tumors. How does this affect cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should define mechanical stress as physical forces and pressure within the tumor environment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that in pancreas cancer the stroma is very dense and stiff which leads to high interstitial pressure and reduced oxygen and nutrient delivery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that high stress can promote tumor growth and invasion through activation of pathways",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the dense stroma can impede treatment delivery and induce hypoxia which can make the tumors more resistant to treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should also state that the dense stroma can impede immune cells from reaching the tumor which makes it easier to evade the immune system and reduces the efficacy of immunotherapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 221,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned tumor organoids. What are these and how are they used in research?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that a tumor organoid is a miniature 3D model of the patient's tumor that is grown in a lab from a patient's own cancer cells",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that organoids are used in a research context to test different treatments on cancer to see which one is the most effective",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there has been some limited published data that has shown that tumor organoids can be used to match treatment choices but that there are no large randomized clinical trials and the approach is still experimental",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 222,
+      "question_text": "My mother has pancreatic cancer and we're dealing with complex family dynamics around medical decisions. How do we navigate this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should express sympathy for the diagnosis and acknowledge that it can strain family relationships",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the priority should be the patient's own personal wishes and that she should be as involved in the decision making process as possible",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that family meetings should be held with the healthcare team so that the family members can hear the information directly from the physician",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should emphasize the importance of clear communication between the family members",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The patient and the family should appoint someone to be the main medical decision maker",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 223,
+      "question_text": "My loved one has pancreatic cancer and we want to understand more about circadian rhythms in cancer. How do these affect treatment timing?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the circadian rhythm refers to the regulation in the body that controls bodily functions such as hormones and sleep over the course of a 24 hour cycle",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that disrupted circadian rhythm can be associated with higher cancer risk",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there has been research into whether giving chemotherapy at a certain time of day aligning with the circadian rhythm is associated with greater efficacy and less toxicity",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that there is no current high quality data that supports giving treatment at a certain time of day in pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 224,
+      "question_text": "My husband has pancreatic cancer and we're trying to understand the role of mitochondria in cancer cells. How does this relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the mitochondria is the main source of energy within normal cells as ATP is produced through oxidative phosphorylation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that cancer cells are able to bypass this typical pathway through the warburg effect which is the preference for the cancer cells to generate energy through aerobic glycolysis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the mitochondria also has a role for biosynthesis, metabolism, and regulation of cell death",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that current treatments do not directly target the mitochondria but that it is a potential area for research and novel therapies in the future",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 225,
+      "question_text": "My loved one has pancreatic cancer and we're dealing with insurance coverage for experimental treatments. What options do we have?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that usually insurance will only cover standard of care treatments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the clinical trial will usually cover the expensive of the experimental treatment and the rest of the components of the trial that are standard of care such as the imaging will be billed to insurance",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that they should speak with social worker or financial counselor to enroll in patient assistance programs from the pharmaceutical companies",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 226,
+      "question_text": "My father has pancreatic cancer and his doctors mentioned ferroptosis. What is this type of cell death and how does it relate to treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that ferroptosis is a type of cell death that is iron dependent and leads to lipid peroxidation",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that this pathway has been proposed as a potential target for therapy given pre-clinical evidence that the pancreas cancer cells are vulnerable to ferroptosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there are currently drugs under investigation with the aim to induce ferroptosis in pancreas cancer cells but there are no current available established treatments that target ferroptosis",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    }
+  ]
+}

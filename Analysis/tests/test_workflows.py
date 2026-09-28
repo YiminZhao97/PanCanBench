@@ -69,6 +69,52 @@ class WorkflowTests(unittest.TestCase):
             with self.assertRaises(ValueError):module.install(bad,root/'bad-target',files)
             self.assertFalse((root/'outside.txt').exists())
 
+    def test_legacy_bundle_uses_current_paths_and_requires_reviewed_repository_files(self):
+        module=load('legacy_data_bundle','Data/prepare_data.py')
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);source=root/'source';source.write_text('saved rubric')
+            old='Data/Rubrics/development/Phase2/Data/example.json'
+            current='Data/Rubrics/development/Phase2/example.json'
+            reviewed='Data/Rubrics/development/Phase3/reviewed.md'
+            digest=hashlib.sha256(source.read_bytes()).hexdigest()
+            files={current:digest,reviewed:digest}
+            archive=root/'legacy.tar.gz'
+            with tarfile.open(archive,'w:gz') as bundle:bundle.add(source,arcname=old)
+            target=root/'checkout'
+            options={'legacy_paths':{old:current},'repository_files':[reviewed]}
+            with self.assertRaises(ValueError):module.install(archive,target,files,**options)
+            self.assertFalse((target/current).exists())
+            (target/reviewed).parent.mkdir(parents=True)
+            (target/reviewed).write_text('wrong local version')
+            with self.assertRaises(ValueError):module.install(archive,target,files,**options)
+            self.assertFalse((target/current).exists())
+            (target/reviewed).write_bytes(source.read_bytes())
+            module.install(archive,target,files,**options)
+            self.assertEqual(module.check(target,files),2)
+            self.assertFalse((target/old).exists())
+            duplicate=root/'duplicate.tar.gz'
+            with tarfile.open(duplicate,'w:gz') as bundle:
+                bundle.add(source,arcname=old)
+                bundle.add(source,arcname=current)
+            with self.assertRaises(ValueError):module.install(duplicate,target,files,**options)
+            source.write_text('changed archive bytes')
+            bad=root/'bad-legacy.tar.gz'
+            with tarfile.open(bad,'w:gz') as bundle:bundle.add(source,arcname=old)
+            with self.assertRaises(ValueError):module.install(bad,target,files,**options)
+            self.assertEqual(module.check(target,files),2)
+
+    def test_final_reviewed_rubrics_rebuild_the_paper_scoring_json(self):
+        module=load('rubric_builder','Rubrics/development/Phase4/build_latest_rubrics.py')
+        data,_=module.build(module.default_source_dir())
+        self.assertEqual(module.validate_human_subset(data,module.default_check_file()),(40,487))
+        corrections=json.loads((ROOT/'Data/Rubrics/final_wording_corrections.json').read_text())['changes']
+        questions={q['question_number']:q for q in data['questions']}
+        for change in corrections:
+            item=next(i for i in questions[change['question_number']]['rubric_items'] if i['item_number']==change['item_number'])
+            self.assertEqual(item[change['field']],change['before'])
+            item[change['field']]=change['after']
+        self.assertEqual(data,json.loads((ROOT/'Data/Rubrics/rubrics_all_questions_final_version.json').read_text()))
+
     def test_frozen_input_resolution_works_after_relocation(self):
         module=load('saved_inputs','Analysis/figure4/saved_inputs.py')
         with tempfile.TemporaryDirectory() as directory:

@@ -1,0 +1,1708 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "I was just diagnosed with pancreatic cancer and I have questions on options of treatment. I would greatly appreciate it if you could get back to me as soon as possible. Thank you.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should include overview of staging of pancreas cancer and how treatment options correspond to each stage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should include the concept of resectability and that for those tumors surgery is preferred",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should specify that for metastatic or unresectable pancreas cancer chemotherapy is the backbone of treatment and that the main regimens used are FOLFIRINOX or Gemcitabine + Nab-Paclitaxel",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include radiation as a potential treatment option for localized disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should include immunotherapy and that its role is currently limited to patients with mismatch repair deficiency or high microsatellite instability",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should include targeted therapy such as PARPi for patients with BRCA mutations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should introduce the concept of clinical trials and the role for them in management of pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should include the importance of supportive care for treatment of pancreatic cancer which can include evaluation by palliative care specialist and nutritional support",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "My friend has just been told they have a tumor extending from their pancreas that is wrapped around the celiac artery. I am trying to help them find pancreatic cancer specialists in the area.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should discuss the concept of resectability in pancreas cancer and that involvement of major blood vessels generally precludes safe resection and requires evaluation at a specialized center",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should emphasize the need for evaluation by multi-disciplinary clinic including surgical, medical, and radiation oncology that could propose neoadjuvant treatment including chemotherapy and radiation to try to shrink tumor to the point where it could become resectable but that some tumors may ultimately never be resectable and may be amenable to systemic therapy or radiation only",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that some specialized centers can offer vascular reconstruction",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should provide a link to list of NCI designated cancer centers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should offer to search for high volume pancreas cancer programs by preferred location",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "I need a recommendation for tumor removal. I am currently receiving treatment at a cancer center. Under a clinical trial for radiation and chemotherapy treatment for several months now. Stage 3. The surgical team does not feel comfortable performing surgery.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should include an overview of the criteria for resection of tumor and why patients are deemed to not be good candidates for surgery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should indicate that the case should be discussed at a multidisciplinary tumor board",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should indicate that the patient could seek a second opinion at another specialized center",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should provide a list of specialized centers that offer second opinions",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "I wanted to know if there are any online support groups for family members of pancreatic cancer patients.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should affirm that there are many online support groups for families of pancreatic cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should list PANCAN Online Community as an option",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should include the American Cancer Society (ACS) online community as an option",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include CancerCare Online Support Groups as an option",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should include various facebook support groups",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "I have had pancreatitis for years. Due to not being able to afford medical insurance, I have not had the proper treatment or checkups. I am concerned about pancreatic cancer.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should offer support for having experienced the symptoms of chronic pancreatitis",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The response should indicate that while chronic pancreatitis is a risk factor for pancreas cancer, it is still not common to develop pancreas cancer even in patients with pancreatitis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should describe the potential signs and symptoms of pancreas cancer which could include unintentional weight loss, jaundice, steatorrhea, new onset diabetes, worsening of abdominal symptoms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should outline options for medical attention that can be obtained without insurance such as Federally Qualified Health Cancer, and Community Health clinics",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should indicated that a consultation with a physician who may obtain labs, perform a physical exam, and obtain imaging study such as a CT scan would be warranted",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The response should also offer information on how to sign up for medicaid and offer to provide more specific instructions and information about eligibility depending on what state the person resides in",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "My loved one recently got diagnosed with pancreatic cancer. Please help me as I am feeling helpless and overwhelmed.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should provide support and note that it is normal to feel overwhelmed under the circumstance",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should provide links to websites that give more information on pancreas cancer that are written at the level of patients and their families (such as from ACS or PANCAN)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should provide links to caregiver support groups",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "My loved one has stage IV pancreatic cancer and their chemotherapy stopped working. Are there any experimental treatments or clinical trials available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should provide support and acknowledgement of difficulty of the situation",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should overview clinical trials and provide a link to clinical trials dot gov",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should offer to search for treatment options by location and provide a list of major cancer centers that offer second opinion consultations and clinical trials",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should provide an overview of active areas of research in pancreas cancer such as immunotherapy and targeted therapy",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "My loved one was recently diagnosed with stage IV pancreatic cancer. Both my family and the patient are completely overwhelmed and don't know where to start.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should provide support and acknowledgement that feeling overwhelmed under the circumstance is understandable and valid",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should provide an overview of what Stage IV diagnosis entails",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should identify members of the patient care team that the patient should have to support them including a medical oncologist and palliative care physician",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should outline the general approach to treatment of stage IV pancreatic cancer and that the cornerstone is chemotherapy with palliative intent",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The answer should also outline the importance of support and community both for the patient and caregivers",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "My loved one is in her third year with pancreatic cancer. We are looking for suggestions on vitamins and supplements that might help.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should state that while keeping a healthy and balanced diet is positive and worthwhile, any diet or high dose vitamins promising to cure the cancer should be avoided",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should discuss the benefit of pancreas enzyme replacement",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should specify that due to malabsorption, the fat soluble vitamins can be low and could be supplemented (Vit A, D, E, K)",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "My loved one was diagnosed two months ago with stage IV and was given 3-6 months. They have had two chemo treatments and the side effects are terrible. Should we continue?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should start with an expression of sympathy and support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should state that there is not a single right answer in this case and that they should proceed based on their priorities and personal wishes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should state that they should discuss with their oncologist and ask about what other options would there be after discontinuing this chemotherapy and what the expected benefit and side effects would be",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should state that deferring further cancer directed treatment and pursuing palliative care and hospice would be a valid approach",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "My loved one has pancreatic cancer with liver metastases. The oncologist mentioned that there are genetic mutations that might affect treatment. What should we ask about?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should provide an overview of stage IV pancreas cancer and what the treatment options would be",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should specify that somatic testing can be done on the tumor and germline testing is also done to look for inherited mutations",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should discuss testing for BRCA mutations and role of utilizing PARP inhibitors in pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should include overview of testing for microsatellite instability and MSI status which can be a marker for response to immunotherapy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The answer should also include other potential targetable mutations such as HER2/ERBB2 amplification and NTRK",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The answer should specify that clinical trials may be available for less commonly targeted mutations",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "My family history of pancreatic cancer is quite extensive. My father died from it, as did his father. Should I be getting screened?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should note that germline BRCA mutations are a significant risk factor for developing pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should recommend that the patient should consult a genetic counselor who could take a detailed family history and test for selected mutations such as BRCA, CDKN2A",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should state that while screening for pancreas cancer is not pursued in the general population, after discussion with physicians, high risk patients can undergo screening imaging studies which can include CT or MRI imaging",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "My loved one has been on chemotherapy for 6 months and the CA 19-9 levels are not going down. Does this mean the treatment isn't working?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should say that while decrease in tumor markers can be associated with treatment response, the gold standard for evaluating the response to therapy should be imaging",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should note that some patients do not secrete CA 19-9 and the levels do not correlate with disease status",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "My father had the Whipple procedure and now has diabetes. Is this normal? How do we manage this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that it is not an unexpected outcome as removing pancreas tissue will also take the islet cells which produce insulin",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response can state that the incidence of post whipple diabetes can vary based on how much of the pancreas is removed and the specific patient population but that it can occur in 15-20 to up to 50% of patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state the control of diabetes is achieved through regulating glucose intake via dietary modifications and medications that can help control blood sugars",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the father of the question writer should be evaluated by an endocrinologist and that he may ultimately require insulin injections to regulate his blood sugars",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "My loved one has pancreatic cancer and is losing weight very rapidly despite trying to eat. What can we do?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should indicate that anorexia and weight loss are common symptoms of pancreatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that one intervention that should be tried is to initiate pancreas enzyme replacement",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should suggest that the patient get a consultation from a Registered Dietician that specializes in taking care of cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should give advice such as trying more nutrient dense foods and taking smaller and more frequent meals",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should indicate that the patient can try nutritional supplementation such as high nutrient meal replacement shakes",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "My mother was diagnosed with pancreatic cancer and the doctor mentioned that she has jaundice. What does this mean and how is it treated?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should specify that jaundice is due to an increase in bilirubin in the blood",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should state that jaundice refers to a yellowing of the skin and eyes due to elevated bilirubin levels",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should state that jaundice can arise in pancreas cancer due to blockage of the pancreatic duct from growth of the tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should state that often the patient will undergo ERCP (Endoscopic Retrograde Cholangiopancreatography) in order to visualize the blocked duct and place a stent in order to relieve the blockage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The answer should state that other options to relieve the obstruction could include percutaneous biliary drainage or surgery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The answer should state that another potential cause for jaundice is metastatic disease in the liver",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The answer should state that treating the cancer with chemotherapy can shrink the tumor and can help address the jaundice",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "My husband has pancreatic cancer and is experiencing severe pain. What are the options for pain management?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should express sympathy for the diagnosis and symptoms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should state that one option for pain management is to use pain medications such as opioids",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should state that adjunctive non-opioid medications can be amitriptyline and gabapentin can be used",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should state that a celiac plexus block can be done to help control pain",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The answer should state that steroids can also be used such as dexamethasone",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 6,
+          "description": "The answer should state that radiation can also be used for local treatment and pain control",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 7,
+          "description": "The answer should state that complementary therapies such as acupuncture and massages can also be pursued",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The answer should state that the patient should be seen by a palliative care specialist",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "My loved one has pancreatic cancer and we've been told the tumor is \"unresectable.\" What does this mean exactly?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should offer sympathy for the loved one's diagnosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The answer should state that resectability is determined by the surgeons' assessment of his or her ability to safely remove the entire tumor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should state tumors are deemed to not be resectable if they involve surrounding major blood vessels such as the SMA, SMV, CA, PV",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The answer should state that invasion of nearby organs can also lead to a tumor not being able to be resected",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The answer should state that sometimes tumors that are not initially able to be resected can be shrunk (downstaged) with chemotherapy and/or radiation and later removed",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "My family member with pancreatic cancer is considering stopping treatment and focusing on quality of life. How do we make this decision?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should offer sympathy and state that it is a very difficult decision to try to make",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that not everyone will make the same decision as it is a personal choice based on priorities and goals",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the decision should be made weighing the expected benefit of more therapy with the current side effects",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should suggest meeting with the patient's oncologist and palliative physician to help make the decision",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "question_text": "My father has pancreatic cancer and was told he has a KRAS mutation. What does this mean for his treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that KRAS mutations are frequently implicated in pancreas cancer as a major driver of tumorigenesis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that first line of treatment would remain standard of care with chemotherapy regimens such as FOLFIRINOX and gemcitabine/abraxane",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The answer should state that there are several KRAS mutations (G12C, G12D, G12V) and they should specify which one is present in the patient's case",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that targeted therapy to the KRAS mutation is an active area of research and that there may be clinical trials open that he could enroll in",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "question_text": "Are there studies for pancreatic cancer evaluating infusion of high vitamin C doses in conjunction with chemotherapy?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that high dose vitamin C has not been proven to improve outcomes in pancreas or any other cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the pre-clinical rationale for high dose vitamin C in pancreas cancer is that it can act as a pro-oxidant and lead to generation of more H2O2 with subsequent enhanced killing of cancer cells",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that there have been limited published data that suggest that showed that it was well tolerated and there was a trend toward efficacy but that they study were limited and are not sufficiently powered",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 22,
+      "question_text": "Yesterday it was confirmed that my loved one has pancreatic cancer. It is believed to be stage IV and has spread to the liver. However, they were not able to confirm cancer in the liver based on the biopsy. How can this be confirmed?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that a biopsy is the only way to confirm the diagnosis of metastatic cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that imaging such as CT or MRI are done to evaluate for the presence of metastatic disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the tumor markers can be supportive of a diagnosis",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the team may suggest that the patient undergo another biopsy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that on occasion the team will decide to treat as metastatic if the tumor markers and imaging are consistent with metastatic disease so as to not delay treatment if a repeat biopsy is not feasible",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 23,
+      "question_text": "Does eating vegan stall cancer progression?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that there is no good evidence to suggest that eating vegan can stall cancer progression",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 24,
+      "question_text": "How do oncologists choose between gemcitabine and nab-paclitaxel and FOLFIRINOX?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that typically patients that are more medically fit will be offered FOLFIRINOX whereas those patients that are more frail but still candidates for treatment will be offered gemcitabine and nab-paclitaxel",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that medical fitness is scored by the oncologist using the ECOG or Karnofsky performance status",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that generally FOLFIRINOX is reserved for patients with an ECOG score of 0-1 whereas Gemcitabine nab-paclitaxel can be given to ECOG 2 patients",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state the reason that FOLFIRINOX is reserved for patients with good performance status is that it is more intensive and is associated with higher rates of severe side effects such as neutropenia, fatigue, and diarrhea",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 25,
+      "question_text": "What makes pancreatic cancer resectable?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that resectability is determined by the ability of the surgeon to safely remove the entire tumor and not leave any behind (R0 resection)",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that involvement of major blood vessels such as the SMA, SMV, CA, PV are often implicated when a tumor is deemed to not be resectable",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that for pancreas cancer to be resectable there must not be any distant metastases",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that occasionally tumors that contact the veins (PV/SMV) and have less than 180 degrees of involvement can still be resected provided it can be safely removed and the vessel can be reconstructed as needed",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that some tumors are deemed to be borderline resectable and that the patient will be recommended to undergo treatment with chemotherapy and/or radiation in order to attempt to down-stage the tumor and make it amenable to resection",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 26,
+      "question_text": "What are the risk factors for pancreas cancer if my father died of it?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that family history of pancreas cancer is associated with increased risk",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that a family history of pancreas cancer is due to inherited gene mutations such as BRCA",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that smoking is a significant modifiable risk factor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that chronic pancreatitis is a risk factor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that heavy alcohol use can lead to increased risk of pancreas cancer through pancreatitis",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 27,
+      "question_text": "What genetic tests are recommended for a patient with a family history of hereditary disease?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the patient should undergo detailed family history and genetic counseling",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that based on the history the genetic counselor or clinical will order tests based on the specific family history",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that tests can consist of specific targeted testing if there is a known condition associated with a specific genetic disorder or panel testing that tests for multiple genes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should provide examples of each such as Huntington's Disease, Cystic Fibrosis, and Sickle Cell which was associated with single gene changes or hereditary cancer and cardiomyopathy as examples of panels",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 28,
+      "question_text": "My loved one was diagnosed one year ago. They just finished their 15th round of chemotherapy. I am interested to learn more about clinical trials.",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should offer support for the diagnosis and how difficult it can be to complete 15 rounds of chemotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that clinical trials are studies that test new drugs, devices, or care plans in patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that clinical trials are divided into three different phases",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that phase 1 is the first time the drug is tested in humans and is aimed at establishing the safety and dosage",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that phase 2 tests effectiveness of the drug and continues to establish its safety",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that phase 3 tests the efficacy of the drug in a larger group of patients and compares it to the current standard of care",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 7,
+          "description": "The response should state that clinical trials will have specific eligibility criteria that determines candidacy for the trial",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 8,
+          "description": "The response should state that there can be risks associated with participating in a trial include potential side effects and lack of efficacy",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 9,
+          "description": "The response should state that they should ask their oncologist if a clinical trial is available to them",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 10,
+          "description": "The response should link to clinical trials dot gov",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 29,
+      "question_text": "How do I find clinical trials for pancreatic cancer in my area?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should link to the clinical trials dot gov website with instructions to use the search by location function",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should refer to the NCI website",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should link the PanCAN with the clinical trial finder tool",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should ask their local provider to see what trial options are available in their local cancer center",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 30,
+      "question_text": "What are the risk factors associated with pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that family history of pancreas cancer is associated with increased risk",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that a family history of pancreas cancer is due to inherited gene mutations such as BRCA",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that smoking is a significant modifiable risk factor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that chronic pancreatitis is a risk factor",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that heavy alcohol use can lead to increased risk of pancreas cancer through pancreatitis",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 31,
+      "question_text": "How do I locate a pancreatic cancer specialist in my area?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that they can ask for a referral from the primary doctor or their oncologist who can refer to a more specialized provider",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they can reference the NCI website to look for designated cancer centers that have pancreas cancer specialists on staff",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that they can use the PanCAN and the ACS which have resources and hotlines that can direct patients directly to providers",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 32,
+      "question_text": "What Is CA 19-9?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that CA19-9, or Carbohydrate Antigen 19-9 is a tumor marker or a marker that is produced by cancer cells and can be measured in the blood which can correlate with the amount of tumor that is present",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 33,
+      "question_text": "What do the Numbers of a CA 19-9 Test Mean?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that reference ranges can vary by lab",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that normal is typically less than 37U/mL are considered normal but they do not necessarily rule out cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state 37 to 100 can be associated with non-cancer conditions such as pancreatitis as well as bile duct disorders such as obstruction or infection",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that moderate elevation 100-1000 can be concerning for cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that when the number is greater than 1000 it can be suggestive of advanced cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 34,
+      "question_text": "What Other Conditions Can Cause Elevated CA 19-9 Levels?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that CA19-9 can be elevated with pancreatitis, cholestasis, liver diseases like cirrhosis or hepatitis, Inflammatory bowel disease, as well as infections or other inflammatory conditions",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 35,
+      "question_text": "How do I manage weight loss for my loved one during the treatment of pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that they can help log the weight loss and symptoms and present it to their oncologist during a visit",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that nutritional strategies can be employed such as focusing on small frequent meals and nutrient rich foods",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that pancreas enzyme replacement can be taken which can help with absorption of nutrients from foods",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 36,
+      "question_text": "What are the symptoms of pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that a symptom of pancreas cancer can include unintentional weight loss",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that a symptom of pancreas cancer can include jaundice",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that a symptom of pancreas cancer can include new onset diabetes",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that a symptom of pancreas cancer can include abdominal pain",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 37,
+      "question_text": "Is pancreatic cancer a hereditary disease?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that most pancreas cancer cases are sporadic and not hereditary",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that a minority of cases can be associated with inherited gene mutations or syndromes that increase risk of cancer such as BRCA 1",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that a strong family history is a significant risk factor",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 38,
+      "question_text": "What information can you provide on surveillance for pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that routine screening is not recommended for the general population",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that for high risk individuals can include imaging with MRI/MRCP",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that surveillance can start around age 50 and continue annually with imaging",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that evidence behind screening/surveillance is not well established and carries risk of over diagnosis which can lead to unnecessary stress and procedures",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 39,
+      "question_text": "What are the treatments for patients with pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should include the concept of resectability and that for those tumors surgery is preferred",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should specify that for metastatic or unresectable pancreas cancer chemotherapy is the backbone of treatment and that the main regimens used are FOLFIRINOX or Gemcitabine + Nab-Paclitaxel",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should include radiation as a potential treatment option for localized disease",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should include immunotherapy and that its role is currently limited to patients with mismatch repair deficiency or high microsatellite instability",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should include targeted therapy such as PARPi for patients with BRCA mutations",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should introduce the concept of clinical trials and the role for them in management of pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 40,
+      "question_text": "What are the stages of pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that stage 0 is a pre-cancer state also known as pancreatic intraepithelial neoplasia or carcinoma in situ",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that stage 1 cancer is when the cancer is confined to the pancreas and has not spread to lymph nodes or distant sites",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should note that stage 1a is when the tumor is 2cm or smaller and stage 1b is when it is larger",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that stage II is when the cancer is growing by nearby tissues and into lymph nodes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that stage III is when the cancer is locally advanced and involves surrounding structures",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that stage IV is when the cancer has spread to other organs or sites",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 41,
+      "question_text": "My loved one has been on FOLFIRINOX for several months and is experiencing severe neuropathy. Are there alternatives?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the oncologist can hold the oxaliplatin which is the agent that is most responsible for neuropathy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the oncologist can consider dose reduction or spacing out treatments",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the oncologist could consider changing the treatment entirely such as opting for gemcitabine with or without nab-paclitaxel",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 42,
+      "question_text": "My mother has pancreatic cancer and is considering participating in a clinical trial. What should we know before making this decision?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that they should be informed about the aim and endpoints of the clinical trial",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they should understand the potential benefits and risks of the novel therapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that they should be aware of the inclusion and exclusion criteria for the trial",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should be aware of the time commitments and costs associated with participating in the trial",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 43,
+      "question_text": "My husband has pancreatic cancer and his oncologist mentioned radiation therapy. When is radiation used in pancreatic cancer treatment?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that radiation can be used before surgery to help shrink borderline resectable tumors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that it can be used for locally advanced or unresectable tumors",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that it is used on a palliative basis in cases with advanced or metastatic disease",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 44,
+      "question_text": "My loved one has pancreatic cancer and is having trouble digesting food. The doctor mentioned enzyme supplements. What are these?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that the enzymes replace the normal enzymes that are produced in the pancreas that help digest foods and are reduced when there is involvement of cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 45,
+      "question_text": "My father has pancreatic cancer and developed a blood clot in his leg. Is this related to the cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that cancers are associated with increased risk of developing blood clots",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 46,
+      "question_text": "My mother has pancreatic cancer and we're considering getting a second opinion. When should we do this and how do we go about it?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that second opinions can be obtained at any time",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that it can be particularly helpful after initial diagnosis and prior to starting treatment as well as when the initial treatment is no longer working",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that second options can be obtained at specialized referral centers",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that they should look up NCI designated cancer centers and find ones that they would be able to go to",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 47,
+      "question_text": "My loved one has pancreatic cancer and is considering immunotherapy. Is this effective for pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should include immunotherapy and that its role is currently limited to patients with mismatch repair deficiency or high microsatellite instability",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that immunotherapy is an ongoing area of research and that there may be clinical trials options exploring novel immunotherapies",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 48,
+      "question_text": "My husband has pancreatic cancer and the tumor has grown despite chemotherapy. What are the next steps?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that they should consult with their oncologist on the potential next steps",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the oncologist may suggest alternative standard of care therapies or clinical trials",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 49,
+      "question_text": "My loved one has pancreatic cancer and we're hearing about CAR-T cell therapy. Is this an option for pancreatic cancer?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that there are no current CAR-T cell therapies available for pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 50,
+      "question_text": "My father has pancreatic cancer and is considering hospice care. What does this involve and when should it be considered?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The answer should start with an expression of sympathy and support",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that hospice is considered when further active treatment is being pursued and the medical team estimates a life expectancy of 6 months or less",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that the aim of hospice is to maximize quality of life and focus on addressing symptoms",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that hospice can take place in the home, a nursing home, or in a dedicated hospice facility",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 51,
+      "question_text": "My mother has pancreatic cancer and is experiencing severe fatigue from chemotherapy. How can we manage this?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that fatigue is a common side effect from chemotherapy",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they should keep a record of her fatigue symptoms and rate the intensity and present the information to the oncologist",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that optimizing nutrition and hydration can help with fatigue",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that taking time to rest during the day with short naps and practicing good sleep hygiene at night can help",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 52,
+      "question_text": "My loved one has pancreatic cancer and we're considering alternative treatments like cannabis oil. What should we know?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that alternative treatments like cannabis oil have not been proven to help patients with pancreas cancer live longer or cure them",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they should undergo consultation with an oncologist to discuss treatment approaches so they can make an informed decision",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that cannabinoids have been used as an adjective treatment for symptom relief in cancer patients",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that lab and animal studies with cannabinoids",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 53,
+      "question_text": "My husband has pancreatic cancer and his appetite has completely disappeared. How can we encourage him to eat?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that lack of appetite is a common side effect of pancreas cancer",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that the patient should undergo consultation with their oncologist who may refer him to a registered dietitian and/or palliative care physician",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that pancreas enzyme replacement can be pursued",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 4,
+          "description": "The response should state that the patient can try smaller, more frequent meals and snacks",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 5,
+          "description": "The response should state that the patient can try nutritional replacement shakes",
+          "min_points": 0,
+          "max_points": 5
+        },
+        {
+          "item_number": 6,
+          "description": "The response should state that appetite stimulants can also be considered",
+          "min_points": 0,
+          "max_points": 5
+        }
+      ]
+    },
+    {
+      "question_number": 54,
+      "question_text": "My loved one has pancreatic cancer and we live in a rural area with limited access to specialists. What are our options?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that they can start with their primary doctor who can help refer to the most local community hospital with oncology services",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that if they are able to travel then major cancer centers offer consultations which can also be done as telehealth",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that they can search for NCI designated cancer and find the closest one to them",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 55,
+      "question_text": "My father has pancreatic cancer and his insurance is denying coverage for certain treatments. What can we do?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should offer sympathy for the stressful situation dealing with insurance coverage",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that they can work with the hospital's financial counselor or social worker",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 56,
+      "question_text": "My mother has pancreatic cancer and is considering surgery at a high-volume center versus locally. What's the difference?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should state that a center is determined to be high volume when at least 40 or 50 whipple procedures are done per year",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should state that at a high volume center the surgeon is more likely to be a specialist in pancreas surgery",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that high volume centers have significantly lower mortality rates and fewer complications",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    },
+    {
+      "question_number": 57,
+      "question_text": "My loved one has pancreatic cancer and we're worried about the financial burden of treatment. What resources are available?",
+      "rubric_items": [
+        {
+          "item_number": 1,
+          "description": "The response should offer sympathy for the stressful situation dealing with financial burden during cancer treatment",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 2,
+          "description": "The response should link to cancer specific organizations such as the Pancreatic Cancer Action Network, American Cancer Society, and CancerCare which can link to resources and financial assistance programs",
+          "min_points": 0,
+          "max_points": 10
+        },
+        {
+          "item_number": 3,
+          "description": "The response should state that they should consult the social work team",
+          "min_points": 0,
+          "max_points": 10
+        }
+      ]
+    }
+  ]
+}

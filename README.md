@@ -31,6 +31,19 @@ The manuscript is available on [arXiv](https://arxiv.org/abs/2603.01343).
 | `Data/` | Saved input data and its checksum manifest |
 | `Outputs/` | Generated responses, evaluations, figures, and tables |
 
+### Rubric development data
+
+The saved rubric stages are included directly in [Data/Rubrics/development/](Data/Rubrics/development/):
+
+| Stage | Files | Contents |
+| --- | --- | --- |
+| [Phase 1](Data/Rubrics/development/Phase1/) | 10 JSON files | Original expert rubrics: two experts for each fold |
+| [Phase 2](Data/Rubrics/development/Phase2/) | 10 JSON files | Polished expert rubrics, stored directly in the phase folder |
+| [Phase 3](Data/Rubrics/development/Phase3/) | 5 Markdown files | Latest reviewed `withgrades` versions of the merged rubrics; some weights remain blank |
+| [Phase 4](Data/Rubrics/development/Phase4/) | 5 Markdown files | Completed final review: 282 questions and 3,639 rubric items, with all weights assigned |
+
+The final scoring JSON is built from Phase 4 plus the three recorded [wording corrections](Data/Rubrics/final_wording_corrections.json). Run `python Rubrics/development/Phase4/build_latest_rubrics.py` to rebuild it under `Outputs/rubrics/`. Earlier drafts are preserved separately under `Data/historical/rubric_development/` in the data bundle; historical repair scripts use those archived inputs. The downloader maps the original bundle paths to this layout and checks every file against the current manifest.
+
 ## Reproducing the results
 
 ### Environment
