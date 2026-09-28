@@ -71,17 +71,28 @@ python "$GRADING_CODE_DIR/summarize_graded_responses.py" \
 
 The model's score is **`mean_percentage`** under `models` in the summary JSON. It averages the per-question percentage scores, including applicable negative rubric penalties. Explicit `NO RESPONSE GENERATED` entries are excluded from the mean; genuine zero scores are included. `pooled_points_percentage` is a separate summary statistic, not the reported mean rubric score.
 
-### Generate and evaluate new responses
+### Response generation and evaluation workflows
 
-These commands make paid API calls. Use a new output filename for each run; the saved paper inputs remain under `Data/`.
+The three workflows below can be run independently. They make paid API calls, and new evaluations can differ from the saved paper observations. Use a new output filename for each run; the saved paper inputs remain under `Data/`.
+
+#### 1. Generate responses with web search
+
+Generate GPT-5 responses for the paper's 40 web-search questions:
 
 ```bash
-# Generate GPT-5 responses for the paper's 40 web-search questions.
 export OPENAI_API_KEY='<your_openai_api_key>'
 python Generation/web_search/generate_response_gpt_family.py \
   --output Outputs/web_search/gpt5.json
+```
 
-# Extract atomic claims from saved model responses, then judge their factuality.
+Claude and Gemini response generation use `Generation/web_search/claude_family_search.py` and `Generation/web_search/gemini_family_web_search_metadata.py`, with `ANTHROPIC_API_KEY` and `GEMINI_API_KEY`, respectively. Citation verification uses `Evaluation/citation_verification/verify_reference_citations.py`; run its `--help` for the prepare, fetch, submit, collect, and report stages.
+
+#### 2. Evaluate response factuality
+
+Extract atomic claims from saved model responses, then judge their factuality:
+
+```bash
+export OPENAI_API_KEY='<your_openai_api_key>'
 python Evaluation/factuality/extract_atomic_claims.py \
   --input Data/Response/gpt5_response.jsonl --models gpt-5 \
   --output Outputs/factuality/gpt5_claims.json
@@ -90,26 +101,34 @@ python Evaluation/factuality/judge_factuality_argparse_GPT.py \
 export GEMINI_API_KEY='<your_gemini_api_key>'
 python Evaluation/factuality/judge_factuality_argparse_gemini.py \
   --input Outputs/factuality/gpt5_claims.json --output Outputs/factuality/gpt5_gemini_judgments.json
+```
 
-# Ask the direct judge to compare two models across the benchmark.
+#### 3. Compare models with a direct pairwise judge
+
+Ask the direct judge to compare two models across the benchmark:
+
+```bash
+export OPENAI_API_KEY='<your_openai_api_key>'
 python Evaluation/direct_pairwise/compare.py \
   --input-a Data/Response/gpt5_response.jsonl --model-a gpt-5 \
   --input-b Data/Response/grok_response.jsonl --model-b grok-4-latest \
   --judge-model gpt-5 --allow-full-run --output Outputs/direct_pairwise/gpt5_vs_grok4.json
 ```
 
-Claude and Gemini response generation use `Generation/web_search/claude_family_search.py` and `Generation/web_search/gemini_family_web_search_metadata.py`, with `ANTHROPIC_API_KEY` and `GEMINI_API_KEY`, respectively. Citation verification uses `Evaluation/citation_verification/verify_reference_citations.py`; run its `--help` for the prepare, fetch, submit, collect, and report stages. New evaluations can differ from the saved paper observations.
+### Regenerate token-count tables
 
-To regenerate token-count tables from the original response text without model API calls:
+Regenerate token-count tables from the original response text without model API calls:
 
 ```bash
 python Analysis/Appendix/count_tokens.py --responses-dir Data/Response
 python Analysis/Appendix/supp_figure_6_token_distribution.py --responses-dir Data/Response
 ```
 
+### Paper-output index
+
 The tables below show how to reproduce the manuscript and appendix results, with the corresponding inputs, code, and outputs.
 
-### Manuscript
+#### Manuscript
 
 | Paper item | Inputs | Code | Outputs |
 | --- | --- | --- | --- |
@@ -122,7 +141,7 @@ The tables below show how to reproduce the manuscript and appendix results, with
 
 Figure 5 uses the completed human- and synthetic-rubric grades from Claude Opus 5 on the same 6,203 eligible responses across 22 models. Verified question-level score inputs are included under `Analysis/figure5/inputs/`, so these panels can be reproduced without API calls or a new data-bundle download. The saved synthetic grades retain 35 interpretation/direction flags pending adjudication; no scores were manually changed for these plots. See [Figure 5 reproduction notes](Analysis/figure5/README.md) for scoring, exclusions, source hashes, and rebuilding inputs from raw grades.
 
-### Appendix
+#### Appendix
 
 | Paper item | Inputs | Code | Outputs |
 | --- | --- | --- | --- |
