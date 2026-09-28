@@ -17,7 +17,7 @@ python Analysis/figure5/verify_results.py --output-dir Outputs/figure5 \
 
 Alternatively, run the two plotting scripts without arguments to save outputs alongside the scripts. This is how the materials-folder copy was generated. Omit `--figure4-summary` when Figure 4 has not been generated.
 
-Outputs are `figure5a.pdf`, `figure5a.png`, `figure5b.pdf`, `figure5b.png`, `figure5_model_summary.csv`, `rank_change_summary.csv`, and per-panel provenance JSON files. Verification produces `verification_report.json`. PDFs contain vector graphics and embedded fonts; PNGs are 300 dpi. Helvetica is used if available, otherwise DejaVu Sans. Figure 5b uses DejaVu Sans as a fallback for arrow symbols missing from the primary font.
+Outputs are `figure5a.pdf`, `figure5a.png`, `figure5b.pdf`, `figure5b.png`, `figure5_model_summary.csv`, `rank_change_summary.csv`, and per-panel provenance JSON files. Verification produces `verification_report.json`. PDFs contain vector graphics and embedded fonts; PNGs are 300 dpi. Helvetica is used if available, otherwise DejaVu Sans. Figure 5b draws every rank arrow (including the legend) as vector line paths instead of font glyphs, so the arrows remain intact when the PDF is embedded in Illustrator. Model names and numbers remain editable text.
 
 ## Inputs and scoring
 

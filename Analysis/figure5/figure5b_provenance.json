@@ -44,11 +44,11 @@
     "figure5_common.py": "f0db62d79871fc83a183b0b499b3ae586ab9aaba1237961e8f35995bfca43e18",
     "paired_barplot.py": "8f3bac0f32020b3250566e8c2ba8dcd4e8d60287a7993385fae69dce39ea0f38",
     "prepare_inputs.py": "ac5e750c3aeb5524d41c09f3c76a36879f5bc5e440cbe53fa2f5bb9af92d82ab",
-    "slopegraph_rank_change.py": "c843af0305566981fc91d738c889410186bc5a2804f26bad745b23ba53c8e084",
+    "slopegraph_rank_change.py": "0f790ad64f0a2dbee4d89b4ba075a2c122ac04c63a4a5cafb215956b11c04366",
     "verify_results.py": "dce7f7a9af044b0fd6a2bc74d0f9f355f6dbd0eb46865eb7281a89f6796ead58"
   },
   "outputs_sha256": {
-    "figure5b.pdf": "96164028c0a6eca1b7d09c474aed1ddba5ac67a6fb2d177bc70982e3a6e3f7c0",
-    "figure5b.png": "3b2bfe648c596968eb01f139d7633c94bdb4b6691e0f3cba0ab802dc8932e98b"
+    "figure5b.pdf": "affb4c74065b6e1cfefa1379a1b39ac5b6047fb24df8971aaa43d1f743960554",
+    "figure5b.png": "73efbf607f48a465ec66ef90e6ce9de4e851c91053e7ab52084a85d12ae258e7"
   }
 }
