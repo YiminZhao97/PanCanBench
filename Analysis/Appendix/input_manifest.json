@@ -1,0 +1,118 @@
+{
+  "table_s2": {
+    "Data/judge_validation/claude-opus-5.jsonl": "843a0aea71b76db8f713cfdb6bb351306ec71300a3ee01accb2cd6fa769b7392",
+    "Data/judge_validation/claude-sonnet-5.jsonl": "4af270cb3fc5a6de7556af763e5779f5f145e0b5eac066b5c7e957ffa3dda187",
+    "Data/judge_validation/gpt-5.5-2026-04-23.jsonl": "f03af8cb07193bfd18836ae806cb2731d8b9b470235c17b8917f7dfe6a6733c4",
+    "Data/judge_validation/gpt-5.6-sol.jsonl": "7a07f9903e0364fb89e84d3a13c67a7a1762b53cfb5dceac329f24533cd36ac8",
+    "Data/human_ratings/final/full_new_grading_results_Jesse.csv": "1f671f14bb19e3de0be4b9234477ebcecd8aa3b43fc8653612398c6cfbc99c1a",
+    "Data/human_ratings/final/full_new_grading_results_Karly.csv": "9882200a3d0f998e2e834e6bb01b0e02310761da56a7019ca8656d4f1dac5c91",
+    "Data/human_ratings/final/full_new_grading_results_Manuel.csv": "00c693f3a766792be61b540b7ba91c6f302e3466d8ed14e64bca831979cf8f6a",
+    "Data/human_ratings/final/full_new_grading_results_Sheela.csv": "b40f3b162b4dd1a9426870ed47fd97af93ee0974b6cb26c4daffe8a4dbd4c003",
+    "Data/human_ratings/final/full_new_grading_results_Simone.csv": "887d00ab0dd84fa4cbc1714e7d84b91f9c648455841d3aefeba3d551618d9212"
+  },
+  "table_s5": {
+    "Data/grades/gpt5_response_graded.jsonl": "13c6f34eff7b2184f3f01077d0df20e3119fb959a4fb4eda4659da855b90477d",
+    "Data/grades/grok_response_graded.jsonl": "120070ca76b937a073be74f2d40d3fd2a0cdf5905d1c0f478840fe3d08a0a509",
+    "Data/grades/openai_family_response_graded.jsonl": "7c406252e5a489917ca30808759279025021819ea96d6bcce9158856d90616ae",
+    "Data/grades/gemini_family_response_graded.jsonl": "00f4f20f3a60e0a1ecaa0d47dc4bc856b0f6b0f553fe8543996b58c1d27baabd",
+    "Data/direct_judgments/gpt-5_vs_o3_judgment_20251209_172054.json": "7a040c6f0859a9119474caffa4baf2c618d7b212be85037d985118672fe45d30",
+    "Data/direct_judgments/gpt-5_vs_grok-4-latest_judgment_20251209_200938.json": "046b44178441fcad88dff49fb8593202c62d1cc6973813d8524f95a3dd192fa1",
+    "Data/direct_judgments/gpt-5_vs_gemini-2.5-flash_judgment_20251209_194846.json": "425ab6c9fff2063b48c49501e8d3759f65c15b65995ef48d03da66175de68e4d",
+    "Data/direct_judgments/o3_vs_gemini-2.5-flash_judgment_20251209_223132.json": "8ed7fd97181a2b45acd3d5a0fe6de9d49e3d7ab9fca8b371dcc5c55c2660b8c9",
+    "Data/direct_judgments/o3_vs_grok-4-latest_judgment_20251209_200025.json": "95b18b84f21f3f2768a95bb49fed5b511a6b381b3922aade17a65bc68f5b126f",
+    "Data/direct_judgments/grok-4-latest_vs_gemini-2.5-flash_judgment_20251209_225718.json": "06b340db4435339f0997c2bbc36ecd1b1d2458c2bf4b9fd360ae6ea659b3b13f",
+    "Data/grades/grading_rubrics_snapshot.json": "96a387bf526a33569f126cfa42fc827637359291648d3b3f04bf248035231bee",
+    "Data/grades/scoring_rubrics.json": "b7973d9b7fdcefb8fba38cffa278373fc74f3a899e2f1f7e58433487d0c9224a"
+  },
+  "table_s2_recorded_dataset_sha256": "0b00bc54bd007f62cfb192d30d9d1b1866cd8619a3e4d6347e4c596a40e6cc08",
+  "supp_figures_4_5": {
+    "Data/appendix/error_summary.csv": "a531f67b19d72fb78490f0f4b99600825f741c83c6730050a5ecda8cee661599",
+    "Data/appendix/model_claims_summary.csv": "9ada075dbe54e32b875902a932834d5eac36f1003824c1bf24acba740c6a9023"
+  },
+  "supp_figure_6": {
+    "Data/appendix/token_counts_detailed.csv": "afdf5a3c934aa8d51d18ad0bb6743837bec64163acb5d845fa19a80890b85c6d"
+  },
+  "supp_figure_6_expected_questions": {
+    "Qwen_Qwen3-14B": [],
+    "Qwen_Qwen3-32B": [],
+    "Qwen_Qwen3-8B": [],
+    "allenai_OLMo-2-0325-32B-Instruct": [],
+    "allenai_OLMo-2-1124-13B-Instruct": [],
+    "allenai_OLMo-2-1124-7B-Instruct": [],
+    "allenai_olmo-3-32b-think": [],
+    "allenai_olmo-3.1-32b-instruct": [],
+    "claude-haiku-4-5-20251001": [],
+    "claude-opus-4-1-20250805": [
+      "Q267"
+    ],
+    "claude-opus-4-20250514": [],
+    "claude-sonnet-4-20250514": [],
+    "claude-sonnet-4-5-20250929": [
+      "Q267"
+    ],
+    "gemini-2.5-flash": [],
+    "gemini-2.5-pro": [],
+    "google_gemma-3-12b-it": [],
+    "google_gemma-3-27b-it": [],
+    "gpt-4.1": [],
+    "gpt-4o": [],
+    "gpt-5": [],
+    "grok-4-latest": [],
+    "meta-llama_Llama-3.1-70B-Instruct": [],
+    "meta-llama_Llama-3.1-8B-Instruct": [],
+    "o3": [],
+    "o4-mini": []
+  },
+  "supp_figure_6_response_files": {
+    "all_opensource_models_final_outputs_temp0.7.jsonl": "72ed700c7f5287d6f982398892073101fa7a589fcd3eb77f80d4668da7336903",
+    "allenai_olmo-3-32b-think_responses.jsonl": "0190f6e296fbf446c5aa96cf773fdaea2636a143d0b6d65d23c65f27d82a93c3",
+    "allenai_olmo-3.1-32b-instruct_responses.jsonl": "b91905288c233a6a4360f8c5acafa0a61a52133f58646ef9227772fd42d538f6",
+    "claude_family_response.jsonl": "49335b09417f84eb0106046182a5f129ddc7d9a085126fe5232a6889745d5afb",
+    "claude_family_response_lastest3models_updated.jsonl": "9d19e8cfb64ee9adb00950631fd48eaa285d0f02d2526d1a1ae36529c08ccb49",
+    "gemini_family_response.jsonl": "d9744157386f2941be30cd62cb4d9c6f59eb41b0f6706608b5ac3702f7847fa4",
+    "gpt5_response.jsonl": "bfffa95f4be0fd2a8f50166c7769bb2260d2e7c9b1e0a5ffc50eeb75feba0107",
+    "grok_response.jsonl": "4d1356a9d9cc606a3f55575d260afac50e889075f3ec395bf103683052f1e0fc",
+    "openai_family_response.jsonl": "323c9ebd252aa0fe39e0aebc21b2da8d2de2058eccb1f8a06aaf901610e3b12c"
+  },
+  "supp_figure_1": {
+    "Data/appendix/supp_figure_1/fold1/fold1_claude_scores_expert1.json": "714746c8e58a354b230f30f980952a42b23e5eb58a2afca9ef44b13a3da96da8",
+    "Data/appendix/supp_figure_1/fold1/fold1_claude_scores_expert2.json": "2c2985f0f069152cd387407e0a1b0eb3c5e010a7568ed1e39828b22b619cdf7d",
+    "Data/appendix/supp_figure_1/fold1/fold1_gpt_scores_expert1.json": "20bccc4eb636dece19a33a0c1388bd7f29d675f5135f9014101bf3c8420dfdb7",
+    "Data/appendix/supp_figure_1/fold1/fold1_gpt_scores_expert2.json": "4c6420a957d4442b701c74fed7a68003806ef1a54f57f34379317bb9e554aa17",
+    "Data/appendix/supp_figure_1/fold1/polished_grading_comparison/polished_rubrics_grading_analysis_20250918_165429.json": "4ebaf63149fa8bd1034bd0b52c1c5f3bc98bfd28b31abee50420f295a68ad9b0",
+    "Data/appendix/supp_figure_1/fold2/fold2_claude_scores_expert1.json": "a04abfb195dc5b63ad18f58e06b1158cbf842be89612cc8d3f9549c0e9bb189e",
+    "Data/appendix/supp_figure_1/fold2/fold2_claude_scores_expert2.json": "dc141ff8d5d208dcc6f655ccbfba421bef63a86e478887f26272387fbb22d21b",
+    "Data/appendix/supp_figure_1/fold2/fold2_gpt_scores_expert1.json": "ce83ede3717a1e210b9c5457bc5d3ecfb3f0e678120bdbc87cf16fc7a5afa1c1",
+    "Data/appendix/supp_figure_1/fold2/fold2_gpt_scores_expert2.json": "8c95f38db05ff18fed9eca2308c1c78a2512828d85c02219e01acba5c3097995",
+    "Data/appendix/supp_figure_1/fold2/polished_grading_comparison/polished_rubrics_grading_analysis_20250918_164312.json": "46934e4d6e93e423999e677e549225d5d70a924625d5442fa1f3fb0e49fb71ae",
+    "Data/appendix/supp_figure_1/fold3/gpt_claude_scores/fold3_claude_scores_expert1.json": "298f6f85c8421c300e3c4bc1c2d4be6ade0b03e77e3666bf5db787840d1003e6",
+    "Data/appendix/supp_figure_1/fold3/gpt_claude_scores/fold3_claude_scores_expert2.json": "77a4232c74858225813581b8e7db1e8a8f75a382037a1e2fe9ed25a27e444831",
+    "Data/appendix/supp_figure_1/fold3/gpt_claude_scores/fold3_gpt_scores_expert1.json": "f7607863e6397db0ddc58e814b88f20bb75e4002ec66e6d7605b7d2a4debd33f",
+    "Data/appendix/supp_figure_1/fold3/gpt_claude_scores/fold3_gpt_scores_expert2.json": "9a0a6b29261a85ffdfe0fe8b310c4d274eac4549ffe4848a9ed6f4cf2c76e8a1",
+    "Data/appendix/supp_figure_1/fold3/polished_grading_comparison/polished_rubrics_grading_analysis_20250916_175733.json": "f9b3e85b93076c6f29484614e058c8b48dad109a56f03f17e8083535000de458",
+    "Data/appendix/supp_figure_1/fold4/fold4_claude_scores_expert1.json": "f0a5ef84a20a45a8a33a38e0c34485df9f70dc12aa4954b7f0353b0866a38909",
+    "Data/appendix/supp_figure_1/fold4/fold4_claude_scores_expert2.json": "b936eb2a2070bf9151a339ab8548cf45488e61040f98e1e7a5614c8015a6ffdc",
+    "Data/appendix/supp_figure_1/fold4/fold4_gpt_scores_expert1.json": "8f73e66d6311486c6e764047e6955479124d8ce4cd62de97d5676d36089ea7fa",
+    "Data/appendix/supp_figure_1/fold4/fold4_gpt_scores_expert2.json": "1011c15ff212e6d3a00cc170007e720a3874d37053d81c30d31af947d89d00ba",
+    "Data/appendix/supp_figure_1/fold4/polished_grading_comparison/polished_rubrics_grading_analysis_20250918_163539.json": "d71f75780b0cdc7cef4d3710feacebbcd2dd632b4ca569c2b68320177d8f0042",
+    "Data/appendix/supp_figure_1/fold5/fold5_claude_scores_expert1.json": "8bbbd5e4a79d8b87f2ed6b1155026d80a1e0384db3a35c9d73e36964dbbb0770",
+    "Data/appendix/supp_figure_1/fold5/fold5_claude_scores_expert2.json": "ec911489d1fb57bfda416fa419908f323620a880246094d58a70b977cde5bd17",
+    "Data/appendix/supp_figure_1/fold5/fold5_gpt_scores_expert1.json": "6251a5bae8d2b883e83b481b4bac89f3f698362b2cf55e9c230bb8a9ef1d06a6",
+    "Data/appendix/supp_figure_1/fold5/fold5_gpt_scores_expert2.json": "c32d5a6628a93576ca5bc17c793501d128879f910676d2e9cd5be08334e21f7f",
+    "Data/appendix/supp_figure_1/fold5/polished_grading_comparison/polished_rubrics_grading_analysis_20250918_112946.json": "e176d0f3d08eb92c80c6bbb0affd1ca640c67ed0aa06305a3948d098be78e64f",
+    "Data/appendix/supp_figure_1/detailed_question_data.csv": "4c4b5f76410fdc046a18def0618ec506e7e3f238cb88236b9350aa637f95e115",
+    "Data/appendix/supp_figure_1/plot_ready_data.csv": "14d3761903f94e902224c72bebf3eabfedcee034204f08b42d7164042dd1ff5d"
+  },
+  "supp_figure_2": {
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold1_Manuel.json": "af5bffb9eddead6e77c5a507c1e0f0fcddee3a86d53c322e9c89cd2614733a12",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold1_Sheela.json": "0ba4e8e9c89e45b08a9d86a9ea39837a8ab938cf274276efeed70605169d4da3",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold2_Jesse.json": "7ceccd87394409faa1ccbea5fb306b1a39f5bc676f34ffc0cd96357a1d8a0916",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold2_Simone.json": "8a0ac15238b5eb0f3e4f3677edfc4a80bbbe8c8d40503ebe5a89a3bbb0917219",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold3_Sheela.json": "acfe2bb2f739ce503839948fdc222ccc746b28c52cd965cec9622bb1b571af9b",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold3_Simone.json": "cfdc340046613e78899e8239d32c1613eed2122d089029468c75172fd3fad99f",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold4_Karly.json": "e72d89bcfe04d63291ef6a2ea0b9a75c9cf93aadf56feb3a1ec66ed8397edf1d",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold4_Manuel.json": "3476ef8597a47522b96429d96bb4b2faabbd8ceb37bf6ea0de9df68b756e10e6",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold5_Jesse.json": "917296633cfd97030aa69abf369de6870ba7c9570a036788520590e920fb140b",
+    "Data/appendix/supp_figure_2/opensource_2pairs_scores_fold5_Karly.json": "c4b77365c86a88b57704d9fc8920ab41961caad5c0df688e3defb6aac36b4799"
+  }
+}

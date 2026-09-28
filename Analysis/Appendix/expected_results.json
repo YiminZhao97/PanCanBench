@@ -1,0 +1,1122 @@
+{
+  "table_s2.csv": [
+    {
+      "model": "claude-opus-5",
+      "candidate_judge": "Claude Opus 5",
+      "n_questions": "40",
+      "n_items": "487",
+      "n_human_graders": "5",
+      "mean_kappa": "0.6592577314221771",
+      "macro_f1": "0.8275600030489576",
+      "agreement_percent": "84.80492813141683"
+    },
+    {
+      "model": "gpt-5.5-2026-04-23",
+      "candidate_judge": "GPT-5.5 (2026-04-23)",
+      "n_questions": "40",
+      "n_items": "487",
+      "n_human_graders": "5",
+      "mean_kappa": "0.6416139216295493",
+      "macro_f1": "0.8169370169670801",
+      "agreement_percent": "83.40862422997947"
+    },
+    {
+      "model": "claude-sonnet-5",
+      "candidate_judge": "Claude Sonnet 5",
+      "n_questions": "40",
+      "n_items": "487",
+      "n_human_graders": "5",
+      "mean_kappa": "0.6360323516612723",
+      "macro_f1": "0.8139576580018995",
+      "agreement_percent": "83.1211498973306"
+    },
+    {
+      "model": "gpt-5.6-sol",
+      "candidate_judge": "GPT-5.6-sol",
+      "n_questions": "40",
+      "n_items": "487",
+      "n_human_graders": "5",
+      "mean_kappa": "0.5946229531467259",
+      "macro_f1": "0.7920731263230832",
+      "agreement_percent": "80.94455852156057"
+    }
+  ],
+  "table_s5.csv": [
+    {
+      "model_pair": "GPT-5 vs o3",
+      "model_a": "gpt-5",
+      "model_b": "o3",
+      "n": "282",
+      "both_favor_a_count": "70",
+      "both_favor_a_percent": "24.822695035460992",
+      "both_favor_b_count": "22",
+      "both_favor_b_percent": "7.801418439716312",
+      "both_tie_count": "0",
+      "both_tie_percent": "0.0",
+      "overall_agreement_count": "92",
+      "overall_agreement_percent": "32.6241134751773",
+      "direct_judgment_file": "gpt-5_vs_o3_judgment_20251209_172054.json"
+    },
+    {
+      "model_pair": "GPT-5 vs Grok-4",
+      "model_a": "gpt-5",
+      "model_b": "grok-4-latest",
+      "n": "282",
+      "both_favor_a_count": "97",
+      "both_favor_a_percent": "34.39716312056738",
+      "both_favor_b_count": "1",
+      "both_favor_b_percent": "0.3546099290780142",
+      "both_tie_count": "0",
+      "both_tie_percent": "0.0",
+      "overall_agreement_count": "98",
+      "overall_agreement_percent": "34.751773049645394",
+      "direct_judgment_file": "gpt-5_vs_grok-4-latest_judgment_20251209_200938.json"
+    },
+    {
+      "model_pair": "GPT-5 vs Gemini-2.5 Flash",
+      "model_a": "gpt-5",
+      "model_b": "gemini-2.5-flash",
+      "n": "282",
+      "both_favor_a_count": "144",
+      "both_favor_a_percent": "51.06382978723404",
+      "both_favor_b_count": "1",
+      "both_favor_b_percent": "0.3546099290780142",
+      "both_tie_count": "0",
+      "both_tie_percent": "0.0",
+      "overall_agreement_count": "145",
+      "overall_agreement_percent": "51.41843971631206",
+      "direct_judgment_file": "gpt-5_vs_gemini-2.5-flash_judgment_20251209_194846.json"
+    },
+    {
+      "model_pair": "o3 vs Gemini-2.5 Flash",
+      "model_a": "o3",
+      "model_b": "gemini-2.5-flash",
+      "n": "282",
+      "both_favor_a_count": "162",
+      "both_favor_a_percent": "57.4468085106383",
+      "both_favor_b_count": "4",
+      "both_favor_b_percent": "1.4184397163120568",
+      "both_tie_count": "0",
+      "both_tie_percent": "0.0",
+      "overall_agreement_count": "166",
+      "overall_agreement_percent": "58.86524822695036",
+      "direct_judgment_file": "o3_vs_gemini-2.5-flash_judgment_20251209_223132.json"
+    },
+    {
+      "model_pair": "o3 vs Grok-4",
+      "model_a": "o3",
+      "model_b": "grok-4-latest",
+      "n": "282",
+      "both_favor_a_count": "120",
+      "both_favor_a_percent": "42.5531914893617",
+      "both_favor_b_count": "2",
+      "both_favor_b_percent": "0.7092198581560284",
+      "both_tie_count": "0",
+      "both_tie_percent": "0.0",
+      "overall_agreement_count": "122",
+      "overall_agreement_percent": "43.262411347517734",
+      "direct_judgment_file": "o3_vs_grok-4-latest_judgment_20251209_200025.json"
+    },
+    {
+      "model_pair": "Grok-4 vs Gemini-2.5 Flash",
+      "model_a": "grok-4-latest",
+      "model_b": "gemini-2.5-flash",
+      "n": "282",
+      "both_favor_a_count": "82",
+      "both_favor_a_percent": "29.078014184397162",
+      "both_favor_b_count": "38",
+      "both_favor_b_percent": "13.47517730496454",
+      "both_tie_count": "0",
+      "both_tie_percent": "0.0",
+      "overall_agreement_count": "120",
+      "overall_agreement_percent": "42.5531914893617",
+      "direct_judgment_file": "grok-4-latest_vs_gemini-2.5-flash_judgment_20251209_225718.json"
+    }
+  ],
+  "supp_figure_4_wrong_claim_counts.csv": [
+    {
+      "model": "gpt-4o",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "19",
+      "total_claims": "8001",
+      "wrong_claims_percent": "0.23747031621047368",
+      "plot_position": "0"
+    },
+    {
+      "model": "gpt-5",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "31",
+      "total_claims": "19207",
+      "wrong_claims_percent": "0.16139948976935492",
+      "plot_position": "1"
+    },
+    {
+      "model": "gpt-4_1",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "43",
+      "total_claims": "10698",
+      "wrong_claims_percent": "0.4019442886520845",
+      "plot_position": "2"
+    },
+    {
+      "model": "o4-mini",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "96",
+      "total_claims": "14182",
+      "wrong_claims_percent": "0.6769143985333521",
+      "plot_position": "3"
+    },
+    {
+      "model": "o3",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "132",
+      "total_claims": "19402",
+      "wrong_claims_percent": "0.6803422327595093",
+      "plot_position": "4"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "25",
+      "total_claims": "17901",
+      "wrong_claims_percent": "0.13965700240210044",
+      "plot_position": "5.5"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "25",
+      "total_claims": "20446",
+      "wrong_claims_percent": "0.12227330529198865",
+      "plot_position": "6.5"
+    },
+    {
+      "model": "google_gemma-3-27b-it",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "146",
+      "total_claims": "19269",
+      "wrong_claims_percent": "0.7576937049146297",
+      "plot_position": "7.5"
+    },
+    {
+      "model": "google_gemma-3-12b-it",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "226",
+      "total_claims": "20495",
+      "wrong_claims_percent": "1.1027079775555013",
+      "plot_position": "8.5"
+    },
+    {
+      "model": "grok-4-latest",
+      "family": "Grok (xAI)",
+      "color": "#009E73",
+      "wrong_claims": "133",
+      "total_claims": "18547",
+      "wrong_claims_percent": "0.7170971046530437",
+      "plot_position": "10.0"
+    },
+    {
+      "model": "claude-opus-4-1-20250805",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "28",
+      "total_claims": "6117",
+      "wrong_claims_percent": "0.45774072257642634",
+      "plot_position": "11.5"
+    },
+    {
+      "model": "claude-opus-4",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "29",
+      "total_claims": "6103",
+      "wrong_claims_percent": "0.47517614288055054",
+      "plot_position": "12.5"
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "35",
+      "total_claims": "6427",
+      "wrong_claims_percent": "0.5445775634043878",
+      "plot_position": "13.5"
+    },
+    {
+      "model": "claude-sonnet-4",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "40",
+      "total_claims": "6208",
+      "wrong_claims_percent": "0.6443298969072165",
+      "plot_position": "14.5"
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "57",
+      "total_claims": "6520",
+      "wrong_claims_percent": "0.8742331288343558",
+      "plot_position": "15.5"
+    },
+    {
+      "model": "meta-llama_Llama-3.1-70B-Instruct",
+      "family": "Llama (Meta)",
+      "color": "#CC79A7",
+      "wrong_claims": "178",
+      "total_claims": "9742",
+      "wrong_claims_percent": "1.8271402176144529",
+      "plot_position": "17.0"
+    },
+    {
+      "model": "meta-llama_Llama-3.1-8B-Instruct",
+      "family": "Llama (Meta)",
+      "color": "#CC79A7",
+      "wrong_claims": "367",
+      "total_claims": "10158",
+      "wrong_claims_percent": "3.612915928332349",
+      "plot_position": "18.0"
+    },
+    {
+      "model": "allenai_olmo-3.1-32b-instruct",
+      "family": "OLMo (Ai2)",
+      "color": "#56B4E9",
+      "wrong_claims": "154",
+      "total_claims": "11592",
+      "wrong_claims_percent": "1.328502415458937",
+      "plot_position": "19.5"
+    },
+    {
+      "model": "allenai_olmo-3-32b-think",
+      "family": "OLMo (Ai2)",
+      "color": "#56B4E9",
+      "wrong_claims": "269",
+      "total_claims": "15676",
+      "wrong_claims_percent": "1.715998979331462",
+      "plot_position": "20.5"
+    },
+    {
+      "model": "Qwen_Qwen3-14B",
+      "family": "Qwen (Alibaba)",
+      "color": "#F0E442",
+      "wrong_claims": "118",
+      "total_claims": "11024",
+      "wrong_claims_percent": "1.0703918722786647",
+      "plot_position": "22.0"
+    },
+    {
+      "model": "Qwen_Qwen3-32B",
+      "family": "Qwen (Alibaba)",
+      "color": "#F0E442",
+      "wrong_claims": "141",
+      "total_claims": "13941",
+      "wrong_claims_percent": "1.0114052076608564",
+      "plot_position": "23.0"
+    },
+    {
+      "model": "Qwen_Qwen3-8B",
+      "family": "Qwen (Alibaba)",
+      "color": "#F0E442",
+      "wrong_claims": "211",
+      "total_claims": "12948",
+      "wrong_claims_percent": "1.6295953042940994",
+      "plot_position": "24.0"
+    }
+  ],
+  "supp_figure_5_wrong_claim_rates.csv": [
+    {
+      "model": "gpt-5",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "31",
+      "total_claims": "19207",
+      "wrong_claims_percent": "0.16139948976935492",
+      "plot_position": "0"
+    },
+    {
+      "model": "gpt-4o",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "19",
+      "total_claims": "8001",
+      "wrong_claims_percent": "0.23747031621047368",
+      "plot_position": "1"
+    },
+    {
+      "model": "gpt-4_1",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "43",
+      "total_claims": "10698",
+      "wrong_claims_percent": "0.4019442886520845",
+      "plot_position": "2"
+    },
+    {
+      "model": "o4-mini",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "96",
+      "total_claims": "14182",
+      "wrong_claims_percent": "0.6769143985333521",
+      "plot_position": "3"
+    },
+    {
+      "model": "o3",
+      "family": "GPT Family (OpenAI)",
+      "color": "#0072B2",
+      "wrong_claims": "132",
+      "total_claims": "19402",
+      "wrong_claims_percent": "0.6803422327595093",
+      "plot_position": "4"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "25",
+      "total_claims": "20446",
+      "wrong_claims_percent": "0.12227330529198865",
+      "plot_position": "5.5"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "25",
+      "total_claims": "17901",
+      "wrong_claims_percent": "0.13965700240210044",
+      "plot_position": "6.5"
+    },
+    {
+      "model": "google_gemma-3-27b-it",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "146",
+      "total_claims": "19269",
+      "wrong_claims_percent": "0.7576937049146297",
+      "plot_position": "7.5"
+    },
+    {
+      "model": "google_gemma-3-12b-it",
+      "family": "Gemini/Gemma (Google)",
+      "color": "#E69F00",
+      "wrong_claims": "226",
+      "total_claims": "20495",
+      "wrong_claims_percent": "1.1027079775555013",
+      "plot_position": "8.5"
+    },
+    {
+      "model": "grok-4-latest",
+      "family": "Grok (xAI)",
+      "color": "#009E73",
+      "wrong_claims": "133",
+      "total_claims": "18547",
+      "wrong_claims_percent": "0.7170971046530437",
+      "plot_position": "10.0"
+    },
+    {
+      "model": "claude-opus-4-1-20250805",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "28",
+      "total_claims": "6117",
+      "wrong_claims_percent": "0.45774072257642634",
+      "plot_position": "11.5"
+    },
+    {
+      "model": "claude-opus-4",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "29",
+      "total_claims": "6103",
+      "wrong_claims_percent": "0.47517614288055054",
+      "plot_position": "12.5"
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "35",
+      "total_claims": "6427",
+      "wrong_claims_percent": "0.5445775634043878",
+      "plot_position": "13.5"
+    },
+    {
+      "model": "claude-sonnet-4",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "40",
+      "total_claims": "6208",
+      "wrong_claims_percent": "0.6443298969072165",
+      "plot_position": "14.5"
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "family": "Claude (Anthropic)",
+      "color": "#D55E00",
+      "wrong_claims": "57",
+      "total_claims": "6520",
+      "wrong_claims_percent": "0.8742331288343558",
+      "plot_position": "15.5"
+    },
+    {
+      "model": "meta-llama_Llama-3.1-70B-Instruct",
+      "family": "Llama (Meta)",
+      "color": "#CC79A7",
+      "wrong_claims": "178",
+      "total_claims": "9742",
+      "wrong_claims_percent": "1.8271402176144529",
+      "plot_position": "17.0"
+    },
+    {
+      "model": "meta-llama_Llama-3.1-8B-Instruct",
+      "family": "Llama (Meta)",
+      "color": "#CC79A7",
+      "wrong_claims": "367",
+      "total_claims": "10158",
+      "wrong_claims_percent": "3.612915928332349",
+      "plot_position": "18.0"
+    },
+    {
+      "model": "allenai_olmo-3.1-32b-instruct",
+      "family": "OLMo (Ai2)",
+      "color": "#56B4E9",
+      "wrong_claims": "154",
+      "total_claims": "11592",
+      "wrong_claims_percent": "1.328502415458937",
+      "plot_position": "19.5"
+    },
+    {
+      "model": "allenai_olmo-3-32b-think",
+      "family": "OLMo (Ai2)",
+      "color": "#56B4E9",
+      "wrong_claims": "269",
+      "total_claims": "15676",
+      "wrong_claims_percent": "1.715998979331462",
+      "plot_position": "20.5"
+    },
+    {
+      "model": "Qwen_Qwen3-32B",
+      "family": "Qwen (Alibaba)",
+      "color": "#F0E442",
+      "wrong_claims": "141",
+      "total_claims": "13941",
+      "wrong_claims_percent": "1.0114052076608564",
+      "plot_position": "22.0"
+    },
+    {
+      "model": "Qwen_Qwen3-14B",
+      "family": "Qwen (Alibaba)",
+      "color": "#F0E442",
+      "wrong_claims": "118",
+      "total_claims": "11024",
+      "wrong_claims_percent": "1.0703918722786647",
+      "plot_position": "23.0"
+    },
+    {
+      "model": "Qwen_Qwen3-8B",
+      "family": "Qwen (Alibaba)",
+      "color": "#F0E442",
+      "wrong_claims": "211",
+      "total_claims": "12948",
+      "wrong_claims_percent": "1.6295953042940994",
+      "plot_position": "24.0"
+    }
+  ],
+  "supp_figure_6_response_token_distributions.csv": [
+    {
+      "model": "google_gemma-3-12b-it",
+      "n_responses": "282",
+      "mean_tokens": "1587.22695035461",
+      "q1_tokens": "1492.75",
+      "median_tokens": "1590.5",
+      "q3_tokens": "1690.0",
+      "lower_whisker_tokens": "1197.0",
+      "upper_whisker_tokens": "1932.0",
+      "outlier_count": "2",
+      "total_tokens": "447598"
+    },
+    {
+      "model": "google_gemma-3-27b-it",
+      "n_responses": "282",
+      "mean_tokens": "1456.1489361702127",
+      "q1_tokens": "1342.5",
+      "median_tokens": "1466.5",
+      "q3_tokens": "1575.5",
+      "lower_whisker_tokens": "1004.0",
+      "upper_whisker_tokens": "1841.0",
+      "outlier_count": "1",
+      "total_tokens": "410634"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "n_responses": "282",
+      "mean_tokens": "1448.1524822695035",
+      "q1_tokens": "1199.0",
+      "median_tokens": "1429.0",
+      "q3_tokens": "1665.75",
+      "lower_whisker_tokens": "613.0",
+      "upper_whisker_tokens": "2315.0",
+      "outlier_count": "5",
+      "total_tokens": "408379"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "n_responses": "282",
+      "mean_tokens": "1441.2659574468084",
+      "q1_tokens": "1315.25",
+      "median_tokens": "1427.0",
+      "q3_tokens": "1557.0",
+      "lower_whisker_tokens": "984.0",
+      "upper_whisker_tokens": "1918.0",
+      "outlier_count": "4",
+      "total_tokens": "406437"
+    },
+    {
+      "model": "o3",
+      "n_responses": "282",
+      "mean_tokens": "1333.9964539007092",
+      "q1_tokens": "1123.5",
+      "median_tokens": "1313.5",
+      "q3_tokens": "1553.0",
+      "lower_whisker_tokens": "545.0",
+      "upper_whisker_tokens": "2143.0",
+      "outlier_count": "6",
+      "total_tokens": "376187"
+    },
+    {
+      "model": "grok-4-latest",
+      "n_responses": "282",
+      "mean_tokens": "1202.4822695035461",
+      "q1_tokens": "1078.75",
+      "median_tokens": "1203.0",
+      "q3_tokens": "1310.5",
+      "lower_whisker_tokens": "753.0",
+      "upper_whisker_tokens": "1645.0",
+      "outlier_count": "4",
+      "total_tokens": "339100"
+    },
+    {
+      "model": "gpt-5",
+      "n_responses": "282",
+      "mean_tokens": "1069.8936170212767",
+      "q1_tokens": "854.5",
+      "median_tokens": "1076.0",
+      "q3_tokens": "1285.25",
+      "lower_whisker_tokens": "276.0",
+      "upper_whisker_tokens": "1910.0",
+      "outlier_count": "1",
+      "total_tokens": "301710"
+    },
+    {
+      "model": "allenai_olmo-3-32b-think",
+      "n_responses": "282",
+      "mean_tokens": "971.1595744680851",
+      "q1_tokens": "862.0",
+      "median_tokens": "974.5",
+      "q3_tokens": "1076.25",
+      "lower_whisker_tokens": "549.0",
+      "upper_whisker_tokens": "1392.0",
+      "outlier_count": "3",
+      "total_tokens": "273867"
+    },
+    {
+      "model": "Qwen_Qwen3-32B",
+      "n_responses": "282",
+      "mean_tokens": "872.4255319148937",
+      "q1_tokens": "732.0",
+      "median_tokens": "867.5",
+      "q3_tokens": "988.25",
+      "lower_whisker_tokens": "467.0",
+      "upper_whisker_tokens": "1348.0",
+      "outlier_count": "5",
+      "total_tokens": "246024"
+    },
+    {
+      "model": "Qwen_Qwen3-8B",
+      "n_responses": "282",
+      "mean_tokens": "812.2517730496454",
+      "q1_tokens": "701.5",
+      "median_tokens": "808.0",
+      "q3_tokens": "915.75",
+      "lower_whisker_tokens": "403.0",
+      "upper_whisker_tokens": "1178.0",
+      "outlier_count": "7",
+      "total_tokens": "229055"
+    },
+    {
+      "model": "o4-mini",
+      "n_responses": "282",
+      "mean_tokens": "831.7907801418439",
+      "q1_tokens": "706.0",
+      "median_tokens": "807.0",
+      "q3_tokens": "955.75",
+      "lower_whisker_tokens": "336.0",
+      "upper_whisker_tokens": "1271.0",
+      "outlier_count": "2",
+      "total_tokens": "234565"
+    },
+    {
+      "model": "allenai_olmo-3.1-32b-instruct",
+      "n_responses": "282",
+      "mean_tokens": "755.1631205673759",
+      "q1_tokens": "624.5",
+      "median_tokens": "757.0",
+      "q3_tokens": "880.0",
+      "lower_whisker_tokens": "300.0",
+      "upper_whisker_tokens": "1235.0",
+      "outlier_count": "3",
+      "total_tokens": "212956"
+    },
+    {
+      "model": "Qwen_Qwen3-14B",
+      "n_responses": "282",
+      "mean_tokens": "680.5",
+      "q1_tokens": "597.0",
+      "median_tokens": "690.5",
+      "q3_tokens": "765.0",
+      "lower_whisker_tokens": "347.0",
+      "upper_whisker_tokens": "998.0",
+      "outlier_count": "11",
+      "total_tokens": "191901"
+    },
+    {
+      "model": "gpt-4.1",
+      "n_responses": "282",
+      "mean_tokens": "624.2234042553191",
+      "q1_tokens": "543.75",
+      "median_tokens": "621.0",
+      "q3_tokens": "701.75",
+      "lower_whisker_tokens": "329.0",
+      "upper_whisker_tokens": "925.0",
+      "outlier_count": "10",
+      "total_tokens": "176031"
+    },
+    {
+      "model": "meta-llama_Llama-3.1-8B-Instruct",
+      "n_responses": "282",
+      "mean_tokens": "556.418439716312",
+      "q1_tokens": "505.5",
+      "median_tokens": "562.5",
+      "q3_tokens": "606.0",
+      "lower_whisker_tokens": "358.0",
+      "upper_whisker_tokens": "754.0",
+      "outlier_count": "8",
+      "total_tokens": "156910"
+    },
+    {
+      "model": "meta-llama_Llama-3.1-70B-Instruct",
+      "n_responses": "282",
+      "mean_tokens": "550.9326241134752",
+      "q1_tokens": "492.0",
+      "median_tokens": "545.5",
+      "q3_tokens": "607.75",
+      "lower_whisker_tokens": "334.0",
+      "upper_whisker_tokens": "767.0",
+      "outlier_count": "1",
+      "total_tokens": "155363"
+    },
+    {
+      "model": "allenai_OLMo-2-1124-13B-Instruct",
+      "n_responses": "282",
+      "mean_tokens": "508.6808510638298",
+      "q1_tokens": "445.25",
+      "median_tokens": "514.5",
+      "q3_tokens": "569.75",
+      "lower_whisker_tokens": "291.0",
+      "upper_whisker_tokens": "748.0",
+      "outlier_count": "1",
+      "total_tokens": "143448"
+    },
+    {
+      "model": "allenai_OLMo-2-0325-32B-Instruct",
+      "n_responses": "282",
+      "mean_tokens": "427.57092198581563",
+      "q1_tokens": "383.75",
+      "median_tokens": "429.5",
+      "q3_tokens": "474.75",
+      "lower_whisker_tokens": "250.0",
+      "upper_whisker_tokens": "591.0",
+      "outlier_count": "4",
+      "total_tokens": "120575"
+    },
+    {
+      "model": "allenai_OLMo-2-1124-7B-Instruct",
+      "n_responses": "282",
+      "mean_tokens": "400.8900709219858",
+      "q1_tokens": "340.0",
+      "median_tokens": "425.0",
+      "q3_tokens": "482.0",
+      "lower_whisker_tokens": "135.0",
+      "upper_whisker_tokens": "678.0",
+      "outlier_count": "5",
+      "total_tokens": "113051"
+    },
+    {
+      "model": "gpt-4o",
+      "n_responses": "282",
+      "mean_tokens": "405.51063829787233",
+      "q1_tokens": "349.25",
+      "median_tokens": "415.5",
+      "q3_tokens": "474.0",
+      "lower_whisker_tokens": "175.0",
+      "upper_whisker_tokens": "625.0",
+      "outlier_count": "2",
+      "total_tokens": "114354"
+    },
+    {
+      "model": "claude-sonnet-4-5-20250929",
+      "n_responses": "281",
+      "mean_tokens": "305.29537366548044",
+      "q1_tokens": "291.0",
+      "median_tokens": "302.0",
+      "q3_tokens": "317.0",
+      "lower_whisker_tokens": "258.0",
+      "upper_whisker_tokens": "356.0",
+      "outlier_count": "11",
+      "total_tokens": "85788"
+    },
+    {
+      "model": "claude-opus-4-1-20250805",
+      "n_responses": "281",
+      "mean_tokens": "301.48754448398574",
+      "q1_tokens": "278.0",
+      "median_tokens": "296.0",
+      "q3_tokens": "315.0",
+      "lower_whisker_tokens": "229.0",
+      "upper_whisker_tokens": "370.0",
+      "outlier_count": "8",
+      "total_tokens": "84718"
+    },
+    {
+      "model": "claude-haiku-4-5-20251001",
+      "n_responses": "282",
+      "mean_tokens": "295.47163120567376",
+      "q1_tokens": "283.0",
+      "median_tokens": "294.0",
+      "q3_tokens": "304.0",
+      "lower_whisker_tokens": "255.0",
+      "upper_whisker_tokens": "331.0",
+      "outlier_count": "12",
+      "total_tokens": "83323"
+    },
+    {
+      "model": "claude-sonnet-4-20250514",
+      "n_responses": "282",
+      "mean_tokens": "288.63829787234044",
+      "q1_tokens": "276.25",
+      "median_tokens": "285.5",
+      "q3_tokens": "299.75",
+      "lower_whisker_tokens": "247.0",
+      "upper_whisker_tokens": "331.0",
+      "outlier_count": "8",
+      "total_tokens": "81396"
+    },
+    {
+      "model": "claude-opus-4-20250514",
+      "n_responses": "282",
+      "mean_tokens": "290.0",
+      "q1_tokens": "269.25",
+      "median_tokens": "285.5",
+      "q3_tokens": "304.0",
+      "lower_whisker_tokens": "218.0",
+      "upper_whisker_tokens": "355.0",
+      "outlier_count": "11",
+      "total_tokens": "81780"
+    }
+  ],
+  "supp_figure_1_grading_consistency.csv": [
+    {
+      "Expert": "Expert-A",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "6.12993716917797",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-A",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "4.134140438867965",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-A",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "4.391914269811954",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-A",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "3.7186671629365287",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-A",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "4.620232715044241",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-A",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "3.1433909727157725",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-B",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "6.423172744870084",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-B",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "4.0172369192123885",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-B",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "2.2430066488875293",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-B",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "1.600846449205206",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-B",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "9.43665476619008",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-B",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "6.245897637379852",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-C",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "8.62289676657862",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-C",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "5.1297797557624945",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-C",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "4.86468626282016",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-C",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "3.7216184162124906",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-C",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "8.879032593572635",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-C",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "5.829845792173446",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-D",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "4.376093411688608",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-D",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "2.5189704647314977",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-D",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "3.033626209920248",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-D",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "1.5239755852253756",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-D",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "5.979351269965868",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-D",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "3.3229774198229807",
+      "N_Questions": "113"
+    },
+    {
+      "Expert": "Expert-E",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "6.156525568502699",
+      "N_Questions": "112"
+    },
+    {
+      "Expert": "Expert-E",
+      "Model": "gpt-4o",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "4.202375948301788",
+      "N_Questions": "112"
+    },
+    {
+      "Expert": "Expert-E",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "5.550859036187839",
+      "N_Questions": "112"
+    },
+    {
+      "Expert": "Expert-E",
+      "Model": "grok-4-latest",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "4.662281382904304",
+      "N_Questions": "112"
+    },
+    {
+      "Expert": "Expert-E",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Original",
+      "Abs_Average_Difference": "7.402862243476275",
+      "N_Questions": "112"
+    },
+    {
+      "Expert": "Expert-E",
+      "Model": "meta-llama_Llama-3.1-70B-Instruct",
+      "Rubric_Type": "Polished",
+      "Abs_Average_Difference": "5.731306945731501",
+      "N_Questions": "112"
+    }
+  ],
+  "supp_figure_2_model_size_comparison.csv": [
+    {
+      "expert": "Expert-A",
+      "pair": "Llama-3.1-8B vs Llama-3.1-70B",
+      "n_questions": 113,
+      "large_at_least_small": 85,
+      "percentage": 75.22123893805309
+    },
+    {
+      "expert": "Expert-A",
+      "pair": "Qwen3-8B vs Qwen3-32B",
+      "n_questions": 113,
+      "large_at_least_small": 86,
+      "percentage": 76.10619469026548
+    },
+    {
+      "expert": "Expert-B",
+      "pair": "Llama-3.1-8B vs Llama-3.1-70B",
+      "n_questions": 113,
+      "large_at_least_small": 92,
+      "percentage": 81.41592920353982
+    },
+    {
+      "expert": "Expert-B",
+      "pair": "Qwen3-8B vs Qwen3-32B",
+      "n_questions": 113,
+      "large_at_least_small": 96,
+      "percentage": 84.95575221238938
+    },
+    {
+      "expert": "Expert-C",
+      "pair": "Llama-3.1-8B vs Llama-3.1-70B",
+      "n_questions": 113,
+      "large_at_least_small": 83,
+      "percentage": 73.45132743362832
+    },
+    {
+      "expert": "Expert-C",
+      "pair": "Qwen3-8B vs Qwen3-32B",
+      "n_questions": 113,
+      "large_at_least_small": 92,
+      "percentage": 81.41592920353982
+    },
+    {
+      "expert": "Expert-D",
+      "pair": "Llama-3.1-8B vs Llama-3.1-70B",
+      "n_questions": 113,
+      "large_at_least_small": 76,
+      "percentage": 67.2566371681416
+    },
+    {
+      "expert": "Expert-D",
+      "pair": "Qwen3-8B vs Qwen3-32B",
+      "n_questions": 113,
+      "large_at_least_small": 91,
+      "percentage": 80.53097345132744
+    },
+    {
+      "expert": "Expert-E",
+      "pair": "Llama-3.1-8B vs Llama-3.1-70B",
+      "n_questions": 112,
+      "large_at_least_small": 75,
+      "percentage": 66.96428571428571
+    },
+    {
+      "expert": "Expert-E",
+      "pair": "Qwen3-8B vs Qwen3-32B",
+      "n_questions": 112,
+      "large_at_least_small": 80,
+      "percentage": 71.42857142857143
+    }
+  ]
+}

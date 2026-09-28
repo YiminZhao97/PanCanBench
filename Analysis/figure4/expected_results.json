@@ -1,0 +1,5764 @@
+{
+  "csv": {
+    "figure4a_model_summary.csv": [
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "82.19016231919169",
+        "sd_percentage": "14.174086592346722",
+        "se_percentage": "0.8440545735594392",
+        "median_percentage": "84.84848484848484",
+        "minimum_percentage": "17.857142857142858",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#0073b2"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "78.6744312716132",
+        "sd_percentage": "15.994953785097659",
+        "se_percentage": "0.9524856369561888",
+        "median_percentage": "81.1457478807766",
+        "minimum_percentage": "35.714285714285715",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#0073b2"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "72.39428708435221",
+        "sd_percentage": "16.729976835698306",
+        "se_percentage": "0.996255622661375",
+        "median_percentage": "72.98648648648648",
+        "minimum_percentage": "22.22222222222222",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#0073b2"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "69.87181033750453",
+        "sd_percentage": "17.389251790900875",
+        "se_percentage": "1.0355148749275764",
+        "median_percentage": "70.14925373134328",
+        "minimum_percentage": "27.058823529411764",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#0073b2"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "52.70885188794069",
+        "sd_percentage": "20.23444619262207",
+        "se_percentage": "1.2049437359545137",
+        "median_percentage": "50.64978902953587",
+        "minimum_percentage": "12.844036697247706",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#0073b2"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini 2.5 Flash",
+        "provider": "Google",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "75.54238886677379",
+        "sd_percentage": "15.906662982977165",
+        "se_percentage": "0.9472279962011738",
+        "median_percentage": "77.40040858018386",
+        "minimum_percentage": "28.0",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#e5a024"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini 2.5 Pro",
+        "provider": "Google",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "71.86481377985685",
+        "sd_percentage": "16.50417012292014",
+        "se_percentage": "0.9828090285955715",
+        "median_percentage": "71.9601677148847",
+        "minimum_percentage": "26.041666666666668",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#e5a024"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma 3 27B IT",
+        "provider": "Google",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "70.49488941527868",
+        "sd_percentage": "16.959492269651353",
+        "se_percentage": "1.00992306785923",
+        "median_percentage": "70.91966173361521",
+        "minimum_percentage": "18.51851851851852",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#e5a024"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma 3 12B IT",
+        "provider": "Google",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "70.22262501017784",
+        "sd_percentage": "16.762452481346124",
+        "se_percentage": "0.9981895192168777",
+        "median_percentage": "70.52139037433156",
+        "minimum_percentage": "24.59016393442623",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#e5a024"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok 4",
+        "provider": "xAI",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "81.58519344349031",
+        "sd_percentage": "13.932146925404691",
+        "se_percentage": "0.8296472760537127",
+        "median_percentage": "83.42490842490842",
+        "minimum_percentage": "31.914893617021278",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#009e73"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude Opus 4.1",
+        "provider": "Anthropic",
+        "n_total": "282",
+        "n_included": "281",
+        "n_excluded": "1",
+        "mean_percentage": "54.9674345000588",
+        "sd_percentage": "20.24867567160698",
+        "se_percentage": "1.2079347193921168",
+        "median_percentage": "56.17977528089887",
+        "minimum_percentage": "8.333333333333334",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "2",
+        "color": "#d36027"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude Sonnet 4.5",
+        "provider": "Anthropic",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "54.68964234924625",
+        "sd_percentage": "20.134750753774625",
+        "se_percentage": "1.1990069589654668",
+        "median_percentage": "54.67657342657343",
+        "minimum_percentage": "9.411764705882353",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#d36027"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude Opus 4",
+        "provider": "Anthropic",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "54.20286572527267",
+        "sd_percentage": "19.689648057711757",
+        "se_percentage": "1.1725014791331116",
+        "median_percentage": "53.683640303358615",
+        "minimum_percentage": "9.174311926605505",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#d36027"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude Sonnet 4",
+        "provider": "Anthropic",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "52.11217205214554",
+        "sd_percentage": "20.022915491960088",
+        "se_percentage": "1.1923472660388872",
+        "median_percentage": "50.6980302161025",
+        "minimum_percentage": "8.333333333333334",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#d36027"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude Haiku 4.5",
+        "provider": "Anthropic",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "51.696856305294105",
+        "sd_percentage": "20.65282486725591",
+        "se_percentage": "1.2298578234693383",
+        "median_percentage": "51.458510337015014",
+        "minimum_percentage": "0.0",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "1",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#d36027"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama 3.1 70B Instruct",
+        "provider": "Meta",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "52.99735753748877",
+        "sd_percentage": "18.433423863868178",
+        "se_percentage": "1.097694417011577",
+        "median_percentage": "52.382029247700885",
+        "minimum_percentage": "7.6923076923076925",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "2",
+        "color": "#cc79a7"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama 3.1 8B Instruct",
+        "provider": "Meta",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "48.60837369750351",
+        "sd_percentage": "20.210204517413654",
+        "se_percentage": "1.2035001652032629",
+        "median_percentage": "48.245073891625616",
+        "minimum_percentage": "0.0",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "3",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "3",
+        "color": "#cc79a7"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo 3 32B Think",
+        "provider": "Ai2",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "68.57569559833303",
+        "sd_percentage": "17.524558142737988",
+        "se_percentage": "1.0435722509253653",
+        "median_percentage": "69.4255111976631",
+        "minimum_percentage": "16.513761467889907",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "2",
+        "color": "#5ab4e5"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo 3.1 32B Instruct",
+        "provider": "Ai2",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "62.87920642515407",
+        "sd_percentage": "18.670063530344898",
+        "se_percentage": "1.1117861040824817",
+        "median_percentage": "62.13592233009709",
+        "minimum_percentage": "18.42105263157895",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "1",
+        "color": "#5ab4e5"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3 32B",
+        "provider": "Alibaba",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "66.23526366181561",
+        "sd_percentage": "18.087575370655607",
+        "se_percentage": "1.077099438947006",
+        "median_percentage": "66.47940074906367",
+        "minimum_percentage": "0.0",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "1",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "2",
+        "color": "#f0e442"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3 8B",
+        "provider": "Alibaba",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "60.99047163591493",
+        "sd_percentage": "18.409830147385478",
+        "se_percentage": "1.096289431640933",
+        "median_percentage": "60.24868705591597",
+        "minimum_percentage": "7.339449541284404",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "2",
+        "color": "#f0e442"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3 14B",
+        "provider": "Alibaba",
+        "n_total": "282",
+        "n_included": "282",
+        "n_excluded": "0",
+        "mean_percentage": "59.72449811364505",
+        "sd_percentage": "18.31439657439673",
+        "se_percentage": "1.0906064450705135",
+        "median_percentage": "59.54481524101777",
+        "minimum_percentage": "5.504587155963303",
+        "maximum_percentage": "100.0",
+        "genuine_zero_scores_retained": "0",
+        "negative_total_scores_retained": "0",
+        "negative_penalties_applied": "0",
+        "color": "#f0e442"
+      }
+    ],
+    "figure4b_model_summary.csv": [
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "source_model": "GPT_o3",
+        "questions_with_factual_errors": "69",
+        "denominator_questions": "282",
+        "percentage": "24.46808510638298"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "source_model": "gpt-5",
+        "questions_with_factual_errors": "23",
+        "denominator_questions": "282",
+        "percentage": "8.156028368794326"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "source_model": "GPT_o4-mini",
+        "questions_with_factual_errors": "47",
+        "denominator_questions": "282",
+        "percentage": "16.666666666666668"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "source_model": "gpt-4_1",
+        "questions_with_factual_errors": "28",
+        "denominator_questions": "282",
+        "percentage": "9.929078014184396"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "source_model": "gpt-4o",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "282",
+        "percentage": "6.028368794326241"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "source_model": "gemini-2.5-flash",
+        "questions_with_factual_errors": "21",
+        "denominator_questions": "282",
+        "percentage": "7.446808510638298"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "source_model": "gemini-2.5-pro",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "282",
+        "percentage": "6.028368794326241"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "source_model": "google_gemma-3-27b-it",
+        "questions_with_factual_errors": "70",
+        "denominator_questions": "282",
+        "percentage": "24.822695035460992"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "source_model": "google_gemma-3-12b-it",
+        "questions_with_factual_errors": "106",
+        "denominator_questions": "282",
+        "percentage": "37.5886524822695"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "source_model": "grok-4-latest",
+        "questions_with_factual_errors": "85",
+        "denominator_questions": "282",
+        "percentage": "30.141843971631207"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "source_model": "claude-opus-4-1-20250805",
+        "questions_with_factual_errors": "24",
+        "denominator_questions": "282",
+        "percentage": "8.51063829787234"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "source_model": "claude-sonnet-4-5",
+        "questions_with_factual_errors": "26",
+        "denominator_questions": "282",
+        "percentage": "9.21985815602837"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "source_model": "claude-opus-4",
+        "questions_with_factual_errors": "24",
+        "denominator_questions": "282",
+        "percentage": "8.51063829787234"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "source_model": "claude-sonnet-4",
+        "questions_with_factual_errors": "30",
+        "denominator_questions": "282",
+        "percentage": "10.638297872340425"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "source_model": "claude-haiku-4-5",
+        "questions_with_factual_errors": "40",
+        "denominator_questions": "282",
+        "percentage": "14.184397163120567"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "source_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "questions_with_factual_errors": "104",
+        "denominator_questions": "282",
+        "percentage": "36.87943262411348"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "source_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "questions_with_factual_errors": "152",
+        "denominator_questions": "282",
+        "percentage": "53.90070921985816"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "source_model": "allenai_olmo-3-32b-think",
+        "questions_with_factual_errors": "109",
+        "denominator_questions": "282",
+        "percentage": "38.652482269503544"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "source_model": "allenai_olmo-3.1-32b-instruct",
+        "questions_with_factual_errors": "75",
+        "denominator_questions": "282",
+        "percentage": "26.595744680851062"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "source_model": "Qwen_Qwen3-32B",
+        "questions_with_factual_errors": "62",
+        "denominator_questions": "282",
+        "percentage": "21.98581560283688"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "source_model": "Qwen_Qwen3-8B",
+        "questions_with_factual_errors": "88",
+        "denominator_questions": "282",
+        "percentage": "31.20567375886525"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "source_model": "Qwen_Qwen3-14B",
+        "questions_with_factual_errors": "70",
+        "denominator_questions": "282",
+        "percentage": "24.822695035460992"
+      }
+    ],
+    "figure4b_category_matrix.csv": [
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "20",
+        "percentage": "20.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "11",
+        "percentage": "45.45454545454545",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "67",
+        "percentage": "25.37313432835821",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "53",
+        "percentage": "20.754716981132077",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "16",
+        "denominator_questions": "79",
+        "percentage": "20.253164556962027",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "1",
+        "response_model": "o3",
+        "display_name": "o3",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "16",
+        "denominator_questions": "52",
+        "percentage": "30.76923076923077",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "20",
+        "percentage": "10.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "0",
+        "denominator_questions": "11",
+        "percentage": "0.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "67",
+        "percentage": "4.477611940298507",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "53",
+        "percentage": "7.547169811320755",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "79",
+        "percentage": "5.063291139240507",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "2",
+        "response_model": "gpt-5",
+        "display_name": "GPT-5",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "1",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "10",
+        "denominator_questions": "52",
+        "percentage": "19.23076923076923",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "20",
+        "percentage": "20.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "11",
+        "percentage": "9.090909090909092",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "67",
+        "percentage": "16.417910447761194",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "53",
+        "percentage": "20.754716981132077",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "79",
+        "percentage": "13.924050632911392",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "3",
+        "response_model": "o4-mini",
+        "display_name": "o4-mini",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "2",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "9",
+        "denominator_questions": "52",
+        "percentage": "17.307692307692307",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "20",
+        "percentage": "20.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "11",
+        "percentage": "9.090909090909092",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "67",
+        "percentage": "8.955223880597014",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "53",
+        "percentage": "5.660377358490566",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "79",
+        "percentage": "7.594936708860759",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "4",
+        "response_model": "gpt-4.1",
+        "display_name": "GPT-4.1",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "3",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "8",
+        "denominator_questions": "52",
+        "percentage": "15.384615384615385",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "20",
+        "percentage": "10.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "0",
+        "denominator_questions": "11",
+        "percentage": "0.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "67",
+        "percentage": "5.970149253731344",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "53",
+        "percentage": "5.660377358490566",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "79",
+        "percentage": "6.329113924050633",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "5",
+        "response_model": "gpt-4o",
+        "display_name": "GPT-4o",
+        "provider": "OpenAI",
+        "color": "#0073b2",
+        "x_position": "4",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "52",
+        "percentage": "5.769230769230769",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "20",
+        "percentage": "10.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "0",
+        "denominator_questions": "11",
+        "percentage": "0.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "7",
+        "denominator_questions": "67",
+        "percentage": "10.447761194029852",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "53",
+        "percentage": "9.433962264150944",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "79",
+        "percentage": "5.063291139240507",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "6",
+        "response_model": "gemini-2.5-flash",
+        "display_name": "Gemini-2.5 Flash",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "5.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "52",
+        "percentage": "5.769230769230769",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "0",
+        "denominator_questions": "20",
+        "percentage": "0.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "11",
+        "percentage": "9.090909090909092",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "10",
+        "denominator_questions": "67",
+        "percentage": "14.925373134328359",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "53",
+        "percentage": "1.8867924528301887",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "79",
+        "percentage": "1.2658227848101267",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "7",
+        "response_model": "gemini-2.5-pro",
+        "display_name": "Gemini-2.5 Pro",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "6.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "52",
+        "percentage": "7.6923076923076925",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "8",
+        "denominator_questions": "20",
+        "percentage": "40.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "11",
+        "percentage": "18.181818181818183",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "15",
+        "denominator_questions": "67",
+        "percentage": "22.388059701492537",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "16",
+        "denominator_questions": "53",
+        "percentage": "30.18867924528302",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "12",
+        "denominator_questions": "79",
+        "percentage": "15.189873417721518",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "8",
+        "response_model": "google_gemma-3-27b-it",
+        "display_name": "Gemma-3-27b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "7.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "52",
+        "percentage": "32.69230769230769",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "12",
+        "denominator_questions": "20",
+        "percentage": "60.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "11",
+        "percentage": "54.54545454545455",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "25",
+        "denominator_questions": "67",
+        "percentage": "37.3134328358209",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "29",
+        "denominator_questions": "53",
+        "percentage": "54.716981132075475",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "79",
+        "percentage": "21.518987341772153",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "9",
+        "response_model": "google_gemma-3-12b-it",
+        "display_name": "Gemma-3-12b-it",
+        "provider": "Google",
+        "color": "#e5a024",
+        "x_position": "8.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "52",
+        "percentage": "32.69230769230769",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "7",
+        "denominator_questions": "20",
+        "percentage": "35.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "11",
+        "percentage": "36.36363636363637",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "22",
+        "denominator_questions": "67",
+        "percentage": "32.83582089552239",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "14",
+        "denominator_questions": "53",
+        "percentage": "26.41509433962264",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "21",
+        "denominator_questions": "79",
+        "percentage": "26.582278481012658",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "10",
+        "response_model": "grok-4-latest",
+        "display_name": "Grok-4-latest",
+        "provider": "xAI",
+        "color": "#009e73",
+        "x_position": "10.0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "52",
+        "percentage": "32.69230769230769",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "20",
+        "percentage": "25.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "11",
+        "percentage": "18.181818181818183",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "67",
+        "percentage": "7.462686567164179",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "53",
+        "percentage": "5.660377358490566",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "79",
+        "percentage": "6.329113924050633",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "11",
+        "response_model": "claude-opus-4-1-20250805",
+        "display_name": "Claude-Opus-4.1",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "11.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "52",
+        "percentage": "7.6923076923076925",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "20",
+        "percentage": "10.0",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "11",
+        "percentage": "27.272727272727273",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "67",
+        "percentage": "8.955223880597014",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "53",
+        "percentage": "9.433962264150944",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "79",
+        "percentage": "5.063291139240507",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "12",
+        "response_model": "claude-sonnet-4-5-20250929",
+        "display_name": "Claude-Sonnet-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "12.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "52",
+        "percentage": "11.538461538461538",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "20",
+        "percentage": "25.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "11",
+        "percentage": "9.090909090909092",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "7",
+        "denominator_questions": "67",
+        "percentage": "10.447761194029852",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "1",
+        "denominator_questions": "53",
+        "percentage": "1.8867924528301887",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "79",
+        "percentage": "5.063291139240507",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "13",
+        "response_model": "claude-opus-4-20250514",
+        "display_name": "Claude-Opus-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "13.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "52",
+        "percentage": "11.538461538461538",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "20",
+        "percentage": "15.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "11",
+        "percentage": "27.272727272727273",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "10",
+        "denominator_questions": "67",
+        "percentage": "14.925373134328359",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "53",
+        "percentage": "3.7735849056603774",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "79",
+        "percentage": "5.063291139240507",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "14",
+        "response_model": "claude-sonnet-4-20250514",
+        "display_name": "Claude-Sonnet-4",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "14.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "8",
+        "denominator_questions": "52",
+        "percentage": "15.384615384615385",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "20",
+        "percentage": "30.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "11",
+        "percentage": "27.272727272727273",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "67",
+        "percentage": "7.462686567164179",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "53",
+        "percentage": "20.754716981132077",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "5",
+        "denominator_questions": "79",
+        "percentage": "6.329113924050633",
+        "above_10_percent": "False"
+      },
+      {
+        "plot_order": "15",
+        "response_model": "claude-haiku-4-5-20251001",
+        "display_name": "Claude-Haiku-4.5",
+        "provider": "Anthropic",
+        "color": "#d36027",
+        "x_position": "15.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "10",
+        "denominator_questions": "52",
+        "percentage": "19.23076923076923",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "20",
+        "percentage": "55.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "11",
+        "percentage": "36.36363636363637",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "26",
+        "denominator_questions": "67",
+        "percentage": "38.80597014925373",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "22",
+        "denominator_questions": "53",
+        "percentage": "41.509433962264154",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "22",
+        "denominator_questions": "79",
+        "percentage": "27.848101265822784",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "16",
+        "response_model": "meta-llama_Llama-3.1-70B-Instruct",
+        "display_name": "Llama-3.1-70B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "17.0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "19",
+        "denominator_questions": "52",
+        "percentage": "36.53846153846154",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "20",
+        "percentage": "55.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "7",
+        "denominator_questions": "11",
+        "percentage": "63.63636363636363",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "40",
+        "denominator_questions": "67",
+        "percentage": "59.701492537313435",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "25",
+        "denominator_questions": "53",
+        "percentage": "47.16981132075472",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "34",
+        "denominator_questions": "79",
+        "percentage": "43.037974683544306",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "17",
+        "response_model": "meta-llama_Llama-3.1-8B-Instruct",
+        "display_name": "Llama-3.1-8B-Instruct",
+        "provider": "Meta",
+        "color": "#cc79a7",
+        "x_position": "18.0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "35",
+        "denominator_questions": "52",
+        "percentage": "67.3076923076923",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "9",
+        "denominator_questions": "20",
+        "percentage": "45.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "7",
+        "denominator_questions": "11",
+        "percentage": "63.63636363636363",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "30",
+        "denominator_questions": "67",
+        "percentage": "44.776119402985074",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "19",
+        "denominator_questions": "53",
+        "percentage": "35.84905660377358",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "19",
+        "denominator_questions": "79",
+        "percentage": "24.050632911392405",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "18",
+        "response_model": "allenai_olmo-3-32b-think",
+        "display_name": "OLMo-3-32b-think",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "19.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "25",
+        "denominator_questions": "52",
+        "percentage": "48.07692307692308",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "9",
+        "denominator_questions": "20",
+        "percentage": "45.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "11",
+        "percentage": "27.272727272727273",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "19",
+        "denominator_questions": "67",
+        "percentage": "28.35820895522388",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "15",
+        "denominator_questions": "53",
+        "percentage": "28.30188679245283",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "16",
+        "denominator_questions": "79",
+        "percentage": "20.253164556962027",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "19",
+        "response_model": "allenai_olmo-3.1-32b-instruct",
+        "display_name": "OLMo-3.1-32b-instruct",
+        "provider": "Ai2",
+        "color": "#5ab4e5",
+        "x_position": "20.5",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "13",
+        "denominator_questions": "52",
+        "percentage": "25.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "4",
+        "denominator_questions": "20",
+        "percentage": "20.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "3",
+        "denominator_questions": "11",
+        "percentage": "27.272727272727273",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "13",
+        "denominator_questions": "67",
+        "percentage": "19.402985074626866",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "7",
+        "denominator_questions": "53",
+        "percentage": "13.20754716981132",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "15",
+        "denominator_questions": "79",
+        "percentage": "18.9873417721519",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "20",
+        "response_model": "Qwen_Qwen3-32B",
+        "display_name": "Qwen3-32B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "22.0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "20",
+        "denominator_questions": "52",
+        "percentage": "38.46153846153846",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "8",
+        "denominator_questions": "20",
+        "percentage": "40.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "6",
+        "denominator_questions": "11",
+        "percentage": "54.54545454545455",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "24",
+        "denominator_questions": "67",
+        "percentage": "35.82089552238806",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "11",
+        "denominator_questions": "53",
+        "percentage": "20.754716981132077",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "17",
+        "denominator_questions": "79",
+        "percentage": "21.518987341772153",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "21",
+        "response_model": "Qwen_Qwen3-8B",
+        "display_name": "Qwen3-8B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "23.0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "22",
+        "denominator_questions": "52",
+        "percentage": "42.30769230769231",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "category": "Diagnosis & Screening",
+        "questions_with_factual_errors": "8",
+        "denominator_questions": "20",
+        "percentage": "40.0",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "category": "Genetics & Risk",
+        "questions_with_factual_errors": "2",
+        "denominator_questions": "11",
+        "percentage": "18.181818181818183",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "category": "Mechanistic / Research Topics",
+        "questions_with_factual_errors": "8",
+        "denominator_questions": "67",
+        "percentage": "11.940298507462687",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "category": "Side Effects & Symptom Management",
+        "questions_with_factual_errors": "15",
+        "denominator_questions": "53",
+        "percentage": "28.30188679245283",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "category": "Supportive & Palliative Care",
+        "questions_with_factual_errors": "27",
+        "denominator_questions": "79",
+        "percentage": "34.177215189873415",
+        "above_10_percent": "True"
+      },
+      {
+        "plot_order": "22",
+        "response_model": "Qwen_Qwen3-14B",
+        "display_name": "Qwen3-14B",
+        "provider": "Alibaba",
+        "color": "#f0e442",
+        "x_position": "24.0",
+        "category": "Treatment & Clinical Trials",
+        "questions_with_factual_errors": "10",
+        "denominator_questions": "52",
+        "percentage": "19.23076923076923",
+        "above_10_percent": "True"
+      }
+    ]
+  },
+  "json": {
+    "figure4c_results.json": {
+      "results": [
+        {
+          "response_model": "claude-sonnet-4-5-20250929",
+          "display_name": "Claude-Sonnet-4.5",
+          "n_pairs": 40,
+          "mean_baseline_percentage": 48.59635171266954,
+          "mean_web_search_percentage": 55.60384682375536,
+          "mean_difference_percentage_points": 7.007495111085819,
+          "t_statistic": 2.3972277669910107,
+          "degrees_of_freedom": 39,
+          "p_value_two_sided_unadjusted": 0.021407718502895946,
+          "significant_at_0_05_unadjusted": true,
+          "pairs": [
+            {
+              "question_id": "Q58",
+              "baseline_total_score": 48,
+              "web_search_total_score": 46,
+              "max_possible_score": 101,
+              "rubric_item_count": 17,
+              "baseline_percentage": 47.524752475247524,
+              "web_search_percentage": 45.54455445544554,
+              "difference_percentage_points": -1.980198019801982
+            },
+            {
+              "question_id": "Q102",
+              "baseline_total_score": 20,
+              "web_search_total_score": 20,
+              "max_possible_score": 51,
+              "rubric_item_count": 11,
+              "baseline_percentage": 39.21568627450981,
+              "web_search_percentage": 39.21568627450981,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q113",
+              "baseline_total_score": 15,
+              "web_search_total_score": 30,
+              "max_possible_score": 53,
+              "rubric_item_count": 10,
+              "baseline_percentage": 28.30188679245283,
+              "web_search_percentage": 56.60377358490566,
+              "difference_percentage_points": 28.30188679245283
+            },
+            {
+              "question_id": "Q116",
+              "baseline_total_score": 25,
+              "web_search_total_score": 29,
+              "max_possible_score": 52,
+              "rubric_item_count": 11,
+              "baseline_percentage": 48.07692307692308,
+              "web_search_percentage": 55.76923076923077,
+              "difference_percentage_points": 7.692307692307686
+            },
+            {
+              "question_id": "Q122",
+              "baseline_total_score": 40,
+              "web_search_total_score": 20,
+              "max_possible_score": 53,
+              "rubric_item_count": 13,
+              "baseline_percentage": 75.47169811320755,
+              "web_search_percentage": 37.735849056603776,
+              "difference_percentage_points": -37.735849056603776
+            },
+            {
+              "question_id": "Q171",
+              "baseline_total_score": 27,
+              "web_search_total_score": 24,
+              "max_possible_score": 95,
+              "rubric_item_count": 14,
+              "baseline_percentage": 28.42105263157895,
+              "web_search_percentage": 25.263157894736842,
+              "difference_percentage_points": -3.157894736842106
+            },
+            {
+              "question_id": "Q173",
+              "baseline_total_score": 30,
+              "web_search_total_score": 32,
+              "max_possible_score": 81,
+              "rubric_item_count": 12,
+              "baseline_percentage": 37.03703703703704,
+              "web_search_percentage": 39.50617283950617,
+              "difference_percentage_points": 2.4691358024691326
+            },
+            {
+              "question_id": "Q178",
+              "baseline_total_score": 55,
+              "web_search_total_score": 75,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 70.51282051282051,
+              "web_search_percentage": 96.15384615384616,
+              "difference_percentage_points": 25.64102564102565
+            },
+            {
+              "question_id": "Q179",
+              "baseline_total_score": 45,
+              "web_search_total_score": 60,
+              "max_possible_score": 100,
+              "rubric_item_count": 15,
+              "baseline_percentage": 45.0,
+              "web_search_percentage": 60.0,
+              "difference_percentage_points": 15.0
+            },
+            {
+              "question_id": "Q180",
+              "baseline_total_score": 7,
+              "web_search_total_score": 7,
+              "max_possible_score": 47,
+              "rubric_item_count": 10,
+              "baseline_percentage": 14.893617021276595,
+              "web_search_percentage": 14.893617021276595,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q181",
+              "baseline_total_score": 30,
+              "web_search_total_score": 25,
+              "max_possible_score": 83,
+              "rubric_item_count": 14,
+              "baseline_percentage": 36.144578313253014,
+              "web_search_percentage": 30.120481927710845,
+              "difference_percentage_points": -6.024096385542169
+            },
+            {
+              "question_id": "Q184",
+              "baseline_total_score": 26,
+              "web_search_total_score": 3,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 33.333333333333336,
+              "web_search_percentage": 3.8461538461538463,
+              "difference_percentage_points": -29.48717948717949
+            },
+            {
+              "question_id": "Q185",
+              "baseline_total_score": 56,
+              "web_search_total_score": 51,
+              "max_possible_score": 66,
+              "rubric_item_count": 9,
+              "baseline_percentage": 84.84848484848484,
+              "web_search_percentage": 77.27272727272727,
+              "difference_percentage_points": -7.575757575757578
+            },
+            {
+              "question_id": "Q187",
+              "baseline_total_score": 38,
+              "web_search_total_score": 41,
+              "max_possible_score": 44,
+              "rubric_item_count": 8,
+              "baseline_percentage": 86.36363636363636,
+              "web_search_percentage": 93.18181818181819,
+              "difference_percentage_points": 6.818181818181827
+            },
+            {
+              "question_id": "Q193",
+              "baseline_total_score": 50,
+              "web_search_total_score": 49,
+              "max_possible_score": 74,
+              "rubric_item_count": 11,
+              "baseline_percentage": 67.56756756756756,
+              "web_search_percentage": 66.21621621621621,
+              "difference_percentage_points": -1.3513513513513544
+            },
+            {
+              "question_id": "Q197",
+              "baseline_total_score": 24,
+              "web_search_total_score": 20,
+              "max_possible_score": 43,
+              "rubric_item_count": 9,
+              "baseline_percentage": 55.81395348837209,
+              "web_search_percentage": 46.51162790697674,
+              "difference_percentage_points": -9.302325581395351
+            },
+            {
+              "question_id": "Q198",
+              "baseline_total_score": 13,
+              "web_search_total_score": 61,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 16.666666666666668,
+              "web_search_percentage": 78.2051282051282,
+              "difference_percentage_points": 61.53846153846153
+            },
+            {
+              "question_id": "Q199",
+              "baseline_total_score": 57,
+              "web_search_total_score": 37,
+              "max_possible_score": 104,
+              "rubric_item_count": 16,
+              "baseline_percentage": 54.80769230769231,
+              "web_search_percentage": 35.57692307692308,
+              "difference_percentage_points": -19.230769230769226
+            },
+            {
+              "question_id": "Q202",
+              "baseline_total_score": 14,
+              "web_search_total_score": 31,
+              "max_possible_score": 61,
+              "rubric_item_count": 10,
+              "baseline_percentage": 22.950819672131146,
+              "web_search_percentage": 50.81967213114754,
+              "difference_percentage_points": 27.868852459016395
+            },
+            {
+              "question_id": "Q203",
+              "baseline_total_score": 80,
+              "web_search_total_score": 95,
+              "max_possible_score": 113,
+              "rubric_item_count": 15,
+              "baseline_percentage": 70.79646017699115,
+              "web_search_percentage": 84.070796460177,
+              "difference_percentage_points": 13.274336283185846
+            },
+            {
+              "question_id": "Q206",
+              "baseline_total_score": 65,
+              "web_search_total_score": 72,
+              "max_possible_score": 90,
+              "rubric_item_count": 12,
+              "baseline_percentage": 72.22222222222223,
+              "web_search_percentage": 80.0,
+              "difference_percentage_points": 7.7777777777777715
+            },
+            {
+              "question_id": "Q207",
+              "baseline_total_score": 22,
+              "web_search_total_score": 27,
+              "max_possible_score": 89,
+              "rubric_item_count": 14,
+              "baseline_percentage": 24.719101123595507,
+              "web_search_percentage": 30.337078651685392,
+              "difference_percentage_points": 5.6179775280898845
+            },
+            {
+              "question_id": "Q212",
+              "baseline_total_score": 59,
+              "web_search_total_score": 71,
+              "max_possible_score": 88,
+              "rubric_item_count": 12,
+              "baseline_percentage": 67.04545454545455,
+              "web_search_percentage": 80.68181818181819,
+              "difference_percentage_points": 13.63636363636364
+            },
+            {
+              "question_id": "Q219",
+              "baseline_total_score": 35,
+              "web_search_total_score": 35,
+              "max_possible_score": 52,
+              "rubric_item_count": 10,
+              "baseline_percentage": 67.3076923076923,
+              "web_search_percentage": 67.3076923076923,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q223",
+              "baseline_total_score": 7,
+              "web_search_total_score": 15,
+              "max_possible_score": 54,
+              "rubric_item_count": 11,
+              "baseline_percentage": 12.962962962962964,
+              "web_search_percentage": 27.77777777777778,
+              "difference_percentage_points": 14.814814814814815
+            },
+            {
+              "question_id": "Q226",
+              "baseline_total_score": 29,
+              "web_search_total_score": 43,
+              "max_possible_score": 56,
+              "rubric_item_count": 10,
+              "baseline_percentage": 51.785714285714285,
+              "web_search_percentage": 76.78571428571429,
+              "difference_percentage_points": 25.000000000000007
+            },
+            {
+              "question_id": "Q227",
+              "baseline_total_score": 31,
+              "web_search_total_score": 23,
+              "max_possible_score": 100,
+              "rubric_item_count": 15,
+              "baseline_percentage": 31.0,
+              "web_search_percentage": 23.0,
+              "difference_percentage_points": -8.0
+            },
+            {
+              "question_id": "Q229",
+              "baseline_total_score": 55,
+              "web_search_total_score": 38,
+              "max_possible_score": 110,
+              "rubric_item_count": 18,
+              "baseline_percentage": 50.0,
+              "web_search_percentage": 34.54545454545455,
+              "difference_percentage_points": -15.454545454545453
+            },
+            {
+              "question_id": "Q237",
+              "baseline_total_score": 44,
+              "web_search_total_score": 52,
+              "max_possible_score": 91,
+              "rubric_item_count": 14,
+              "baseline_percentage": 48.35164835164835,
+              "web_search_percentage": 57.142857142857146,
+              "difference_percentage_points": 8.791208791208796
+            },
+            {
+              "question_id": "Q239",
+              "baseline_total_score": 69,
+              "web_search_total_score": 79,
+              "max_possible_score": 103,
+              "rubric_item_count": 17,
+              "baseline_percentage": 66.99029126213593,
+              "web_search_percentage": 76.69902912621359,
+              "difference_percentage_points": 9.708737864077662
+            },
+            {
+              "question_id": "Q241",
+              "baseline_total_score": 47,
+              "web_search_total_score": 57,
+              "max_possible_score": 67,
+              "rubric_item_count": 10,
+              "baseline_percentage": 70.14925373134328,
+              "web_search_percentage": 85.07462686567165,
+              "difference_percentage_points": 14.925373134328368
+            },
+            {
+              "question_id": "Q242",
+              "baseline_total_score": 59,
+              "web_search_total_score": 71,
+              "max_possible_score": 83,
+              "rubric_item_count": 11,
+              "baseline_percentage": 71.08433734939759,
+              "web_search_percentage": 85.5421686746988,
+              "difference_percentage_points": 14.457831325301214
+            },
+            {
+              "question_id": "Q244",
+              "baseline_total_score": 25,
+              "web_search_total_score": 59,
+              "max_possible_score": 89,
+              "rubric_item_count": 14,
+              "baseline_percentage": 28.089887640449437,
+              "web_search_percentage": 66.29213483146067,
+              "difference_percentage_points": 38.20224719101124
+            },
+            {
+              "question_id": "Q252",
+              "baseline_total_score": 23,
+              "web_search_total_score": 56,
+              "max_possible_score": 88,
+              "rubric_item_count": 15,
+              "baseline_percentage": 26.136363636363637,
+              "web_search_percentage": 63.63636363636363,
+              "difference_percentage_points": 37.5
+            },
+            {
+              "question_id": "Q253",
+              "baseline_total_score": 42,
+              "web_search_total_score": 52,
+              "max_possible_score": 126,
+              "rubric_item_count": 16,
+              "baseline_percentage": 33.333333333333336,
+              "web_search_percentage": 41.26984126984127,
+              "difference_percentage_points": 7.936507936507937
+            },
+            {
+              "question_id": "Q255",
+              "baseline_total_score": 57,
+              "web_search_total_score": 79,
+              "max_possible_score": 109,
+              "rubric_item_count": 14,
+              "baseline_percentage": 52.293577981651374,
+              "web_search_percentage": 72.4770642201835,
+              "difference_percentage_points": 20.18348623853212
+            },
+            {
+              "question_id": "Q259",
+              "baseline_total_score": 27,
+              "web_search_total_score": 39,
+              "max_possible_score": 87,
+              "rubric_item_count": 13,
+              "baseline_percentage": 31.03448275862069,
+              "web_search_percentage": 44.827586206896555,
+              "difference_percentage_points": 13.793103448275865
+            },
+            {
+              "question_id": "Q264",
+              "baseline_total_score": 52,
+              "web_search_total_score": 59,
+              "max_possible_score": 80,
+              "rubric_item_count": 13,
+              "baseline_percentage": 65.0,
+              "web_search_percentage": 73.75,
+              "difference_percentage_points": 8.75
+            },
+            {
+              "question_id": "Q276",
+              "baseline_total_score": 32,
+              "web_search_total_score": 37,
+              "max_possible_score": 93,
+              "rubric_item_count": 16,
+              "baseline_percentage": 34.40860215053763,
+              "web_search_percentage": 39.784946236559136,
+              "difference_percentage_points": 5.376344086021504
+            },
+            {
+              "question_id": "Q279",
+              "baseline_total_score": 64,
+              "web_search_total_score": 51,
+              "max_possible_score": 84,
+              "rubric_item_count": 13,
+              "baseline_percentage": 76.19047619047619,
+              "web_search_percentage": 60.714285714285715,
+              "difference_percentage_points": -15.476190476190474
+            }
+          ]
+        },
+        {
+          "response_model": "gemini-2.5-pro",
+          "display_name": "Gemini-2.5 Pro",
+          "n_pairs": 40,
+          "mean_baseline_percentage": 69.30633533039138,
+          "mean_web_search_percentage": 62.9639338890661,
+          "mean_difference_percentage_points": -6.342401441325281,
+          "t_statistic": -2.5903620897269213,
+          "degrees_of_freedom": 39,
+          "p_value_two_sided_unadjusted": 0.013414343272621051,
+          "significant_at_0_05_unadjusted": true,
+          "pairs": [
+            {
+              "question_id": "Q58",
+              "baseline_total_score": 73,
+              "web_search_total_score": 48,
+              "max_possible_score": 101,
+              "rubric_item_count": 17,
+              "baseline_percentage": 72.27722772277228,
+              "web_search_percentage": 47.524752475247524,
+              "difference_percentage_points": -24.752475247524757
+            },
+            {
+              "question_id": "Q102",
+              "baseline_total_score": 25,
+              "web_search_total_score": 20,
+              "max_possible_score": 51,
+              "rubric_item_count": 11,
+              "baseline_percentage": 49.01960784313726,
+              "web_search_percentage": 39.21568627450981,
+              "difference_percentage_points": -9.803921568627452
+            },
+            {
+              "question_id": "Q113",
+              "baseline_total_score": 20,
+              "web_search_total_score": 30,
+              "max_possible_score": 53,
+              "rubric_item_count": 10,
+              "baseline_percentage": 37.735849056603776,
+              "web_search_percentage": 56.60377358490566,
+              "difference_percentage_points": 18.867924528301884
+            },
+            {
+              "question_id": "Q116",
+              "baseline_total_score": 33,
+              "web_search_total_score": 28,
+              "max_possible_score": 52,
+              "rubric_item_count": 11,
+              "baseline_percentage": 63.46153846153846,
+              "web_search_percentage": 53.84615384615385,
+              "difference_percentage_points": -9.615384615384613
+            },
+            {
+              "question_id": "Q122",
+              "baseline_total_score": 40,
+              "web_search_total_score": 38,
+              "max_possible_score": 53,
+              "rubric_item_count": 13,
+              "baseline_percentage": 75.47169811320755,
+              "web_search_percentage": 71.69811320754717,
+              "difference_percentage_points": -3.7735849056603854
+            },
+            {
+              "question_id": "Q171",
+              "baseline_total_score": 63,
+              "web_search_total_score": 33,
+              "max_possible_score": 95,
+              "rubric_item_count": 14,
+              "baseline_percentage": 66.3157894736842,
+              "web_search_percentage": 34.73684210526316,
+              "difference_percentage_points": -31.578947368421048
+            },
+            {
+              "question_id": "Q173",
+              "baseline_total_score": 42,
+              "web_search_total_score": 30,
+              "max_possible_score": 81,
+              "rubric_item_count": 12,
+              "baseline_percentage": 51.851851851851855,
+              "web_search_percentage": 37.03703703703704,
+              "difference_percentage_points": -14.814814814814817
+            },
+            {
+              "question_id": "Q178",
+              "baseline_total_score": 72,
+              "web_search_total_score": 47,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 92.3076923076923,
+              "web_search_percentage": 60.256410256410255,
+              "difference_percentage_points": -32.05128205128205
+            },
+            {
+              "question_id": "Q179",
+              "baseline_total_score": 68,
+              "web_search_total_score": 28,
+              "max_possible_score": 100,
+              "rubric_item_count": 15,
+              "baseline_percentage": 68.0,
+              "web_search_percentage": 28.0,
+              "difference_percentage_points": -40.0
+            },
+            {
+              "question_id": "Q180",
+              "baseline_total_score": 23,
+              "web_search_total_score": 18,
+              "max_possible_score": 47,
+              "rubric_item_count": 10,
+              "baseline_percentage": 48.93617021276596,
+              "web_search_percentage": 38.297872340425535,
+              "difference_percentage_points": -10.638297872340424
+            },
+            {
+              "question_id": "Q181",
+              "baseline_total_score": 45,
+              "web_search_total_score": 45,
+              "max_possible_score": 83,
+              "rubric_item_count": 14,
+              "baseline_percentage": 54.21686746987952,
+              "web_search_percentage": 54.21686746987952,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q184",
+              "baseline_total_score": 45,
+              "web_search_total_score": 42,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 57.69230769230769,
+              "web_search_percentage": 53.84615384615385,
+              "difference_percentage_points": -3.8461538461538467
+            },
+            {
+              "question_id": "Q185",
+              "baseline_total_score": 61,
+              "web_search_total_score": 61,
+              "max_possible_score": 66,
+              "rubric_item_count": 9,
+              "baseline_percentage": 92.42424242424242,
+              "web_search_percentage": 92.42424242424242,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q187",
+              "baseline_total_score": 41,
+              "web_search_total_score": 33,
+              "max_possible_score": 44,
+              "rubric_item_count": 8,
+              "baseline_percentage": 93.18181818181819,
+              "web_search_percentage": 75.0,
+              "difference_percentage_points": -18.181818181818187
+            },
+            {
+              "question_id": "Q193",
+              "baseline_total_score": 47,
+              "web_search_total_score": 52,
+              "max_possible_score": 74,
+              "rubric_item_count": 11,
+              "baseline_percentage": 63.513513513513516,
+              "web_search_percentage": 70.27027027027027,
+              "difference_percentage_points": 6.756756756756758
+            },
+            {
+              "question_id": "Q197",
+              "baseline_total_score": 37,
+              "web_search_total_score": 31,
+              "max_possible_score": 43,
+              "rubric_item_count": 9,
+              "baseline_percentage": 86.04651162790698,
+              "web_search_percentage": 72.09302325581395,
+              "difference_percentage_points": -13.953488372093034
+            },
+            {
+              "question_id": "Q198",
+              "baseline_total_score": 48,
+              "web_search_total_score": 59,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 61.53846153846154,
+              "web_search_percentage": 75.64102564102564,
+              "difference_percentage_points": 14.102564102564095
+            },
+            {
+              "question_id": "Q199",
+              "baseline_total_score": 79,
+              "web_search_total_score": 72,
+              "max_possible_score": 104,
+              "rubric_item_count": 16,
+              "baseline_percentage": 75.96153846153847,
+              "web_search_percentage": 69.23076923076923,
+              "difference_percentage_points": -6.730769230769241
+            },
+            {
+              "question_id": "Q202",
+              "baseline_total_score": 46,
+              "web_search_total_score": 31,
+              "max_possible_score": 61,
+              "rubric_item_count": 10,
+              "baseline_percentage": 75.40983606557377,
+              "web_search_percentage": 50.81967213114754,
+              "difference_percentage_points": -24.59016393442623
+            },
+            {
+              "question_id": "Q203",
+              "baseline_total_score": 85,
+              "web_search_total_score": 95,
+              "max_possible_score": 113,
+              "rubric_item_count": 15,
+              "baseline_percentage": 75.22123893805309,
+              "web_search_percentage": 84.070796460177,
+              "difference_percentage_points": 8.849557522123902
+            },
+            {
+              "question_id": "Q206",
+              "baseline_total_score": 74,
+              "web_search_total_score": 57,
+              "max_possible_score": 90,
+              "rubric_item_count": 12,
+              "baseline_percentage": 82.22222222222223,
+              "web_search_percentage": 63.333333333333336,
+              "difference_percentage_points": -18.888888888888893
+            },
+            {
+              "question_id": "Q207",
+              "baseline_total_score": 27,
+              "web_search_total_score": 42,
+              "max_possible_score": 89,
+              "rubric_item_count": 14,
+              "baseline_percentage": 30.337078651685392,
+              "web_search_percentage": 47.19101123595506,
+              "difference_percentage_points": 16.853932584269668
+            },
+            {
+              "question_id": "Q212",
+              "baseline_total_score": 66,
+              "web_search_total_score": 40,
+              "max_possible_score": 88,
+              "rubric_item_count": 12,
+              "baseline_percentage": 75.0,
+              "web_search_percentage": 45.45454545454545,
+              "difference_percentage_points": -29.545454545454547
+            },
+            {
+              "question_id": "Q219",
+              "baseline_total_score": 35,
+              "web_search_total_score": 50,
+              "max_possible_score": 52,
+              "rubric_item_count": 10,
+              "baseline_percentage": 67.3076923076923,
+              "web_search_percentage": 96.15384615384616,
+              "difference_percentage_points": 28.846153846153854
+            },
+            {
+              "question_id": "Q223",
+              "baseline_total_score": 43,
+              "web_search_total_score": 40,
+              "max_possible_score": 54,
+              "rubric_item_count": 11,
+              "baseline_percentage": 79.62962962962963,
+              "web_search_percentage": 74.07407407407408,
+              "difference_percentage_points": -5.555555555555557
+            },
+            {
+              "question_id": "Q226",
+              "baseline_total_score": 29,
+              "web_search_total_score": 36,
+              "max_possible_score": 56,
+              "rubric_item_count": 10,
+              "baseline_percentage": 51.785714285714285,
+              "web_search_percentage": 64.28571428571429,
+              "difference_percentage_points": 12.500000000000007
+            },
+            {
+              "question_id": "Q227",
+              "baseline_total_score": 68,
+              "web_search_total_score": 51,
+              "max_possible_score": 100,
+              "rubric_item_count": 15,
+              "baseline_percentage": 68.0,
+              "web_search_percentage": 51.0,
+              "difference_percentage_points": -17.0
+            },
+            {
+              "question_id": "Q229",
+              "baseline_total_score": 78,
+              "web_search_total_score": 72,
+              "max_possible_score": 110,
+              "rubric_item_count": 18,
+              "baseline_percentage": 70.9090909090909,
+              "web_search_percentage": 65.45454545454545,
+              "difference_percentage_points": -5.454545454545453
+            },
+            {
+              "question_id": "Q237",
+              "baseline_total_score": 69,
+              "web_search_total_score": 50,
+              "max_possible_score": 91,
+              "rubric_item_count": 14,
+              "baseline_percentage": 75.82417582417582,
+              "web_search_percentage": 54.94505494505494,
+              "difference_percentage_points": -20.879120879120883
+            },
+            {
+              "question_id": "Q239",
+              "baseline_total_score": 78,
+              "web_search_total_score": 88,
+              "max_possible_score": 103,
+              "rubric_item_count": 17,
+              "baseline_percentage": 75.72815533980582,
+              "web_search_percentage": 85.4368932038835,
+              "difference_percentage_points": 9.708737864077676
+            },
+            {
+              "question_id": "Q241",
+              "baseline_total_score": 42,
+              "web_search_total_score": 47,
+              "max_possible_score": 67,
+              "rubric_item_count": 10,
+              "baseline_percentage": 62.6865671641791,
+              "web_search_percentage": 70.14925373134328,
+              "difference_percentage_points": 7.462686567164177
+            },
+            {
+              "question_id": "Q242",
+              "baseline_total_score": 76,
+              "web_search_total_score": 71,
+              "max_possible_score": 83,
+              "rubric_item_count": 11,
+              "baseline_percentage": 91.56626506024097,
+              "web_search_percentage": 85.5421686746988,
+              "difference_percentage_points": -6.024096385542165
+            },
+            {
+              "question_id": "Q244",
+              "baseline_total_score": 69,
+              "web_search_total_score": 69,
+              "max_possible_score": 89,
+              "rubric_item_count": 14,
+              "baseline_percentage": 77.52808988764045,
+              "web_search_percentage": 77.52808988764045,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q252",
+              "baseline_total_score": 71,
+              "web_search_total_score": 61,
+              "max_possible_score": 88,
+              "rubric_item_count": 15,
+              "baseline_percentage": 80.68181818181819,
+              "web_search_percentage": 69.31818181818181,
+              "difference_percentage_points": -11.363636363636374
+            },
+            {
+              "question_id": "Q253",
+              "baseline_total_score": 92,
+              "web_search_total_score": 92,
+              "max_possible_score": 126,
+              "rubric_item_count": 16,
+              "baseline_percentage": 73.01587301587301,
+              "web_search_percentage": 73.01587301587301,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q255",
+              "baseline_total_score": 76,
+              "web_search_total_score": 74,
+              "max_possible_score": 109,
+              "rubric_item_count": 14,
+              "baseline_percentage": 69.72477064220183,
+              "web_search_percentage": 67.88990825688073,
+              "difference_percentage_points": -1.8348623853211024
+            },
+            {
+              "question_id": "Q259",
+              "baseline_total_score": 62,
+              "web_search_total_score": 47,
+              "max_possible_score": 87,
+              "rubric_item_count": 13,
+              "baseline_percentage": 71.26436781609195,
+              "web_search_percentage": 54.02298850574713,
+              "difference_percentage_points": -17.24137931034482
+            },
+            {
+              "question_id": "Q264",
+              "baseline_total_score": 55,
+              "web_search_total_score": 52,
+              "max_possible_score": 80,
+              "rubric_item_count": 13,
+              "baseline_percentage": 68.75,
+              "web_search_percentage": 65.0,
+              "difference_percentage_points": -3.75
+            },
+            {
+              "question_id": "Q276",
+              "baseline_total_score": 48,
+              "web_search_total_score": 63,
+              "max_possible_score": 93,
+              "rubric_item_count": 16,
+              "baseline_percentage": 51.61290322580645,
+              "web_search_percentage": 67.74193548387096,
+              "difference_percentage_points": 16.129032258064512
+            },
+            {
+              "question_id": "Q279",
+              "baseline_total_score": 74,
+              "web_search_total_score": 64,
+              "max_possible_score": 84,
+              "rubric_item_count": 13,
+              "baseline_percentage": 88.0952380952381,
+              "web_search_percentage": 76.19047619047619,
+              "difference_percentage_points": -11.904761904761912
+            }
+          ]
+        },
+        {
+          "response_model": "gpt-5",
+          "display_name": "GPT-5",
+          "n_pairs": 40,
+          "mean_baseline_percentage": 72.26025551877895,
+          "mean_web_search_percentage": 71.7965118736469,
+          "mean_difference_percentage_points": -0.4637436451320413,
+          "t_statistic": -0.18936856559352205,
+          "degrees_of_freedom": 39,
+          "p_value_two_sided_unadjusted": 0.8507860785230201,
+          "significant_at_0_05_unadjusted": false,
+          "pairs": [
+            {
+              "question_id": "Q58",
+              "baseline_total_score": 83,
+              "web_search_total_score": 86,
+              "max_possible_score": 101,
+              "rubric_item_count": 17,
+              "baseline_percentage": 82.17821782178218,
+              "web_search_percentage": 85.14851485148515,
+              "difference_percentage_points": 2.9702970297029623
+            },
+            {
+              "question_id": "Q102",
+              "baseline_total_score": 30,
+              "web_search_total_score": 45,
+              "max_possible_score": 51,
+              "rubric_item_count": 11,
+              "baseline_percentage": 58.8235294117647,
+              "web_search_percentage": 88.23529411764706,
+              "difference_percentage_points": 29.411764705882355
+            },
+            {
+              "question_id": "Q113",
+              "baseline_total_score": 25,
+              "web_search_total_score": 35,
+              "max_possible_score": 53,
+              "rubric_item_count": 10,
+              "baseline_percentage": 47.16981132075472,
+              "web_search_percentage": 66.0377358490566,
+              "difference_percentage_points": 18.867924528301884
+            },
+            {
+              "question_id": "Q116",
+              "baseline_total_score": 37,
+              "web_search_total_score": 39,
+              "max_possible_score": 52,
+              "rubric_item_count": 11,
+              "baseline_percentage": 71.15384615384616,
+              "web_search_percentage": 75.0,
+              "difference_percentage_points": 3.8461538461538396
+            },
+            {
+              "question_id": "Q122",
+              "baseline_total_score": 35,
+              "web_search_total_score": 26,
+              "max_possible_score": 53,
+              "rubric_item_count": 13,
+              "baseline_percentage": 66.0377358490566,
+              "web_search_percentage": 49.056603773584904,
+              "difference_percentage_points": -16.9811320754717
+            },
+            {
+              "question_id": "Q171",
+              "baseline_total_score": 68,
+              "web_search_total_score": 35,
+              "max_possible_score": 95,
+              "rubric_item_count": 14,
+              "baseline_percentage": 71.57894736842105,
+              "web_search_percentage": 36.8421052631579,
+              "difference_percentage_points": -34.73684210526316
+            },
+            {
+              "question_id": "Q173",
+              "baseline_total_score": 45,
+              "web_search_total_score": 45,
+              "max_possible_score": 81,
+              "rubric_item_count": 12,
+              "baseline_percentage": 55.55555555555556,
+              "web_search_percentage": 55.55555555555556,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q178",
+              "baseline_total_score": 72,
+              "web_search_total_score": 70,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 92.3076923076923,
+              "web_search_percentage": 89.74358974358974,
+              "difference_percentage_points": -2.564102564102569
+            },
+            {
+              "question_id": "Q179",
+              "baseline_total_score": 57,
+              "web_search_total_score": 62,
+              "max_possible_score": 100,
+              "rubric_item_count": 15,
+              "baseline_percentage": 57.0,
+              "web_search_percentage": 62.0,
+              "difference_percentage_points": 5.0
+            },
+            {
+              "question_id": "Q180",
+              "baseline_total_score": 21,
+              "web_search_total_score": 21,
+              "max_possible_score": 47,
+              "rubric_item_count": 10,
+              "baseline_percentage": 44.680851063829785,
+              "web_search_percentage": 44.680851063829785,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q181",
+              "baseline_total_score": 47,
+              "web_search_total_score": 47,
+              "max_possible_score": 83,
+              "rubric_item_count": 14,
+              "baseline_percentage": 56.626506024096386,
+              "web_search_percentage": 56.626506024096386,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q184",
+              "baseline_total_score": 63,
+              "web_search_total_score": 58,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 80.76923076923077,
+              "web_search_percentage": 74.35897435897436,
+              "difference_percentage_points": -6.410256410256409
+            },
+            {
+              "question_id": "Q185",
+              "baseline_total_score": 56,
+              "web_search_total_score": 61,
+              "max_possible_score": 66,
+              "rubric_item_count": 9,
+              "baseline_percentage": 84.84848484848484,
+              "web_search_percentage": 92.42424242424242,
+              "difference_percentage_points": 7.575757575757578
+            },
+            {
+              "question_id": "Q187",
+              "baseline_total_score": 41,
+              "web_search_total_score": 41,
+              "max_possible_score": 44,
+              "rubric_item_count": 8,
+              "baseline_percentage": 93.18181818181819,
+              "web_search_percentage": 93.18181818181819,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q193",
+              "baseline_total_score": 47,
+              "web_search_total_score": 54,
+              "max_possible_score": 74,
+              "rubric_item_count": 11,
+              "baseline_percentage": 63.513513513513516,
+              "web_search_percentage": 72.97297297297297,
+              "difference_percentage_points": 9.459459459459453
+            },
+            {
+              "question_id": "Q197",
+              "baseline_total_score": 34,
+              "web_search_total_score": 40,
+              "max_possible_score": 43,
+              "rubric_item_count": 9,
+              "baseline_percentage": 79.06976744186046,
+              "web_search_percentage": 93.02325581395348,
+              "difference_percentage_points": 13.95348837209302
+            },
+            {
+              "question_id": "Q198",
+              "baseline_total_score": 65,
+              "web_search_total_score": 66,
+              "max_possible_score": 78,
+              "rubric_item_count": 12,
+              "baseline_percentage": 83.33333333333333,
+              "web_search_percentage": 84.61538461538461,
+              "difference_percentage_points": 1.2820512820512846
+            },
+            {
+              "question_id": "Q199",
+              "baseline_total_score": 79,
+              "web_search_total_score": 79,
+              "max_possible_score": 104,
+              "rubric_item_count": 16,
+              "baseline_percentage": 75.96153846153847,
+              "web_search_percentage": 75.96153846153847,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q202",
+              "baseline_total_score": 43,
+              "web_search_total_score": 38,
+              "max_possible_score": 61,
+              "rubric_item_count": 10,
+              "baseline_percentage": 70.49180327868852,
+              "web_search_percentage": 62.295081967213115,
+              "difference_percentage_points": -8.196721311475407
+            },
+            {
+              "question_id": "Q203",
+              "baseline_total_score": 110,
+              "web_search_total_score": 105,
+              "max_possible_score": 113,
+              "rubric_item_count": 15,
+              "baseline_percentage": 97.34513274336283,
+              "web_search_percentage": 92.92035398230088,
+              "difference_percentage_points": -4.424778761061944
+            },
+            {
+              "question_id": "Q206",
+              "baseline_total_score": 82,
+              "web_search_total_score": 80,
+              "max_possible_score": 90,
+              "rubric_item_count": 12,
+              "baseline_percentage": 91.11111111111111,
+              "web_search_percentage": 88.88888888888889,
+              "difference_percentage_points": -2.2222222222222285
+            },
+            {
+              "question_id": "Q207",
+              "baseline_total_score": 54,
+              "web_search_total_score": 39,
+              "max_possible_score": 89,
+              "rubric_item_count": 14,
+              "baseline_percentage": 60.674157303370784,
+              "web_search_percentage": 43.82022471910113,
+              "difference_percentage_points": -16.853932584269657
+            },
+            {
+              "question_id": "Q212",
+              "baseline_total_score": 83,
+              "web_search_total_score": 78,
+              "max_possible_score": 88,
+              "rubric_item_count": 12,
+              "baseline_percentage": 94.31818181818181,
+              "web_search_percentage": 88.63636363636364,
+              "difference_percentage_points": -5.681818181818173
+            },
+            {
+              "question_id": "Q219",
+              "baseline_total_score": 25,
+              "web_search_total_score": 50,
+              "max_possible_score": 52,
+              "rubric_item_count": 10,
+              "baseline_percentage": 48.07692307692308,
+              "web_search_percentage": 96.15384615384616,
+              "difference_percentage_points": 48.07692307692308
+            },
+            {
+              "question_id": "Q223",
+              "baseline_total_score": 20,
+              "web_search_total_score": 17,
+              "max_possible_score": 54,
+              "rubric_item_count": 11,
+              "baseline_percentage": 37.03703703703704,
+              "web_search_percentage": 31.48148148148148,
+              "difference_percentage_points": -5.555555555555557
+            },
+            {
+              "question_id": "Q226",
+              "baseline_total_score": 43,
+              "web_search_total_score": 53,
+              "max_possible_score": 56,
+              "rubric_item_count": 10,
+              "baseline_percentage": 76.78571428571429,
+              "web_search_percentage": 94.64285714285714,
+              "difference_percentage_points": 17.857142857142847
+            },
+            {
+              "question_id": "Q227",
+              "baseline_total_score": 61,
+              "web_search_total_score": 48,
+              "max_possible_score": 100,
+              "rubric_item_count": 15,
+              "baseline_percentage": 61.0,
+              "web_search_percentage": 48.0,
+              "difference_percentage_points": -13.0
+            },
+            {
+              "question_id": "Q229",
+              "baseline_total_score": 45,
+              "web_search_total_score": 60,
+              "max_possible_score": 110,
+              "rubric_item_count": 18,
+              "baseline_percentage": 40.90909090909091,
+              "web_search_percentage": 54.54545454545455,
+              "difference_percentage_points": 13.63636363636364
+            },
+            {
+              "question_id": "Q237",
+              "baseline_total_score": 67,
+              "web_search_total_score": 69,
+              "max_possible_score": 91,
+              "rubric_item_count": 14,
+              "baseline_percentage": 73.62637362637362,
+              "web_search_percentage": 75.82417582417582,
+              "difference_percentage_points": 2.197802197802204
+            },
+            {
+              "question_id": "Q239",
+              "baseline_total_score": 83,
+              "web_search_total_score": 91,
+              "max_possible_score": 103,
+              "rubric_item_count": 17,
+              "baseline_percentage": 80.58252427184466,
+              "web_search_percentage": 88.3495145631068,
+              "difference_percentage_points": 7.7669902912621325
+            },
+            {
+              "question_id": "Q241",
+              "baseline_total_score": 57,
+              "web_search_total_score": 57,
+              "max_possible_score": 67,
+              "rubric_item_count": 10,
+              "baseline_percentage": 85.07462686567165,
+              "web_search_percentage": 85.07462686567165,
+              "difference_percentage_points": 0.0
+            },
+            {
+              "question_id": "Q242",
+              "baseline_total_score": 76,
+              "web_search_total_score": 71,
+              "max_possible_score": 83,
+              "rubric_item_count": 11,
+              "baseline_percentage": 91.56626506024097,
+              "web_search_percentage": 85.5421686746988,
+              "difference_percentage_points": -6.024096385542165
+            },
+            {
+              "question_id": "Q244",
+              "baseline_total_score": 79,
+              "web_search_total_score": 67,
+              "max_possible_score": 89,
+              "rubric_item_count": 14,
+              "baseline_percentage": 88.76404494382022,
+              "web_search_percentage": 75.28089887640449,
+              "difference_percentage_points": -13.483146067415731
+            },
+            {
+              "question_id": "Q252",
+              "baseline_total_score": 48,
+              "web_search_total_score": 56,
+              "max_possible_score": 88,
+              "rubric_item_count": 15,
+              "baseline_percentage": 54.54545454545455,
+              "web_search_percentage": 63.63636363636363,
+              "difference_percentage_points": 9.090909090909086
+            },
+            {
+              "question_id": "Q253",
+              "baseline_total_score": 104,
+              "web_search_total_score": 47,
+              "max_possible_score": 126,
+              "rubric_item_count": 16,
+              "baseline_percentage": 82.53968253968254,
+              "web_search_percentage": 37.301587301587304,
+              "difference_percentage_points": -45.23809523809524
+            },
+            {
+              "question_id": "Q255",
+              "baseline_total_score": 81,
+              "web_search_total_score": 86,
+              "max_possible_score": 109,
+              "rubric_item_count": 14,
+              "baseline_percentage": 74.31192660550458,
+              "web_search_percentage": 78.89908256880734,
+              "difference_percentage_points": 4.587155963302763
+            },
+            {
+              "question_id": "Q259",
+              "baseline_total_score": 57,
+              "web_search_total_score": 49,
+              "max_possible_score": 87,
+              "rubric_item_count": 13,
+              "baseline_percentage": 65.51724137931035,
+              "web_search_percentage": 56.32183908045977,
+              "difference_percentage_points": -9.195402298850581
+            },
+            {
+              "question_id": "Q264",
+              "baseline_total_score": 60,
+              "web_search_total_score": 59,
+              "max_possible_score": 80,
+              "rubric_item_count": 13,
+              "baseline_percentage": 75.0,
+              "web_search_percentage": 73.75,
+              "difference_percentage_points": -1.25
+            },
+            {
+              "question_id": "Q276",
+              "baseline_total_score": 83,
+              "web_search_total_score": 70,
+              "max_possible_score": 93,
+              "rubric_item_count": 16,
+              "baseline_percentage": 89.24731182795699,
+              "web_search_percentage": 75.26881720430107,
+              "difference_percentage_points": -13.97849462365592
+            },
+            {
+              "question_id": "Q279",
+              "baseline_total_score": 74,
+              "web_search_total_score": 67,
+              "max_possible_score": 84,
+              "rubric_item_count": 13,
+              "baseline_percentage": 88.0952380952381,
+              "web_search_percentage": 79.76190476190476,
+              "difference_percentage_points": -8.333333333333343
+            }
+          ]
+        }
+      ]
+    },
+    "figure4d_citation_audit_results.json": {
+      "models": [
+        {
+          "response_model": "gpt5",
+          "display_name": "GPT-5",
+          "metrics": {
+            "Web-search triggering rate": {
+              "numerator": 32,
+              "denominator": 40,
+              "percentage": 80.0
+            },
+            "Reference-criterion success rate": {
+              "numerator": 30,
+              "denominator": 44,
+              "percentage": 68.18181818181819
+            },
+            "Question-relevant supportive links (evaluable links)": {
+              "numerator": 76,
+              "denominator": 110,
+              "percentage": 69.0909090909091
+            },
+            "Evaluable-link coverage": {
+              "numerator": 110,
+              "denominator": 324,
+              "percentage": 33.95061728395062
+            },
+            "Confirmed supportive links (all links)": {
+              "numerator": 76,
+              "denominator": 324,
+              "percentage": 23.45679012345679
+            }
+          },
+          "link_counts": {
+            "supported": 76,
+            "not_supported": 34,
+            "unresolved": 214
+          },
+          "all_links": 324,
+          "responses_with_links": 32,
+          "secondary_reference_success_conditional_on_search": {
+            "numerator": 30,
+            "denominator": 36,
+            "percentage": 83.33333333333333
+          },
+          "details": [
+            {
+              "question_id": "Q58",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q102",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 2,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q113",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 11
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q116",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 8,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 5
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q122",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 10,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q171",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 3,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 1,
+                "unresolved": 11
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q173",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 2,
+                  "met": true
+                },
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q178",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 3
+              },
+              "pilot_reused": true
+            },
+            {
+              "question_id": "Q179",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q180",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 9,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q181",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 10
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q184",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q185",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 1,
+                "unresolved": 5
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q187",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q193",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 2,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q197",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                },
+                {
+                  "item_number": 8,
+                  "met": false
+                },
+                {
+                  "item_number": 9,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 7,
+                "not_supported": 1,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q198",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                },
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 10
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q199",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 4,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q202",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 1,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q203",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 8,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 1,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q206",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": true
+            },
+            {
+              "question_id": "Q207",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 1,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q212",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q219",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 1,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q223",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 3,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 2,
+                "unresolved": 10
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q226",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 1,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q227",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 15,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 3,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q229",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 13,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 5
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q237",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q239",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 13,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 2,
+                "unresolved": 9
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q241",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 1,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q242",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q244",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q252",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 1,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q253",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 1,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q255",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 12,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q259",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q264",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 2,
+                "unresolved": 9
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q276",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 4,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q279",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 12,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 2,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            }
+          ]
+        },
+        {
+          "response_model": "claude-sonnet-4-5-20250929",
+          "display_name": "Claude Sonnet 4.5",
+          "metrics": {
+            "Web-search triggering rate": {
+              "numerator": 36,
+              "denominator": 40,
+              "percentage": 90.0
+            },
+            "Reference-criterion success rate": {
+              "numerator": 21,
+              "denominator": 44,
+              "percentage": 47.72727272727273
+            },
+            "Question-relevant supportive links (evaluable links)": {
+              "numerator": 59,
+              "denominator": 62,
+              "percentage": 95.16129032258064
+            },
+            "Evaluable-link coverage": {
+              "numerator": 62,
+              "denominator": 93,
+              "percentage": 66.66666666666667
+            },
+            "Confirmed supportive links (all links)": {
+              "numerator": 59,
+              "denominator": 93,
+              "percentage": 63.44086021505376
+            }
+          },
+          "link_counts": {
+            "supported": 59,
+            "not_supported": 3,
+            "unresolved": 31
+          },
+          "all_links": 93,
+          "responses_with_links": 32,
+          "secondary_reference_success_conditional_on_search": {
+            "numerator": 21,
+            "denominator": 40,
+            "percentage": 52.5
+          },
+          "details": [
+            {
+              "question_id": "Q58",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 1,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q102",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 1,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q113",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q116",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 8,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q122",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 10,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 1,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q171",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 3,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q173",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 2,
+                  "met": true
+                },
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q178",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": true
+            },
+            {
+              "question_id": "Q179",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q180",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 9,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q181",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q184",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q185",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q187",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q193",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q197",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                },
+                {
+                  "item_number": 8,
+                  "met": false
+                },
+                {
+                  "item_number": 9,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q198",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                },
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q199",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q202",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q203",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 8,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q206",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 4
+              },
+              "pilot_reused": true
+            },
+            {
+              "question_id": "Q207",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q212",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q219",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q223",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 3,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q226",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q227",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 15,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q229",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 13,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q237",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q239",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 13,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q241",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q242",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q244",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q252",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q253",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q255",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 12,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q259",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q264",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q276",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q279",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 12,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 1,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            }
+          ]
+        },
+        {
+          "response_model": "gemini-2.5-pro",
+          "display_name": "Gemini 2.5 Pro",
+          "metrics": {
+            "Web-search triggering rate": {
+              "numerator": 38,
+              "denominator": 40,
+              "percentage": 95.0
+            },
+            "Reference-criterion success rate": {
+              "numerator": 31,
+              "denominator": 44,
+              "percentage": 70.45454545454545
+            },
+            "Question-relevant supportive links (evaluable links)": {
+              "numerator": 231,
+              "denominator": 260,
+              "percentage": 88.84615384615384
+            },
+            "Evaluable-link coverage": {
+              "numerator": 260,
+              "denominator": 435,
+              "percentage": 59.770114942528735
+            },
+            "Confirmed supportive links (all links)": {
+              "numerator": 231,
+              "denominator": 435,
+              "percentage": 53.10344827586207
+            }
+          },
+          "link_counts": {
+            "supported": 231,
+            "not_supported": 29,
+            "unresolved": 175
+          },
+          "all_links": 435,
+          "responses_with_links": 38,
+          "secondary_reference_success_conditional_on_search": {
+            "numerator": 31,
+            "denominator": 42,
+            "percentage": 73.80952380952381
+          },
+          "details": [
+            {
+              "question_id": "Q58",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 13,
+                "not_supported": 2,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q102",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q113",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 1,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q116",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 8,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 2,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q122",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 7,
+                "not_supported": 0,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q171",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 3,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 2,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q173",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 2,
+                  "met": true
+                },
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 2,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q178",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 5
+              },
+              "pilot_reused": true
+            },
+            {
+              "question_id": "Q179",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q180",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 9,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q181",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q184",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q185",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q187",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 12,
+                "not_supported": 0,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q193",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 5,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q197",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": true
+                },
+                {
+                  "item_number": 8,
+                  "met": false
+                },
+                {
+                  "item_number": 9,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 2,
+                "not_supported": 0,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q198",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                },
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 7,
+                "not_supported": 2,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q199",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 8,
+                "not_supported": 0,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q202",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 2,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q203",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 8,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 13,
+                "not_supported": 0,
+                "unresolved": 10
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q206",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": true
+            },
+            {
+              "question_id": "Q207",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 2
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q212",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 0,
+                "unresolved": 5
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q219",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 6,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 7,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q223",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 3,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q226",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 7,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q227",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 15,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 3,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q229",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 13,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 15,
+                "not_supported": 0,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q237",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 13,
+                "not_supported": 2,
+                "unresolved": 3
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q239",
+              "search_triggered": false,
+              "reference_criteria": [
+                {
+                  "item_number": 13,
+                  "met": false
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 0
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q241",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 10,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q242",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 0,
+                "unresolved": 5
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q244",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 9,
+                "not_supported": 0,
+                "unresolved": 5
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q252",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 1,
+                "unresolved": 4
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q253",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 6,
+                "not_supported": 1,
+                "unresolved": 10
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q255",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 12,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 14,
+                "not_supported": 0,
+                "unresolved": 8
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q259",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 5,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 4,
+                "not_supported": 2,
+                "unresolved": 7
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q264",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 4,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 0,
+                "not_supported": 0,
+                "unresolved": 1
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q276",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 7,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 3,
+                "not_supported": 2,
+                "unresolved": 10
+              },
+              "pilot_reused": false
+            },
+            {
+              "question_id": "Q279",
+              "search_triggered": true,
+              "reference_criteria": [
+                {
+                  "item_number": 12,
+                  "met": true
+                }
+              ],
+              "link_counts": {
+                "supported": 5,
+                "not_supported": 0,
+                "unresolved": 6
+              },
+              "pilot_reused": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "question_scores_sha256": "82156c6c869dae93bdb4b7b1bd47ca8fe8d5efff76faeed4297a17ff7a0fc91b"
+}

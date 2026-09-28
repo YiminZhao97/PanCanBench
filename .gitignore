@@ -1,5 +1,13 @@
-Data/grades/
-Data/Response/
+# Local datasets are distributed in a verified reproduction bundle.
+Data/**
+!Data/input_manifest.json
+!Data/prepare_data.py
+# Generated analysis and API outputs.
+Outputs/
+**/__pycache__/
+*.py[cod]
+.venv/
 .env
+.env.*
 .DS_Store
-
+.pytest_cache/

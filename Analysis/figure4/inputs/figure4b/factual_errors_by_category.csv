@@ -1,0 +1,152 @@
+Model,Category,Count,Total_Questions_in_Category,Percentage
+GPT_o3,Diagnosis & Screening,4,20,20.0
+GPT_o3,Genetics & Risk,5,11,45.45454545454545
+GPT_o3,Mechanistic / Research Topics,17,67,25.37313432835821
+GPT_o3,Side Effects & Symptom Management,11,53,20.754716981132077
+GPT_o3,Supportive & Palliative Care,16,79,20.253164556962027
+GPT_o3,Treatment & Clinical Trials,16,52,30.76923076923077
+GPT_o4-mini,Diagnosis & Screening,4,20,20.0
+GPT_o4-mini,Genetics & Risk,1,11,9.090909090909092
+GPT_o4-mini,Mechanistic / Research Topics,11,67,16.417910447761194
+GPT_o4-mini,Side Effects & Symptom Management,11,53,20.754716981132077
+GPT_o4-mini,Supportive & Palliative Care,11,79,13.924050632911392
+GPT_o4-mini,Treatment & Clinical Trials,9,52,17.307692307692307
+OpenEvidence,Diagnosis & Screening,7,20,35.0
+OpenEvidence,Genetics & Risk,6,11,54.54545454545454
+OpenEvidence,Mechanistic / Research Topics,15,67,22.388059701492537
+OpenEvidence,Side Effects & Symptom Management,34,53,64.15094339622641
+OpenEvidence,Supportive & Palliative Care,24,79,30.37974683544304
+OpenEvidence,Treatment & Clinical Trials,23,52,44.230769230769226
+Qwen_Qwen3-14B,Diagnosis & Screening,8,20,40.0
+Qwen_Qwen3-14B,Genetics & Risk,2,11,18.181818181818183
+Qwen_Qwen3-14B,Mechanistic / Research Topics,8,67,11.940298507462686
+Qwen_Qwen3-14B,Side Effects & Symptom Management,15,53,28.30188679245283
+Qwen_Qwen3-14B,Supportive & Palliative Care,27,79,34.177215189873415
+Qwen_Qwen3-14B,Treatment & Clinical Trials,10,52,19.230769230769234
+Qwen_Qwen3-32B,Diagnosis & Screening,4,20,20.0
+Qwen_Qwen3-32B,Genetics & Risk,3,11,27.27272727272727
+Qwen_Qwen3-32B,Mechanistic / Research Topics,13,67,19.402985074626866
+Qwen_Qwen3-32B,Side Effects & Symptom Management,7,53,13.20754716981132
+Qwen_Qwen3-32B,Supportive & Palliative Care,15,79,18.9873417721519
+Qwen_Qwen3-32B,Treatment & Clinical Trials,20,52,38.46153846153847
+Qwen_Qwen3-8B,Diagnosis & Screening,8,20,40.0
+Qwen_Qwen3-8B,Genetics & Risk,6,11,54.54545454545454
+Qwen_Qwen3-8B,Mechanistic / Research Topics,24,67,35.82089552238806
+Qwen_Qwen3-8B,Side Effects & Symptom Management,11,53,20.754716981132077
+Qwen_Qwen3-8B,Supportive & Palliative Care,17,79,21.518987341772153
+Qwen_Qwen3-8B,Treatment & Clinical Trials,22,52,42.30769230769231
+allenai_OLMo-2-0325-32B-Instruct,Diagnosis & Screening,1,20,5.0
+allenai_OLMo-2-0325-32B-Instruct,Mechanistic / Research Topics,6,67,8.955223880597014
+allenai_OLMo-2-0325-32B-Instruct,Side Effects & Symptom Management,5,53,9.433962264150944
+allenai_OLMo-2-0325-32B-Instruct,Supportive & Palliative Care,5,79,6.329113924050633
+allenai_OLMo-2-0325-32B-Instruct,Treatment & Clinical Trials,3,52,5.769230769230769
+allenai_OLMo-2-1124-13B-Instruct,Diagnosis & Screening,7,20,35.0
+allenai_OLMo-2-1124-13B-Instruct,Genetics & Risk,3,11,27.27272727272727
+allenai_OLMo-2-1124-13B-Instruct,Mechanistic / Research Topics,15,67,22.388059701492537
+allenai_OLMo-2-1124-13B-Instruct,Side Effects & Symptom Management,11,53,20.754716981132077
+allenai_OLMo-2-1124-13B-Instruct,Supportive & Palliative Care,10,79,12.658227848101266
+allenai_OLMo-2-1124-13B-Instruct,Treatment & Clinical Trials,9,52,17.307692307692307
+allenai_OLMo-2-1124-7B-Instruct,Diagnosis & Screening,12,20,60.0
+allenai_OLMo-2-1124-7B-Instruct,Genetics & Risk,4,11,36.36363636363637
+allenai_OLMo-2-1124-7B-Instruct,Mechanistic / Research Topics,22,67,32.83582089552239
+allenai_OLMo-2-1124-7B-Instruct,Side Effects & Symptom Management,15,53,28.30188679245283
+allenai_OLMo-2-1124-7B-Instruct,Supportive & Palliative Care,17,79,21.518987341772153
+allenai_OLMo-2-1124-7B-Instruct,Treatment & Clinical Trials,15,52,28.846153846153843
+allenai_olmo-3-32b-think,Diagnosis & Screening,9,20,45.0
+allenai_olmo-3-32b-think,Genetics & Risk,7,11,63.63636363636363
+allenai_olmo-3-32b-think,Mechanistic / Research Topics,30,67,44.776119402985074
+allenai_olmo-3-32b-think,Side Effects & Symptom Management,19,53,35.84905660377358
+allenai_olmo-3-32b-think,Supportive & Palliative Care,19,79,24.050632911392405
+allenai_olmo-3-32b-think,Treatment & Clinical Trials,25,52,48.07692307692308
+allenai_olmo-3.1-32b-instruct,Diagnosis & Screening,9,20,45.0
+allenai_olmo-3.1-32b-instruct,Genetics & Risk,3,11,27.27272727272727
+allenai_olmo-3.1-32b-instruct,Mechanistic / Research Topics,19,67,28.35820895522388
+allenai_olmo-3.1-32b-instruct,Side Effects & Symptom Management,15,53,28.30188679245283
+allenai_olmo-3.1-32b-instruct,Supportive & Palliative Care,16,79,20.253164556962027
+allenai_olmo-3.1-32b-instruct,Treatment & Clinical Trials,13,52,25.0
+claude-haiku-4-5,Diagnosis & Screening,6,20,30.0
+claude-haiku-4-5,Genetics & Risk,3,11,27.27272727272727
+claude-haiku-4-5,Mechanistic / Research Topics,5,67,7.462686567164178
+claude-haiku-4-5,Side Effects & Symptom Management,11,53,20.754716981132077
+claude-haiku-4-5,Supportive & Palliative Care,5,79,6.329113924050633
+claude-haiku-4-5,Treatment & Clinical Trials,10,52,19.230769230769234
+claude-opus-4,Diagnosis & Screening,5,20,25.0
+claude-opus-4,Genetics & Risk,1,11,9.090909090909092
+claude-opus-4,Mechanistic / Research Topics,7,67,10.44776119402985
+claude-opus-4,Side Effects & Symptom Management,1,53,1.8867924528301887
+claude-opus-4,Supportive & Palliative Care,4,79,5.063291139240507
+claude-opus-4,Treatment & Clinical Trials,6,52,11.538461538461538
+claude-opus-4-1-20250805,Diagnosis & Screening,5,20,25.0
+claude-opus-4-1-20250805,Genetics & Risk,2,11,18.181818181818183
+claude-opus-4-1-20250805,Mechanistic / Research Topics,5,67,7.462686567164178
+claude-opus-4-1-20250805,Side Effects & Symptom Management,3,53,5.660377358490567
+claude-opus-4-1-20250805,Supportive & Palliative Care,5,79,6.329113924050633
+claude-opus-4-1-20250805,Treatment & Clinical Trials,4,52,7.6923076923076925
+claude-sonnet-4,Diagnosis & Screening,3,20,15.0
+claude-sonnet-4,Genetics & Risk,3,11,27.27272727272727
+claude-sonnet-4,Mechanistic / Research Topics,10,67,14.925373134328357
+claude-sonnet-4,Side Effects & Symptom Management,2,53,3.7735849056603774
+claude-sonnet-4,Supportive & Palliative Care,4,79,5.063291139240507
+claude-sonnet-4,Treatment & Clinical Trials,8,52,15.384615384615385
+claude-sonnet-4-5,Diagnosis & Screening,2,20,10.0
+claude-sonnet-4-5,Genetics & Risk,3,11,27.27272727272727
+claude-sonnet-4-5,Mechanistic / Research Topics,6,67,8.955223880597014
+claude-sonnet-4-5,Side Effects & Symptom Management,5,53,9.433962264150944
+claude-sonnet-4-5,Supportive & Palliative Care,4,79,5.063291139240507
+claude-sonnet-4-5,Treatment & Clinical Trials,6,52,11.538461538461538
+gemini-2.5-flash,Diagnosis & Screening,2,20,10.0
+gemini-2.5-flash,Mechanistic / Research Topics,7,67,10.44776119402985
+gemini-2.5-flash,Side Effects & Symptom Management,5,53,9.433962264150944
+gemini-2.5-flash,Supportive & Palliative Care,4,79,5.063291139240507
+gemini-2.5-flash,Treatment & Clinical Trials,3,52,5.769230769230769
+gemini-2.5-pro,Genetics & Risk,1,11,9.090909090909092
+gemini-2.5-pro,Mechanistic / Research Topics,10,67,14.925373134328357
+gemini-2.5-pro,Side Effects & Symptom Management,1,53,1.8867924528301887
+gemini-2.5-pro,Supportive & Palliative Care,1,79,1.2658227848101267
+gemini-2.5-pro,Treatment & Clinical Trials,4,52,7.6923076923076925
+google_gemma-3-12b-it,Diagnosis & Screening,12,20,60.0
+google_gemma-3-12b-it,Genetics & Risk,6,11,54.54545454545454
+google_gemma-3-12b-it,Mechanistic / Research Topics,25,67,37.3134328358209
+google_gemma-3-12b-it,Side Effects & Symptom Management,29,53,54.71698113207547
+google_gemma-3-12b-it,Supportive & Palliative Care,17,79,21.518987341772153
+google_gemma-3-12b-it,Treatment & Clinical Trials,17,52,32.69230769230769
+google_gemma-3-27b-it,Diagnosis & Screening,8,20,40.0
+google_gemma-3-27b-it,Genetics & Risk,2,11,18.181818181818183
+google_gemma-3-27b-it,Mechanistic / Research Topics,15,67,22.388059701492537
+google_gemma-3-27b-it,Side Effects & Symptom Management,16,53,30.18867924528302
+google_gemma-3-27b-it,Supportive & Palliative Care,12,79,15.18987341772152
+google_gemma-3-27b-it,Treatment & Clinical Trials,17,52,32.69230769230769
+gpt-4_1,Diagnosis & Screening,4,20,20.0
+gpt-4_1,Genetics & Risk,1,11,9.090909090909092
+gpt-4_1,Mechanistic / Research Topics,6,67,8.955223880597014
+gpt-4_1,Side Effects & Symptom Management,3,53,5.660377358490567
+gpt-4_1,Supportive & Palliative Care,6,79,7.59493670886076
+gpt-4_1,Treatment & Clinical Trials,8,52,15.384615384615385
+gpt-4o,Diagnosis & Screening,2,20,10.0
+gpt-4o,Mechanistic / Research Topics,4,67,5.970149253731343
+gpt-4o,Side Effects & Symptom Management,3,53,5.660377358490567
+gpt-4o,Supportive & Palliative Care,5,79,6.329113924050633
+gpt-4o,Treatment & Clinical Trials,3,52,5.769230769230769
+gpt-5,Diagnosis & Screening,2,20,10.0
+gpt-5,Mechanistic / Research Topics,3,67,4.477611940298507
+gpt-5,Side Effects & Symptom Management,4,53,7.547169811320755
+gpt-5,Supportive & Palliative Care,4,79,5.063291139240507
+gpt-5,Treatment & Clinical Trials,10,52,19.230769230769234
+grok-4-latest,Diagnosis & Screening,7,20,35.0
+grok-4-latest,Genetics & Risk,4,11,36.36363636363637
+grok-4-latest,Mechanistic / Research Topics,22,67,32.83582089552239
+grok-4-latest,Side Effects & Symptom Management,14,53,26.41509433962264
+grok-4-latest,Supportive & Palliative Care,21,79,26.582278481012654
+grok-4-latest,Treatment & Clinical Trials,17,52,32.69230769230769
+meta-llama_Llama-3.1-70B-Instruct,Diagnosis & Screening,11,20,55.00000000000001
+meta-llama_Llama-3.1-70B-Instruct,Genetics & Risk,4,11,36.36363636363637
+meta-llama_Llama-3.1-70B-Instruct,Mechanistic / Research Topics,26,67,38.80597014925373
+meta-llama_Llama-3.1-70B-Instruct,Side Effects & Symptom Management,22,53,41.509433962264154
+meta-llama_Llama-3.1-70B-Instruct,Supportive & Palliative Care,22,79,27.848101265822784
+meta-llama_Llama-3.1-70B-Instruct,Treatment & Clinical Trials,19,52,36.53846153846153
+meta-llama_Llama-3.1-8B-Instruct,Diagnosis & Screening,11,20,55.00000000000001
+meta-llama_Llama-3.1-8B-Instruct,Genetics & Risk,7,11,63.63636363636363
+meta-llama_Llama-3.1-8B-Instruct,Mechanistic / Research Topics,40,67,59.70149253731343
+meta-llama_Llama-3.1-8B-Instruct,Side Effects & Symptom Management,25,53,47.16981132075472
+meta-llama_Llama-3.1-8B-Instruct,Supportive & Palliative Care,34,79,43.037974683544306
+meta-llama_Llama-3.1-8B-Instruct,Treatment & Clinical Trials,35,52,67.3076923076923
