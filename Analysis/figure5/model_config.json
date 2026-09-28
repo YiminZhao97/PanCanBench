@@ -79,103 +79,103 @@
     },
     {
       "id": "gemini-2.5-flash",
-      "label": "Gemini 2.5 Flash",
+      "label": "Gemini-2.5 Flash",
       "provider": "Google",
       "source": "gemini"
     },
     {
       "id": "gemini-2.5-pro",
-      "label": "Gemini 2.5 Pro",
+      "label": "Gemini-2.5 Pro",
       "provider": "Google",
       "source": "gemini"
     },
     {
       "id": "google_gemma-3-27b-it",
-      "label": "Gemma 3 27B IT",
+      "label": "Gemma-3-27b-it",
       "provider": "Google",
       "source": "opensource"
     },
     {
       "id": "google_gemma-3-12b-it",
-      "label": "Gemma 3 12B IT",
+      "label": "Gemma-3-12b-it",
       "provider": "Google",
       "source": "opensource"
     },
     {
       "id": "grok-4-latest",
-      "label": "Grok 4",
+      "label": "Grok-4-latest",
       "provider": "xAI",
       "source": "grok"
     },
     {
       "id": "claude-opus-4-1-20250805",
-      "label": "Claude Opus 4.1",
+      "label": "Claude-opus-4-1",
       "provider": "Anthropic",
       "source": "anthropic"
     },
     {
       "id": "claude-opus-4-20250514",
-      "label": "Claude Opus 4",
+      "label": "Claude-opus-4",
       "provider": "Anthropic",
       "source": "anthropic"
     },
     {
       "id": "claude-sonnet-4-5-20250929",
-      "label": "Claude Sonnet 4.5",
+      "label": "Claude-sonnet-4-5",
       "provider": "Anthropic",
       "source": "anthropic"
     },
     {
       "id": "claude-sonnet-4-20250514",
-      "label": "Claude Sonnet 4",
+      "label": "Claude-sonnet-4",
       "provider": "Anthropic",
       "source": "anthropic"
     },
     {
       "id": "claude-haiku-4-5-20251001",
-      "label": "Claude Haiku 4.5",
+      "label": "Claude-haiku-4-5",
       "provider": "Anthropic",
       "source": "anthropic"
     },
     {
       "id": "meta-llama_Llama-3.1-70B-Instruct",
-      "label": "Llama 3.1 70B Instruct",
+      "label": "Llama-3.1-70B-Instruct",
       "provider": "Meta",
       "source": "opensource"
     },
     {
       "id": "meta-llama_Llama-3.1-8B-Instruct",
-      "label": "Llama 3.1 8B Instruct",
+      "label": "Llama-3.1-8B-Instruct",
       "provider": "Meta",
       "source": "opensource"
     },
     {
       "id": "allenai_olmo-3-32b-think",
-      "label": "OLMo 3 32B Think",
+      "label": "olmo-3-32b-think",
       "provider": "Ai2",
       "source": "olmo3"
     },
     {
       "id": "allenai_olmo-3.1-32b-instruct",
-      "label": "OLMo 3.1 32B Instruct",
+      "label": "olmo-3.1-32b-instruct",
       "provider": "Ai2",
       "source": "olmo31"
     },
     {
       "id": "Qwen_Qwen3-32B",
-      "label": "Qwen3 32B",
+      "label": "Qwen3-32B",
       "provider": "Alibaba",
       "source": "opensource"
     },
     {
       "id": "Qwen_Qwen3-14B",
-      "label": "Qwen3 14B",
+      "label": "Qwen3-14B",
       "provider": "Alibaba",
       "source": "opensource"
     },
     {
       "id": "Qwen_Qwen3-8B",
-      "label": "Qwen3 8B",
+      "label": "Qwen3-8B",
       "provider": "Alibaba",
       "source": "opensource"
     }

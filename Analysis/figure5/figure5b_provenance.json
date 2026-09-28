@@ -37,7 +37,7 @@
   "review_note": "The saved synthetic grades include 35 unadjudicated interpretation/direction flags. No synthetic scores were manually changed for Figure 5.",
   "comparison_note": "Same response inputs and judge; rubric sets and grading prompts differ",
   "paired_question_scores_sha256": "a04eab70d7181c52fc42c6f6dd417cae8b7147d93d146b9933e27a9b4cb1d729",
-  "config_sha256": "a1f44d580f1705eeec911df5b8ca105b62b5f4895e97bddc85e625e5e367df2a",
+  "config_sha256": "95359f7a67ebdf85aafb13ab67a1a5a143bbb4dd84ec684fb62a9e52e9af14d6",
   "font": "Helvetica",
   "matplotlib": "3.9.2",
   "source_code_sha256": {
@@ -48,7 +48,7 @@
     "verify_results.py": "dce7f7a9af044b0fd6a2bc74d0f9f355f6dbd0eb46865eb7281a89f6796ead58"
   },
   "outputs_sha256": {
-    "figure5b.pdf": "19928dd8bb3e61f9f7d9645e3099317016a7be4f5f81d016c46625a6a9521f26",
-    "figure5b.png": "2d9b083217b9eff06b0af609d740fbce73e9b9c5a7c8bd8c1eb57bcf79e1a8d6"
+    "figure5b.pdf": "0a3830e0e907de49da8597cb7c860765ed1ec070fabf852710358543227b20a3",
+    "figure5b.png": "0663801c351b513dad14e3bf4a0279a9b60f0154a4bcc87dfa55d968d09c4322"
   }
 }
