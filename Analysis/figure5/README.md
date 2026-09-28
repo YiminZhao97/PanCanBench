@@ -17,7 +17,7 @@ python Analysis/figure5/verify_results.py --output-dir Outputs/figure5 \
 
 Alternatively, run the two plotting scripts without arguments to save outputs alongside the scripts. This is how the materials-folder copy was generated. Omit `--figure4-summary` when Figure 4 has not been generated.
 
-Outputs are `figure5a.pdf`, `figure5a.png`, `figure5b.pdf`, `figure5b.png`, `figure5_model_summary.csv`, `rank_change_summary.csv`, and per-panel provenance JSON files. Verification produces `verification_report.json`. PDFs contain vector graphics and embedded fonts; PNGs are 300 dpi. Helvetica is used if available, otherwise DejaVu Sans.
+Outputs are `figure5a.pdf`, `figure5a.png`, `figure5b.pdf`, `figure5b.png`, `figure5_model_summary.csv`, `rank_change_summary.csv`, and per-panel provenance JSON files. Verification produces `verification_report.json`. PDFs contain vector graphics and embedded fonts; PNGs are 300 dpi. Helvetica is used if available, otherwise DejaVu Sans. Figure 5b uses DejaVu Sans as a fallback for arrow symbols missing from the primary font.
 
 ## Inputs and scoring
 
@@ -31,7 +31,7 @@ Outputs are `figure5a.pdf`, `figure5a.png`, `figure5b.pdf`, `figure5b.png`, `fig
 - Human scores include the existing Q151 item 12 negative-weight correction and match the current Figure 4a means and standard errors.
 - Standard error is sample SD (`ddof=1`) divided by `sqrt(n)`. It is not a confidence interval.
 - Figure 5a retains the original company colors, solid human bars, synthetic hatching, and descending human-mean order within each provider.
-- Figure 5b ranks the unrounded means in descending order using competition ranking (`method=min`). `rank_change = human_rank - synthetic_rank`; positive means a higher rank under synthetic rubrics.
+- Figure 5b ranks the unrounded means in descending order using competition ranking (`method=min`). `rank_change = human_rank - synthetic_rank`; positive means a higher rank under synthetic rubrics. Labels show `↑N` for an improvement of N ranks, `↓N` for a decline of N ranks, and `→` when the rank is unchanged.
 
 The saved synthetic grades retain **35 interpretation/direction flags pending adjudication**. These plots use the completed grading exports without manual synthetic-score changes. Mechanical verification does not adjudicate the clinical correctness of judge decisions. The comparison uses the same judge and response inputs, but both rubric content and judging instructions differ.
 
